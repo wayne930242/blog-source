@@ -1,6 +1,6 @@
 ---
 title: 國家應該免費給你錢？談費希特的財產權概念
-cover: 'http://wayneh.tw/img/fichte-bui.jpg'
+cover: http://wayneh.tw/img/fichte-bui.jpg
 date: 2018-12-26 16:41:51
 tags:
  - 政治哲學

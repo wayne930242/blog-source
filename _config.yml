@@ -125,7 +125,7 @@ menu:
 # Sidebar settings
 sidebar: true
 sidebar-about-description: "哲學普及者，TRPG 愛好者。"
-sidebar-avatar: avatar.jpg
+sidebar-avatar: /avatar.jpg
 
 post-default-img: "http://wayneh.tw/img/default.jpg"
 post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
