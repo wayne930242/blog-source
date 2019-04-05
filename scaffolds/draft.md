@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 tags:
-categories: 
-header-img:
+categories:
+mp3: http://wayneh.tw/mp3/
+cover: http://wayneh.tw/img/
 ---

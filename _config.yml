@@ -6,17 +6,17 @@
 title: 偉恩與咖啡
 subtitle: 洪偉的哲學部落格
 description: 一個哲學普及工作者、TRPG 推廣者所撰寫的部落格。
-keywords: 哲學, philosophy, TRPG 
+keywords: 哲學, philosophy, TRPG
 author: 洪偉 WeiHung
-language: zh
+language: zh-TW
 timezone: Asia/Taipei
 
-github_username: wayne930242 
-twitter_username: wayne930242 
+github_username: wayne930242
+twitter_username: wayne930242
 
-# archive page title 
+# archive page title
 archive:
-  title: archives
+  title: 封存
 
 # Build settings
 anchorjs: false
@@ -57,7 +57,7 @@ highlight:
   line_number: false
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -66,9 +66,9 @@ highlight:
 #   path: ''
 #   per_page: 10
 #   order_by: -date
-  
+
 # Category & Tag
-default_category: 未分類
+default_category: 其他
 category_map:
 tag_map:
 
@@ -104,31 +104,31 @@ theme: diaspora
 deploy:
   type: git
   repo: git@github.com:wayne930242/wayne930242.github.io.git
-  branch: 
-  message: 
- 
+  branch:
+  message:
+
 # Themes
-# google_analytics: 'UA-61272067-1'
-# ga_domain: wayneh.tw
-# disqus_username: waynehtw
-# favicon: http://wayneh.tw/favicon.png
-# mp3:
-#     - http://wayneh.tw/mp3/Touching_Moment.mp3
-#     - http://wayneh.tw/mp3/Dinner_for_Two.mp3 
-# featured-tags: true 
-# featured-condition-size: 1
-# rss: atom.xml
-# cover: http://wayneh.tw/img/default.jpg
-# menu:
-#  About: https://about.me/wayne930242
+google_analytics: 'UA-61272067-1'
+ga_domain: wayneh.tw
+disqus_username: waynehtw
+favicon: http://wayneh.tw/favicon.png
+mp3:
+    - http://wayneh.tw/mp3/Touching_Moment.mp3
+    - http://wayneh.tw/mp3/Dinner_for_Two.mp3
+featured-tags: true
+featured-condition-size: 1
+rss: atom.xml
+cover: http://wayneh.tw/img/default.jpg
+menu:
+ About: https://about.me/wayne930242
 
 # Sidebar settings
-# sidebar: true
-# sidebar-about-description: "哲學普及者，TRPG 愛好者。"
-# sidebar-avatar: avatar.jpg
+sidebar: true
+sidebar-about-description: "哲學普及者，TRPG 愛好者。"
+sidebar-avatar: avatar.jpg
 
-# post-default-img: "http://wayneh.tw/img/default.jpg"
-# post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
+post-default-img: "http://wayneh.tw/img/default.jpg"
+post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
 
 # Qiniu imageView2 API
 # clip-content: "?imageView2/1/w/1400/h/400/interlace/1/q/90"
@@ -136,14 +136,15 @@ deploy:
 # clip-post: "?" # you can custom post width and height
 # clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
+# MathJax config
 math:
   engine: 'mathjax' # or 'katex'
   mathjax:
     src: custom_mathjax_source
     config:
-      # MathJax config
+
+# KaTeX config
   katex:
     css: custom_css_source
     js: custom_js_source # not used
     config:
-      # KaTeX config
