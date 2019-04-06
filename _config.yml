@@ -13,6 +13,7 @@ timezone: Asia/Taipei
 
 github_username: wayne930242
 twitter_username: wayne930242
+facebook_username: wayne930242
 
 # archive page title
 archive:
@@ -121,6 +122,8 @@ rss: atom.xml
 cover: http://wayneh.tw/img/default.jpg
 menu:
  About: https://about.me/wayne930242
+ Satoyama Keepers (TTRPG):  https://trpgtw.blogspot.com/
+ 烙哲學交誼廳: http://citizenedu.tw/
 
 # Sidebar settings
 sidebar: true
