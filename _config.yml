@@ -139,9 +139,9 @@ post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
 # clip-post: "?" # you can custom post width and height
 # clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
-# MathJax config
 math:
-  engine: 'mathjax' # or 'katex'
+  engine: 'katex' # 'mathjax' or 'katex'
+# MathJax config
   mathjax:
     src: custom_mathjax_source
     config:
