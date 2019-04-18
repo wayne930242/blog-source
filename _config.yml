@@ -125,6 +125,12 @@ menu:
  Satoyama Keepers (TTRPG):  https://trpgtw.blogspot.com/
  烙哲學交誼廳: http://citizenedu.tw/
 
+# Disqus
+disqus:
+  enable: true
+  disqus_shortname: waynetwhexo
+  count: true
+
 # Sidebar settings
 sidebar: true
 sidebar-about-description: "哲學普及者，TRPG 愛好者。"
