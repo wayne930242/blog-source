@@ -4,8 +4,8 @@
 
 # Site
 title: 偉恩與咖啡
-subtitle: 洪偉的哲學部落格
-description: 一個哲學普及工作者、TRPG 推廣者所撰寫的部落格。
+subtitle: 洪偉的部落格
+description: 一個哲學普及工作者與 TRPG 推廣者的部落格。
 keywords: 哲學, philosophy, TRPG
 author: 洪偉 WeiHung
 language: zh-TW
@@ -105,8 +105,8 @@ theme: diaspora
 deploy:
   type: git
   repo: git@github.com:wayne930242/wayne930242.github.io.git
-  branch:
-  message:
+  branch: master
+  message: blog update
 
 # Themes
 google_analytics: 'UA-61272067-1'
@@ -123,8 +123,6 @@ cover: http://wayneh.tw/img/default.jpg
 menu:
  About: https://about.me/wayne930242
  烙哲學交誼廳: http://citizenedu.tw/
- Satoyama Keepers (TTRPG):  https://trpgtw.blogspot.com/
- 中毒玩家（TTRPG）: https://trpgplayers.home.blog/
 
 # Disqus
 disqus:
