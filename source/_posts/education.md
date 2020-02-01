@@ -2,7 +2,7 @@
 title: 小孩的教養除了讓大人心情好一點，還能幹嘛？
 mp3:
 cover: 'http://wayneh.tw/img/education.jpg'
-date: 2019-07-18 17:07:55
+date: 2019-07-17 17:07:55
 tags:
   - 概念反思
   - 教養
@@ -128,3 +128,9 @@ categories: 普通人的哲學
 ---
 
 > 本文首次刊登於「鳴人堂烙哲學」專欄。
+
+---
+
+如果你喜歡我的文章，想支持我，你可以：
+
+{% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}
