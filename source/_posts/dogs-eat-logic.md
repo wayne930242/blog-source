@@ -1,8 +1,8 @@
 ---
 title: 「你的邏輯被狗吃了嗎？」談普通人的邏輯學
-cover: http://wayneh.tw/img/dogs.jpg
-mp3: http://wayneh.tw/mp3/Night_Snow.mp3
-date: 2019-07-18 16:12:51
+cover: 'http://wayneh.tw/img/dogs.jpg'
+mp3: 'http://wayneh.tw/mp3/Night_Snow.mp3'
+date: 2020-02-04T17:26:44.826Z
 tags:
   - 邏輯
   - 普通人
