@@ -124,7 +124,8 @@ post-default-img: "http://wayneh.tw/img/default.jpg"
 post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
 menu:
  About: https://about.me/wayne930242
- 烙哲學交誼廳: http://citizenedu.tw/
+ 哲學: http://wayneh.tw/categories/philosophy/
+ TRPG: http://wayneh.tw/categories/TRPG/
 
 # Disqus
 disqus:

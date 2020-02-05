@@ -6,7 +6,7 @@ tags:
  - 康德
  - 形上學
 categories:
- - 普通人的哲學
+ - philosophy
 cover: http://wayneh.tw/img/cthulhu.jpeg
 mp3: http://wayneh.tw/mp3/Spirit_of_the_Dead.mp3
 ---

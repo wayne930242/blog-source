@@ -5,7 +5,7 @@ cover: 'http://wayneh.tw/img/kuhn.jpg'
 date: 2019-07-18 16:59:47
 tags:
   - 語詞誤用
-categories: 普通人的哲學
+categories: philosophy
 ---
 
 最近《關鍵評論網》上刊登了[一篇談典範轉移（paradigm shift）的文章](https://www.thenewslens.com/article/72434)，節錄了柯維（Stephen Covey）的《與成功有約：高效能人士的七個習慣》。「與成功有約」是一本勵志書，主要的宗旨看起來像是「透過一些習慣的轉變，能讓我們更容易成功」。
