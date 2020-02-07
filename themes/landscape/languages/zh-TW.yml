@@ -10,10 +10,10 @@ archive_a: 彙整
 archive_b: 彙整：%s
 page: 第 %d 頁
 recent_posts: 最新文章
-newer: Newer
-older: Older
-share: Share
+newer: 新
+older: 舊
+share: 分享
 powered_by: Powered by
-rss_feed: RSS Feed
-category: Category
-tag: Tag
+rss_feed: RSS 摘要
+category: 分類
+tag: 標籤
