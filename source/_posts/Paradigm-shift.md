@@ -101,12 +101,10 @@ categories: philosophy
 
 當然，「典範轉移」聽起來很帥，但那就像是在踩油門的時候跟人說這叫「渦輪超噴射」一樣。當你覺得你見證了典範轉移，你得小心，因為至少有兩個可能性：（1）你真的見證了典範轉移、（2）你只是中二病發作。
 
----
-
 > 本文首次刊登於「鳴人堂烙哲學」專欄。
 
 ---
 
-如果你喜歡我的文章，想支持我，你可以：
+如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
 
 {% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}

@@ -79,7 +79,7 @@ tags:
 
 ---
 
-如果你喜歡我的文章，想支持我，你可以：
+如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
 
 * {% raw %}<a href="https://www.patreon.com/bePatron?u=11250676" data-patreon-widget-type="become-patron-button">成為我的 Patron ！</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>{% endraw %}
 

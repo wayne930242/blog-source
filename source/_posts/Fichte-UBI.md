@@ -67,12 +67,10 @@ categories:
 
 當康德主張「富人並不『援助』窮人，而只是把本來就該是他們的東西還給他們。」UBI說得更進一步：別讓任何人變成窮人。
 
----
-
 > 本文首次刊登於鳴人堂[烙哲學專欄](https://opinion.udn.com/opinion/story/6685/3543662)。
 
 ---
 
-如果你喜歡我的文章，想支持我，你可以：
+如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
 
 {% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}

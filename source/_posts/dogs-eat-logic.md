@@ -72,12 +72,10 @@ categories: philosophy
 
 邏輯對於論述不可或缺，對於有條理的思考也是如此。然而，我們需要的，並不見得是背誦邏輯規則與謬誤大全。邏輯思考的練習與精進，並沒有什麼捷徑。
 
----
-
 > 本文最早刊登於「鳴人堂烙哲學」專欄。
 
 ---
 
-如果你喜歡我的文章，想支持我，你可以：
+如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
 
 {% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}

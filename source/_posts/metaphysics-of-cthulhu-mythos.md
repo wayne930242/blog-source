@@ -78,12 +78,10 @@ mp3: http://wayneh.tw/mp3/Spirit_of_the_Dead.mp3
 [^1]: 最早，在科學還未分科、科學方法還未走上實證道路的時候，科學與形上學是密不可分的學問。
 [^2]: 這樣的主張其實不算極端，德國重要哲學家康德（Immanuel Kant）就採取類似的主張。
 
----
-
 > 本文首次刊登於鳴人堂[烙哲學專欄](https://opinion.udn.com/opinion/story/6685/2504703)。
 
 ---
 
-如果你喜歡我的文章，想支持我，你可以：
+如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
 
 {% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}
