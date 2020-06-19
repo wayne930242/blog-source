@@ -1,7 +1,7 @@
 ---
 title: 如何讓玩家融入場景——談「控場」的理論與技巧
 categories: TRPG
-cover: 'http://wayneh.tw/img/Chicken_egg_spotlight.jpg'
+cover: 'https://wayneh.tw/img/Chicken_egg_spotlight.jpg'
 date: 2020-02-07 17:19:10
 tags:
 - GM技巧
@@ -14,8 +14,6 @@ tags:
 控場，是一種綜合技巧，用來讓遊戲順利前進，讓節奏緊弛有度。好的控場不僅讓玩家保持興味、讓故事順利推進，同時還能為遊戲加料，並為故事增添印象深刻的記憶點。
 
 控場到底該怎麼做？要注意什麼？
-
-<!--more-->
 
 ## 場景：行進與聚焦
 
@@ -79,8 +77,8 @@ tags:
 
 ---
 
-如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
+如果你喜歡這篇文章，請不吝用實際行動支持我：
 
 * {% raw %}<a href="https://www.patreon.com/bePatron?u=11250676" data-patreon-widget-type="become-patron-button">成為我的 Patron ！</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>{% endraw %}
 
-* {% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}
+* * [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)

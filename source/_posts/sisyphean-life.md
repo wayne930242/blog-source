@@ -1,6 +1,6 @@
 ---
 title: 薛西弗斯的人生有意義嗎？——談卡繆與荒謬
-cover: http://wayneh.tw/img/sisyphus.jpg
+cover: https://wayneh.tw/img/sisyphus.jpg
 date: 2019-07-18 16:47:29
 tags: 存在主義
 categories: philosophy
@@ -84,6 +84,6 @@ categories: philosophy
 
 ---
 
-如果你喜歡我的文章，希望你可以贊助我，讓我可以有更多的時間進行寫作：
+如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-{% raw %}<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="5UQJNQ7XVCCE8" /><input type="hidden" name="currency_code" value="TWD" /><input type="image" src="https://www.paypalobjects.com/en_US/TW/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_TW/i/scr/pixel.gif" width="1" height="1" /></form>{% endraw %}
+* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)

@@ -1,6 +1,6 @@
 ---
 title: {{ title }}
 date: {{ date }}
-cover: http://wayneh.tw/img/
-mp3: http://wayneh.tw/mp3/
+mp3: /mp3/
+cover: /img/
 ---

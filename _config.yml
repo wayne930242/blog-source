@@ -24,8 +24,8 @@ anchorjs: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wayneh.tw
-# cdn-url: "http://wayneh.tw/img/"
+url: https://wayneh.tw
+# cdn-url: "https://wayneh.tw/img/"
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -49,9 +49,9 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
-post_asset_folder: false
-relative_link: false
+render_drafts: true
+post_asset_folder: true
+relative_link: true
 future: true
 highlight:
   enable: true
@@ -96,7 +96,7 @@ markdown:
     - markdown-it-ins
     - markdown-it-sub
     - markdown-it-sup
-    - markdown-it-emoji
+    - hexo-math
 
 theme: diaspora
 
@@ -112,20 +112,20 @@ deploy:
 google_analytics: 'UA-61272067-1'
 ga_domain: wayneh.tw
 disqus_username: waynehtw
-favicon: http://wayneh.tw/favicon.png
+favicon: https://wayneh.tw/favicon.png
 mp3:
-    - http://wayneh.tw/mp3/Touching_Moment.mp3
-    - http://wayneh.tw/mp3/Dinner_for_Two.mp3
+    - https://wayneh.tw/mp3/Touching_Moment.mp3
+    - https://wayneh.tw/mp3/Dinner_for_Two.mp3
 featured-tags: true
 featured-condition-size: 1
 rss: atom.xml
-cover: http://wayneh.tw/img/default.jpg
-post-default-img: "http://wayneh.tw/img/default.jpg"
-post-default-img-mobile: "http://wayneh.tw/img/default.jpg"
+cover: https://wayneh.tw/img/default.jpg
+post-default-img: "https://wayneh.tw/img/default.jpg"
+post-default-img-mobile: "https://wayneh.tw/img/default.jpg"
 menu:
  About: https://about.me/wayne930242
- 哲學: http://wayneh.tw/categories/philosophy/
- TRPG: http://wayneh.tw/categories/TRPG/
+ 哲學: https://wayneh.tw/categories/philosophy/
+ TRPG: https://wayneh.tw/categories/TRPG/
 
 # Disqus
 disqus:
@@ -145,14 +145,16 @@ sidebar-avatar: /avatar.jpg
 # clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 math:
-  engine: 'katex' # 'mathjax' or 'katex'
-# MathJax config
+  engine: 'katex' # or 'mathjax' 
   mathjax:
     src: custom_mathjax_source
     config:
-
-# KaTeX config
+      # MathJax config
   katex:
     css: custom_css_source
     js: custom_js_source # not used
     config:
+      # KaTeX config
+
+pandoc:
+  mathEngine: katex
