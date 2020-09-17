@@ -3,8 +3,8 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
-mp3: https://wayneh.tw/mp3/
-cover: https://wayneh.tw/img/
+mp3: /mp3/
+cover: /img/
 ---
 
 
