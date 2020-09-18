@@ -41,7 +41,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -49,7 +49,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: true
+render_drafts: false
 post_asset_folder: true
 relative_link: true
 future: true
