@@ -1,11 +1,12 @@
 ---
 title: 如何讓玩家融入場景——談「控場」的理論與技巧
 categories: TRPG
-cover: 'https://wayneh.tw/img/Chicken_egg_spotlight.jpg'
 date: 2020-02-07 17:19:10
 tags:
 - GM技巧
 ---
+
+{% img /img/Chicken_egg_spotlight.jpg %}
 
 遊戲主持人（GM）安排場景，提供玩家角色參與故事的框架。然而場景內要多緊湊？過場如何安排？場景如何定位？如何處理角色的即興行動？如何讓玩家融入場景？
 
@@ -14,6 +15,8 @@ tags:
 控場，是一種綜合技巧，用來讓遊戲順利前進，讓節奏緊弛有度。好的控場不僅讓玩家保持興味、讓故事順利推進，同時還能為遊戲加料，並為故事增添印象深刻的記憶點。
 
 控場到底該怎麼做？要注意什麼？
+
+<!--more-->
 
 ## 場景：行進與聚焦
 
@@ -81,4 +84,4 @@ tags:
 
 * {% raw %}<a href="https://www.patreon.com/bePatron?u=11250676" data-patreon-widget-type="become-patron-button">成為我的 Patron ！</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>{% endraw %}
 
-* * [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* * [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

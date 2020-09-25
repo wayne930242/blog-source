@@ -1,6 +1,5 @@
 ---
 title: 國家應該免費給你錢？談費希特的財產權概念
-cover: https://wayneh.tw/img/fichte-bui.jpg
 date: 2018-12-26 16:41:51
 tags:
  - 政治哲學
@@ -8,6 +7,8 @@ tags:
 categories:
  - philosophy
 ---
+
+{% img /img/fichte-bui.jpg %}
 
 每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？
 
@@ -73,4 +74,4 @@ categories:
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

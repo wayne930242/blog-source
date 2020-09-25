@@ -3,13 +3,16 @@ title: 六、如何理解機制？
 tags:
   - CoC 守密人指南
 categories: TRPG
-cover: /img/coc7.jpg
 date: 2020-09-24 14:08:38
 ---
+
+{% img /img/coc7.jpg %}
 
 我們已經說明了虛構敘事是怎樣的對話模式，並且說明了該經營怎樣的對話心態，來讓故事栩栩如生、有趣緊湊。技術的部分我們先省略不談，但放心，我們以後會回來補充遊戲技術。
 
 接著我們談 **_機制_**。
+
+<!--more-->
 
 為什麼我們需要機制？一個常見的理由是：幫助我們決定故事發展。但為什麼我們不自己決定呢？為什麼我們不交由 GM 決定？為什麼需要擲骰？這系列的問題，決定了 GM 引入機制的時機。所謂引入機制，就是在虛構敘事上建立一個程序，通常這會包括賭博（擲骰）程序，我們以該程序來決定虛構敘事的發展。
 
@@ -66,5 +69,5 @@ date: 2020-09-24 14:08:38
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

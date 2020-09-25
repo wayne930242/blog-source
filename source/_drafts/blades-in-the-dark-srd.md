@@ -1,7 +1,7 @@
 ---
 title: 暗夜冷鋒中文 SRD
 categories: TRPG
-cover: /img/BitD.jpg
+photos: /img/BitD.jpg
 date: 2020-08-28 16:24:57
 tags:
   - SRD
@@ -2257,5 +2257,5 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

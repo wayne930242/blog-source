@@ -1,10 +1,11 @@
 ---
 title: 薛西弗斯的人生有意義嗎？——談卡繆與荒謬
-cover: https://wayneh.tw/img/sisyphus.jpg
 date: 2019-07-18 16:47:29
 tags: 存在主義
 categories: philosophy
 ---
+
+{% img /img/sisyphus.jpg %}
 
 卡謬（Albert Camus, 1913-1960）的《薛西弗斯的神話》是一本以荒謬為主題的論文，更精確地說，他發展了一個以荒謬為主軸的存在主義哲學思想。即便卡謬不見得自我認同為存在主義者。
 
@@ -86,4 +87,4 @@ categories: philosophy
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

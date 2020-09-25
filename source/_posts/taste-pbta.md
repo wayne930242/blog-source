@@ -1,16 +1,18 @@
 ---
 title: 我要玩 PbtA 了！給玩家的建議
 categories: TRPG
-cover: '/img/pbta.jpg'
 date: 2020-06-01 00:24:28
 tags:
   - PbtA
-
 ---
+
+{% img /img/pbta.jpg %}
 
 受啟示錄世界（Apocalypse World）引擎所啟發的角色扮演遊戲，稱作 PbtA （Powered by the Apocalypse）的遊戲。包括啟示錄世界、怪物心（Monsterhearts）、藍鬍子的新娘、本週主打怪（Monsters of the Week）和 tremulus 等。
 
 這篇文章的目的，在於提供即將開始 PbtA 遊戲的團員良好的遊戲基礎。
+
+<!--more-->
 
 > 如果你是主持人，我希望當你拿這篇文章給你的玩家時，可以讓遊戲運作更順利。
 
@@ -101,5 +103,5 @@ Move 就像是你按照你的意圖來建議一種劇情發展，無論成功或
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

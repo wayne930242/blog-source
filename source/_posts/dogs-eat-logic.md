@@ -1,7 +1,5 @@
 ---
 title: 「你的邏輯被狗吃了嗎？」談普通人的邏輯學
-cover: 'https://wayneh.tw/img/dogs.jpg'
-mp3: 'https://wayneh.tw/mp3/Night_Snow.mp3'
 date: 2020-02-04 17:26:44
 tags:
   - 邏輯
@@ -9,6 +7,8 @@ tags:
   - 亞里斯多德
 categories: philosophy
 ---
+
+{% img /img/dogs.jpg %}
 
 不管是公民討論還是日常吵架，「沒有邏輯」都是嚴重的指責，這代表「符合邏輯」是論述活動的重要價值，就像「發揮運動家精神」是體育活動的重要價值。
 
@@ -78,4 +78,4 @@ categories: philosophy
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

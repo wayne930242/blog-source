@@ -1,7 +1,6 @@
 ---
 title: 我的 CoC 戰役：《寂靜之音》
 categories: TRPG
-cover: 'https://wayneh.tw/img/sound_of_silence.jpg'
 date: 2020-05-13 16:49:17
 tags:
  - 創作
@@ -18,6 +17,8 @@ tags:
 這是可供 3 至 5 人遊玩的中型戰役劇本，以洛夫克拉夫特式的恐怖調查為主軸，由克蘇魯神話的世界觀所貫串。
 
 調查員從日常出發，步步窺看潛藏表面下的最終恐怖。
+
+<!--more-->
 
 ### 台灣都會與網路文化
 
@@ -72,18 +73,18 @@ tags:
 
 ##### 骰子貓商店
 
-* {% fa_inline  map-marker-alt fas %} 桃園市中壢區中山路270巷14弄2號1樓
-* {% fa_inline  phone fas %} 03 427 9136
+* <i class="fas fa-map-marker-alt"></i> 桃園市中壢區中山路270巷14弄2號1樓
+* <i class="fas fa-phone"></i> 03 427 9136
 
 #### 台中
 
 ##### 泰坦圓桌
 
-* {% fa_inline  map-marker-alt fas %} 台中市北區進化北路370號
+* <i class="fas fa-map-marker-alt"></i> 台中市北區進化北路370號
 
 #### 高雄
 
 ##### D&C桌上冒險
 
-* {% fa_inline  map-marker-alt fas %} 高雄市三民區永吉街78號
-* {% fa_inline  phone fas %} 0956 640 804
+* <i class="fas fa-map-marker-alt"></i> 高雄市三民區永吉街78號
+* <i class="fas fa-phone"></i> 0956 640 804

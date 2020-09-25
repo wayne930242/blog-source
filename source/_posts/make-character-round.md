@@ -1,11 +1,12 @@
 ---
 title: 角色太平面怎麼辦——讓角色立體的幾個建議
 categories: TRPG
-cover: /img/man.jpg
 date: 2020-06-15 23:24:30
 tags:
   - 玩家
 ---
+
+{% img /img/man.jpg %}
 
 如果你感覺自己陷入以下情境，這篇文章很可能就是你需要的：
 
@@ -17,6 +18,8 @@ tags:
 - 跑了十次團，角色毫無成長：他的個性和價值觀都毫無改變。
 
 在這篇文章中，我希望給些具體建議，希望協助想把角色玩得更到位和立體的玩家找到方法——至少，找到學習的方向。
+
+<!--more-->
 
 # 這是怎樣的問題？
 
@@ -107,5 +110,5 @@ tags:
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

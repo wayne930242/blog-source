@@ -1,19 +1,21 @@
 ---
 title: 談 CoC 的情報管理：範例篇
 categories: TRPG
-mp3: 'https://wayneh.tw/mp3/They_Might_Not.mp3'
-cover: 'https://wayneh.tw/img/information_management.jpg'
 date: 2020-04-15 15:57:27
 tags: 
  - CoC
  - GM
 ---
 
+{% img /img/information_management.jpg %}
+
 在〈[CoC 的情報管理](https://wayneh.tw/2020/03/05/information-management/)〉一文中，我提到了關於情報管理的理論。
 
 有人反應文章難懂，也有人表示，裡面的原則不明白如何操作。而我同意，抽象的、建立在遊戲普遍經驗上的論述，並不容易讓人理解，這應該是事實。
 
 因此，在這篇文章裡，我打算試著用具體的範例來說明理論的意涵和應用。
+
+<!--more-->
 
 ## 軌道
 
@@ -145,5 +147,5 @@ tags:
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

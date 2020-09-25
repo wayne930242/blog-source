@@ -1,226 +1,636 @@
-
 <!DOCTYPE html>
-<html lang="zh-TW" class="loading">
+<html lang="zh-TW">
 <head>
-    <!-- hexo-inject:begin --><!-- hexo-inject:end --><meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>國家應該免費給你錢？談費希特的財產權概念 - 偉恩與咖啡</title>
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="google" content="notranslate" />
-    
-    <meta name="description" content="哲學普及與 TRPG 推廣。加上關於生活與社會的一些雜談。,&amp;#x6BCF;&amp;#x5230;&amp;#x9031;&amp;#x65E5;&amp;#x7684;&amp;#x665A;&amp;#x4E0A;&amp;#xFF0C;&amp;#x4F60;&amp;#x5012;&amp;#x5728;&amp;#x96FB;&amp;#x,"> 
-    <meta name="author" content="洪偉 Wei Hung"> 
-    
-    
-    
-<link rel="stylesheet" href="../../../../css/diaspora.css">
+  <!-- hexo-inject:begin --><!-- hexo-inject:end --><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+  <link rel="mask-icon" href="/img/favicon/logo.svg" color="#222">
 
-    <meta name="description" content="每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？ 我們一週犧牲40小時的自由，只是為了生活。不只是為了存活，也為了享用我們值得的自由：旅遊與吃美食、來瓶好酒抽抽水菸、看《波希米亞狂想曲》、花點時間參與政治活動。 當我們勞動，我們得到金錢作為報酬，同時為社會生產出更多產品。在人們的勞動下，金錢可以換取的產品變得更豐">
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="//fonts.loli.net/css?family=EB Garamond:300,300italic,400,400italic,700,700italic|Noto Sans TC:300,300italic,400,400italic,700,700italic|Noto Serif TC:300,300italic,400,400italic,700,700italic|Source Code Pro:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"wayneh.tw","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"disqus","storage":true,"lazyload":true,"nav":null,"activeClass":"disqus"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？ 我們一週犧牲40小時的自由，只是為了生活。不只是為了存活，也為了享用我們值得的自由：旅遊與吃美食、來瓶好酒抽抽水菸、看《波希米亞狂想曲》、花點時間參與政治活動。 當我們勞動，我們得到金錢作為報酬，同時為社會生產出更多產品。在人們的勞動下，金錢可以換取的產品變得更">
 <meta property="og:type" content="article">
 <meta property="og:title" content="國家應該免費給你錢？談費希特的財產權概念">
 <meta property="og:url" content="https://wayneh.tw/2018/12/26/Fichte-UBI/index.html">
 <meta property="og:site_name" content="偉恩與咖啡">
-<meta property="og:description" content="每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？ 我們一週犧牲40小時的自由，只是為了生活。不只是為了存活，也為了享用我們值得的自由：旅遊與吃美食、來瓶好酒抽抽水菸、看《波希米亞狂想曲》、花點時間參與政治活動。 當我們勞動，我們得到金錢作為報酬，同時為社會生產出更多產品。在人們的勞動下，金錢可以換取的產品變得更豐">
+<meta property="og:description" content="每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？ 我們一週犧牲40小時的自由，只是為了生活。不只是為了存活，也為了享用我們值得的自由：旅遊與吃美食、來瓶好酒抽抽水菸、看《波希米亞狂想曲》、花點時間參與政治活動。 當我們勞動，我們得到金錢作為報酬，同時為社會生產出更多產品。在人們的勞動下，金錢可以換取的產品變得更">
 <meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://wayneh.tw/img/fichte-bui.jpg">
 <meta property="article:published_time" content="2018-12-26T08:41:51.000Z">
-<meta property="article:modified_time" content="2020-06-19T07:52:58.457Z">
+<meta property="article:modified_time" content="2020-09-24T13:26:05.981Z">
 <meta property="article:author" content="洪偉 Wei Hung">
 <meta property="article:tag" content="政治哲學">
 <meta property="article:tag" content="費希特">
 <meta name="twitter:card" content="summary">
-    <script id="dsq-count-scr" src="//waynetwhexo.disqus.com/count.js" async></script>
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700|Noto+Serif+TC:400,700&display=swap" rel="stylesheet">
-    <script defer src="/js/all.js"></script> 
-<!-- hexo injector head_end start -->
-<link rel="stylesheet" href="custom_css_source.css">
-<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="atom.xml" title="偉恩與咖啡" type="application/atom+xml"><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+<meta name="twitter:image" content="https://wayneh.tw/img/fichte-bui.jpg">
+
+<link rel="canonical" href="https://wayneh.tw/2018/12/26/Fichte-UBI/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-TW'
+  };
+</script>
+
+  <title>國家應該免費給你錢？談費希特的財產權概念 | 偉恩與咖啡</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61272067-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-61272067-1');
+      }
+    </script>
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="偉恩與咖啡" type="application/atom+xml"><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </head>
-<body class="loading">
-    <!-- hexo-inject:begin --><!-- hexo-inject:end --><span id="config-title" style="display:none">偉恩與咖啡</span>
-    <div id="loader"></div>
-    <div id="single">
-    <div id="top" style="display: block;">
-    <div class="bar" style="width: 0;"></div>
-    <a class="icon-home image-icon" href="javascript:;" data-url="https://wayneh.tw"></a>
-    <div title="播放/暫停" class="icon-play"></div>
-    <h3 class="subtitle">國家應該免費給你錢？談費希特的財產權概念</h3>
-    <div class="social">
-        <!--<div class="like-icon">-->
-            <!--<a href="javascript:;" class="likeThis active"><span class="icon-like"></span><span class="count">76</span></a>-->
-        <!--</div>-->
-        <div>
-            <div class="share">
-                <a title="QR code" class="icon-scan" href="javascript:;"></a>
-            </div>
-            <div id="qr"></div>
-        </div>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <!-- hexo-inject:begin --><!-- hexo-inject:end --><div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切換導航欄">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
     </div>
-    <div class="scrollbar"></div>
+  </div>
+
+  <div class="site-meta custom-logo">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">偉恩與咖啡</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">哲學、TRPG、雜談</p>
+      <a>
+        <img class="custom-logo-image" src="/avatar.jpg" alt="偉恩與咖啡">
+      </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
 </div>
 
-    <div class="section">
-        <div class="article">
-    <div class='main'>
-        <h1 class="title">國家應該免費給你錢？談費希特的財產權概念</h1>
-        <div class="stuff">
-            <span>十二月 26, 2018</span>
-            
-  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="../../../../tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%B8/" rel="tag">政治哲學</a></li><li class="post-tags-list-item"><a class="post-tags-list-link" href="../../../../tags/%E8%B2%BB%E5%B8%8C%E7%89%B9/" rel="tag">費希特</a></li></ul>
 
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fas fa-home fa-fw"></i>首頁</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="https://about.me/wayne930242" rel="noopener" target="_blank"><i class="fas fa-feather-alt fa-fw"></i>關於</a>
+
+  </li>
+        <li class="menu-item menu-item-哲學">
+
+    <a href="/categories/philosophy/" rel="section"><i class="fas fa-coffee fa-fw"></i>哲學</a>
+
+  </li>
+        <li class="menu-item menu-item-trpg">
+
+    <a href="/categories/TRPG/" rel="section"><i class="fas fa-dice-d20 fa-fw"></i>TRPG</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fas fa-archive fa-fw"></i>歸檔</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-TW">
+    <link itemprop="mainEntityOfPage" href="https://wayneh.tw/2018/12/26/Fichte-UBI/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/logo.png">
+      <meta itemprop="name" content="洪偉 Wei Hung">
+      <meta itemprop="description" content="哲學普及與 TRPG 推廣。加上關於生活與社會的一些雜談。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="偉恩與咖啡">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          國家應該免費給你錢？談費希特的財產權概念
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">發表於</span>
+
+              <time title="創建時間：2018-12-26 16:41:51" itemprop="dateCreated datePublished" datetime="2018-12-26T16:41:51+08:00">2018-12-26</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新於</span>
+                <time title="修改時間：2020-09-24 21:26:05" itemprop="dateModified" datetime="2020-09-24T21:26:05+08:00">2020-09-24</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分類於</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/philosophy/" itemprop="url" rel="index"><span itemprop="name">philosophy</span></a>
+                </span>
+            </span>
+
+          
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Disqus：</span>
+    
+    <a title="disqus" href="/2018/12/26/Fichte-UBI/#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2018/12/26/Fichte-UBI/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 
         </div>
-        <div class="content markdown">
-            <p>&#x6BCF;&#x5230;&#x9031;&#x65E5;&#x7684;&#x665A;&#x4E0A;&#xFF0C;&#x4F60;&#x5012;&#x5728;&#x96FB;&#x8166;&#x524D;&#x3001;&#x88AB;&#x7AA9;&#x88E1;&#x3001;&#x6C99;&#x767C;&#x4E0A;&#xFF0C;&#x7B49;&#x5F85;&#x9031;&#x4E00;&#x3002;&#x5230;&#x4E86;&#x90A3;&#x6642;&#xFF0C;&#x4F60;&#x5FC5;&#x9808;&#x52DE;&#x52D5;&#xFF0C;&#x53BB;&#x505A;&#x90A3;&#x4E9B;&#x4F60;&#x4E26;&#x4E0D;&#x90A3;&#x9EBC;&#x559C;&#x6B61;&#x7684;&#x4E8B;&#x60C5;&#x3002;&#x6709;&#x4EC0;&#x9EBC;&#x6BD4;&#x9019;&#x66F4;&#x82E6;&#x60B6;&#x7684;&#x6642;&#x523B;&#x55CE;&#xFF1F;</p>
-<p>&#x6211;&#x5011;&#x4E00;&#x9031;&#x72A7;&#x7272;40&#x5C0F;&#x6642;&#x7684;&#x81EA;&#x7531;&#xFF0C;&#x53EA;&#x662F;&#x70BA;&#x4E86;&#x751F;&#x6D3B;&#x3002;&#x4E0D;&#x53EA;&#x662F;&#x70BA;&#x4E86;&#x5B58;&#x6D3B;&#xFF0C;&#x4E5F;&#x70BA;&#x4E86;&#x4EAB;&#x7528;&#x6211;&#x5011;&#x503C;&#x5F97;&#x7684;&#x81EA;&#x7531;&#xFF1A;&#x65C5;&#x904A;&#x8207;&#x5403;&#x7F8E;&#x98DF;&#x3001;&#x4F86;&#x74F6;&#x597D;&#x9152;&#x62BD;&#x62BD;&#x6C34;&#x83F8;&#x3001;&#x770B;&#x300A;&#x6CE2;&#x5E0C;&#x7C73;&#x4E9E;&#x72C2;&#x60F3;&#x66F2;&#x300B;&#x3001;&#x82B1;&#x9EDE;&#x6642;&#x9593;&#x53C3;&#x8207;&#x653F;&#x6CBB;&#x6D3B;&#x52D5;&#x3002;</p>
-<p>&#x7576;&#x6211;&#x5011;&#x52DE;&#x52D5;&#xFF0C;&#x6211;&#x5011;&#x5F97;&#x5230;&#x91D1;&#x9322;&#x4F5C;&#x70BA;&#x5831;&#x916C;&#xFF0C;&#x540C;&#x6642;&#x70BA;&#x793E;&#x6703;&#x751F;&#x7522;&#x51FA;&#x66F4;&#x591A;&#x7522;&#x54C1;&#x3002;&#x5728;&#x4EBA;&#x5011;&#x7684;&#x52DE;&#x52D5;&#x4E0B;&#xFF0C;&#x91D1;&#x9322;&#x53EF;&#x4EE5;&#x63DB;&#x53D6;&#x7684;&#x7522;&#x54C1;&#x8B8A;&#x5F97;&#x66F4;&#x8C50;&#x5BCC;&#xFF0C;&#x6211;&#x5011;&#x7684;&#x751F;&#x6D3B;&#x66F4;&#x4FBF;&#x5229;&#x8207;&#x5BCC;&#x8DB3;&#x3002;</p>
-<p>&#x6211;&#x5011;&#x6240;&#x5728;&#x7684;&#x793E;&#x6703;&#xFF0C;&#x81F3;&#x5C11;&#x662F;&#x4E00;&#x500B;&#x9019;&#x6A23;&#x7684;&#x7D93;&#x6FDF;&#x5171;&#x540C;&#x9AD4;&#x3002;&#x4F46;&#x9084;&#x4E0D;&#x53EA;&#x5982;&#x6B64;&#x3002;</p>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <img data-src="/img/fichte-bui.jpg" class="">
+<p>每到週日的晚上，你倒在電腦前、被窩裡、沙發上，等待週一。到了那時，你必須勞動，去做那些你並不那麼喜歡的事情。有什麼比這更苦悶的時刻嗎？</p>
+<p>我們一週犧牲40小時的自由，只是為了生活。不只是為了存活，也為了享用我們值得的自由：旅遊與吃美食、來瓶好酒抽抽水菸、看《波希米亞狂想曲》、花點時間參與政治活動。</p>
+<p>當我們勞動，我們得到金錢作為報酬，同時為社會生產出更多產品。在人們的勞動下，金錢可以換取的產品變得更豐富，我們的生活更便利與富足。</p>
+<p>我們所在的社會，至少是一個這樣的經濟共同體。但還不只如此。</p>
 <a id="more"></a>
-<h2 id="&#x8CBB;&#x5E0C;&#x7279;&#xFF1A;&#x570B;&#x5BB6;&#x61C9;&#x4ECB;&#x5165;&#x8CA7;&#x7AAE;"><a class="header-anchor" href="#&#x8CBB;&#x5E0C;&#x7279;&#xFF1A;&#x570B;&#x5BB6;&#x61C9;&#x4ECB;&#x5165;&#x8CA7;&#x7AAE;">&#xB6;</a>&#x8CBB;&#x5E0C;&#x7279;&#xFF1A;&#x570B;&#x5BB6;&#x61C9;&#x4ECB;&#x5165;&#x8CA7;&#x7AAE;</h2>
-<p>&#x8981;&#x7372;&#x5F97;&#x91D1;&#x9322;&#x3001;&#x4F7F;&#x7528;&#x91D1;&#x9322;&#x3001;&#x4EAB;&#x53D7;&#x751F;&#x6D3B;&#xFF0C;&#x7406;&#x60F3;&#x4E0A;&#xFF0C;&#x8981;&#x4EE5;&#x570B;&#x5BB6;&#x4FDD;&#x8B77;&#x7684;&#x81EA;&#x7531;&#x4F5C;&#x70BA;&#x689D;&#x4EF6;&#xFF0C;&#x5305;&#x62EC;&#xFF1A;&#x6211;&#x77E5;&#x9053;&#x7684;&#x9322;&#x4E0D;&#x6703;&#x88AB;&#x6436;&#x3001;&#x7576;&#x6211;&#x4ED8;&#x9322;&#x6642;&#x6709;&#x8FA6;&#x6CD5;&#x8CB7;&#x5230;&#x6771;&#x897F;&#x3001;&#x6211;&#x4E0D;&#x6703;&#x5728;&#x53BB;&#x770B;&#x96FB;&#x5F71;&#x7684;&#x8DEF;&#x4E0A;&#x88AB;&#x6BBA;&#x6389;&#x3002;</p>
-<p>&#x70BA;&#x4E86;&#x9019;&#x6A23;&#x7684;&#x76EE;&#x7684;&#xFF0C;&#x6211;&#x5011;&#x5C07;&#x4E00;&#x90E8;&#x5206;&#x91D1;&#x9322;&#x4EA4;&#x7D66;&#x653F;&#x5E9C;&#xFF0C;&#x8B93;&#x653F;&#x5E9C;&#x4FDD;&#x969C;&#x6211;&#x5011;&#x7684;&#x91D1;&#x9322;&#xFF0C;&#x66F4;&#x5EE3;&#x7FA9;&#x5730;&#x8AAA;&#xFF0C;&#x4FDD;&#x969C;&#x6211;&#x5011;&#x7684;&#x81EA;&#x7531;&#x3002;</p>
-<p>&#x4F46;&#x5373;&#x4F7F;&#x662F;&#x9019;&#x6A23;&#xFF0C;&#x6211;&#x5011;&#x4E5F;&#x4E0D;&#x898B;&#x5F97;&#x5C31;&#x53EF;&#x4EE5;&#x64C1;&#x6709;&#x81EA;&#x7531;&#x3002;&#x5728;&#x6211;&#x5011;&#x4E4B;&#x4E2D;&#xFF0C;&#x6709;&#x4E9B;&#x4EBA;&#x4E26;&#x4E0D;&#x662F;&#x90A3;&#x9EBC;&#x5E78;&#x904B;&#x6216;&#x662F;&#x6709;&#x80FD;&#x529B;&#xFF0C;&#x4ED6;&#x5011;&#x6210;&#x70BA;&#x4E86;&#x904A;&#x6C11;&#x3001;&#x4E5E;&#x4E10;&#x3002;&#x90A3;&#x4E9B;&#x5728;&#x8CA7;&#x7AAE;&#x7DDA;&#x4EE5;&#x4E0B;&#x7684;&#x4EBA;&#xFF0C;&#x5C31;&#x9023;&#x5B58;&#x6D3B;&#x90FD;&#x6210;&#x4E86;&#x554F;&#x984C;&#x3002;</p>
-<p>&#x5982;&#x679C;&#x6211;&#x5011;&#x8A8D;&#x70BA;&#x300C;&#x570B;&#x5BB6;&#x61C9;&#x8A72;&#x5E6B;&#x52A9;&#x8CA7;&#x7AAE;&#x8005;&#x300D;&#xFF0C;&#x6211;&#x5011;&#x5C31;&#x6709;&#x4E86;&#x798F;&#x5229;&#x570B;&#x5BB6;&#x7684;&#x7406;&#x5FF5;&#x3002;&#x4F46;&#x70BA;&#x4EC0;&#x9EBC;&#x570B;&#x5BB6;&#x53EF;&#x4EE5;&#x9019;&#x9EBC;&#x505A;&#xFF1F;&#x70BA;&#x4EC0;&#x9EBC;&#x793E;&#x6703;&#x53EF;&#x4EE5;&#x5411;&#x5BCC;&#x4EBA;&#x5F37;&#x5236;&#x5FB5;&#x6536;&#x8CA1;&#x7522;&#x4F86;&#x63F4;&#x52A9;&#x7AAE;&#x4EBA;&#xFF1F;</p>
-<p>&#x5EB7;&#x5FB7;&#x7684;&#x5F8C;&#x7E7C;&#x8005;&#x4E4B;&#x4E00;&#xFF0C;&#x8CBB;&#x5E0C;&#x7279;&#xFF08;Johann Gottlieb Fichte&#xFF09;&#xFF0C;&#x5728;18&#x4E16;&#x7D00;&#x672B;&#x3001;19&#x4E16;&#x7D00;&#x521D;&#x6642;&#x7D66;&#x4E86;&#x9019;&#x6A23;&#x7684;&#x4E00;&#x500B;&#x8AD6;&#x8B49;&#xFF1A;</p>
-<ol>
-<li>&#x8CA1;&#x7522;&#x6B0A;&#x662F;&#x5305;&#x62EC;&#x5171;&#x540C;&#x9AD4;&#x6240;&#x6709;&#x6210;&#x54E1;&#x5728;&#x5167;&#x7684;&#x5951;&#x7D04;&#xFF1B;</li>
-<li>&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#x4EE5;&#x300C;&#x6210;&#x54E1;&#x90FD;&#x80FD;&#x4F9D;&#x8CA1;&#x7522;&#x6B0A;&#x4F86;&#x5B58;&#x7E8C;&#x8207;&#x751F;&#x6D3B;&#x300D;&#x4F5C;&#x70BA;&#x4E3B;&#x8981;&#x689D;&#x4EF6;&#xFF0C;&#x800C;&#x975E;&#x300C;&#x6210;&#x54E1;&#x80FD;&#x4EAB;&#x7528;&#x6240;&#x6709;&#x52DE;&#x52D5;&#x6240;&#x5F97;&#x300D;&#xFF1B;</li>
-<li>&#x5171;&#x540C;&#x9AD4;&#x5FC5;&#x9808;&#x900F;&#x904E;&#x5F37;&#x5236;&#x529B;&#x78BA;&#x4FDD;&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x689D;&#x4EF6;&#xFF0C;&#x4F86;&#x78BA;&#x4FDD;&#x5951;&#x7D04;&#x4E0D;&#x88AB;&#x53D6;&#x6D88;&#xFF1B;</li>
-<li>&#x56E0;&#x6B64;&#xFF0C;&#x570B;&#x5BB6;&#x6709;&#x5F37;&#x5236;&#x529B;&#x53CA;&#x8CAC;&#x4EFB;&#x5FB5;&#x6536;&#x5BCC;&#x4EBA;&#x7684;&#x9322;&#x4EA4;&#x7D66;&#x7AAE;&#x4EBA;&#x3002;</li>
-<li>&#x7136;&#x800C;&#xFF0C;&#x70BA;&#x4EC0;&#x9EBC;&#x8CA1;&#x7522;&#x6B0A;&#x9700;&#x8981;&#x4EE5;&#x300C;&#x6210;&#x54E1;&#x90FD;&#x80FD;&#x4F9D;&#x8CA1;&#x7522;&#x6B0A;&#x4F86;&#x5B58;&#x7E8C;&#x8207;&#x751F;&#x6D3B;&#x300D;&#x4F5C;&#x70BA;&#x4E3B;&#x8981;&#x689D;&#x4EF6;&#xFF1F;</li>
+<h2 id="費希特國家應介入貧窮">費希特：國家應介入貧窮</h2>
+<p>要獲得金錢、使用金錢、享受生活，理想上，要以國家保護的自由作為條件，包括：我知道的錢不會被搶、當我付錢時有辦法買到東西、我不會在去看電影的路上被殺掉。</p>
+<p>為了這樣的目的，我們將一部分金錢交給政府，讓政府保障我們的金錢，更廣義地說，保障我們的自由。</p>
+<p>但即使是這樣，我們也不見得就可以擁有自由。在我們之中，有些人並不是那麼幸運或是有能力，他們成為了遊民、乞丐。那些在貧窮線以下的人，就連存活都成了問題。</p>
+<p>如果我們認為「國家應該幫助貧窮者」，我們就有了福利國家的理念。但為什麼國家可以這麼做？為什麼社會可以向富人強制徵收財產來援助窮人？</p>
+<p>康德的後繼者之一，費希特（Johann Gottlieb Fichte），在18世紀末、19世紀初時給了這樣的一個論證：</p>
+<ol type="1">
+<li>財產權是包括共同體所有成員在內的契約；</li>
+<li>財產權契約以「成員都能依財產權來存續與生活」作為主要條件，而非「成員能享用所有勞動所得」；</li>
+<li>共同體必須透過強制力確保財產權的條件，來確保契約不被取消；</li>
+<li>因此，國家有強制力及責任徵收富人的錢交給窮人。</li>
+<li>然而，為什麼財產權需要以「成員都能依財產權來存續與生活」作為主要條件？</li>
 </ol>
-<h2 id="&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x689D;&#x4EF6;&#xFF1A;&#x6211;&#x5011;&#x80FD;&#x9760;&#x8CA1;&#x7522;&#x751F;&#x6D3B;"><a class="header-anchor" href="#&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x689D;&#x4EF6;&#xFF1A;&#x6211;&#x5011;&#x80FD;&#x9760;&#x8CA1;&#x7522;&#x751F;&#x6D3B;">&#xB6;</a>&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x689D;&#x4EF6;&#xFF1A;&#x6211;&#x5011;&#x80FD;&#x9760;&#x8CA1;&#x7522;&#x751F;&#x6D3B;</h2>
-<p>&#x9996;&#x5148;&#xFF0C;&#x8CA1;&#x7522;&#x6B0A;&#x8981;&#x6210;&#x7ACB;&#xFF0C;&#x4E26;&#x4E0D;&#x662F;&#x4F60;&#x89BA;&#x5F97;&#x81EA;&#x5DF1;&#x64C1;&#x6709;&#x8CA1;&#x7522;&#x5C31;&#x5920;&#x4E86;&#xFF0C;&#x9084;&#x9700;&#x8981;&#x6574;&#x500B;&#x5171;&#x540C;&#x9AD4;&#x7684;&#x914D;&#x5408;&#x548C;&#x8A8D;&#x53EF;&#x3002;&#x5149;&#x662F;&#x5BA3;&#x7A31;&#x300C;&#x6211;&#x53E3;&#x888B;&#x88E1;&#x6709;200&#x5143;&#x300D;&#xFF0C;&#x4E0D;&#x4EE3;&#x8868;&#x4F60;&#x771F;&#x7684;&#x64C1;&#x6709;&#x90A3;&#x4E9B;&#x9322;&#xFF0C;&#x9084;&#x5F97;&#x78BA;&#x4FDD;&#xFF1A;&#x9019;&#x500B;&#x793E;&#x6703;&#x540C;&#x610F;&#x4F60;&#x53EF;&#x4EE5;&#x96A8;&#x610F;&#x8655;&#x7F6E;&#x8A72;&#x8CA1;&#x7522;&#xFF0C;&#x800C;&#x4E14;&#x53EA;&#x6709;&#x4F60;&#x53EF;&#x4EE5;&#x6C7A;&#x5B9A;&#x600E;&#x9EBC;&#x8655;&#x7F6E;&#x5B83;&#x3002;</p>
-<p>&#x5728;&#x8CBB;&#x5E0C;&#x7279;&#x770B;&#x4F86;&#xFF0C;&#x8CA1;&#x7522;&#x6B0A;&#x662F;&#x4E00;&#x7A2E;&#x5168;&#x54E1;&#x7684;&#x5951;&#x7D04;&#xFF0C;&#x4E26;&#x4E14;&#x662F;&#x5171;&#x540C;&#x9AD4;&#x4E2D;&#x6210;&#x54E1;&#x6240;&#x5FC5;&#x5099;&#x64C1;&#x6709;&#x4EE5;&#x7528;&#x4F86;&#x6C38;&#x7E8C;&#x751F;&#x5B58;&#x7684;&#x57FA;&#x672C;&#x6B0A;&#x5229;&#x3002;&#x570B;&#x5BB6;&#x6709;&#x8CAC;&#x4EFB;&#x884C;&#x4F7F;&#x5F37;&#x5236;&#x529B;&#x78BA;&#x4FDD;&#x9019;&#x4E9B;&#x6B0A;&#x5229;&#x3002;</p>
-<p>&#x6709;&#x4E9B;&#x4EBA;&#xFF08;&#x5176;&#x4ED6;&#x5951;&#x7D04;&#x8AD6;&#x8005;&#xFF09;&#x53EF;&#x80FD;&#x5C31;&#x8AAA;&#x5230;&#x9019;&#x88E1;&#xFF0C;&#x7136;&#x800C;&#x8CBB;&#x5E0C;&#x7279;&#x66F4;&#x9032;&#x4E00;&#x6B65;&#x6307;&#x51FA;&#xFF0C;&#x4E8B;&#x5BE6;&#x4E0A;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#x9084;&#x6709;&#x4E00;&#x500B;&#x689D;&#x4EF6;&#xFF1A;&#x6703;&#x540C;&#x610F;&#x9019;&#x500B;&#x5951;&#x7D04;&#xFF0C;&#x662F;&#x56E0;&#x70BA;&#x6211;&#x80FD;&#x64C1;&#x6709;&#x8DB3;&#x5920;&#x7684;&#x8CA1;&#x7522;&#xFF0C;&#x8DB3;&#x4EE5;&#x652F;&#x6301;&#x6211;&#x6D3B;&#x4E0B;&#x53BB;&#x3002;&#x4E5F;&#x5C31;&#x662F;&#x8AAA;&#xFF0C;&#x8981;&#x662F;&#x6211;&#x767C;&#x73FE;&#x6211;&#x6C92;&#x6709;&#x52DE;&#x52D5;&#x529B;&#x4F86;&#x8B93;&#x6211;&#x7372;&#x53D6;&#x8DB3;&#x5920;&#x8CA1;&#x7522;&#xFF0C;&#x6211;&#x6253;&#x5F9E;&#x4E00;&#x958B;&#x59CB;&#x5C31;&#x4E0D;&#x6703;&#x652F;&#x6301;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#xFF0C;&#x6211;&#x53EF;&#x80FD;&#x6703;&#x652F;&#x6301;&#x53E6;&#x4E00;&#x500B;&#x5951;&#x7D04;&#xFF1A;&#x5927;&#x5BB6;&#x90FD;&#x7528;&#x6436;&#x7684;&#x5427;&#x3002;</p>
-<p>&#x56E0;&#x6B64;&#xFF0C;&#x7576;&#x6211;&#x6C92;&#x6709;&#x8DB3;&#x5920;&#x8CA1;&#x7522;&#x7684;&#x6642;&#x5019;&#xFF0C;&#x6211;&#x7684;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#x5C31;&#x9762;&#x81E8;&#x53D6;&#x6D88;&#x7684;&#x5883;&#x6CC1;&#xFF0C;&#x90A3;&#x9EBC;&#x6B64;&#x6642;&#xFF0C;&#x8CBB;&#x5E0C;&#x7279;&#x8A8D;&#x70BA;&#xFF0C;&#x570B;&#x5BB6;&#x5C31;&#x6709;&#x8CAC;&#x4EFB;&#x4EE5;&#x5F37;&#x5236;&#x529B;&#x4ECB;&#x5165;&#xFF0C;&#x5C31;&#x50CF;&#x662F;&#x570B;&#x5BB6;&#x6709;&#x8CAC;&#x4EFB;&#x4EE5;&#x5F37;&#x5236;&#x529B;&#x9810;&#x9632;&#x7ACA;&#x76DC;&#x3001;&#x5F37;&#x6436;&#x4E00;&#x6A23;&#x3002;</p>
-<p>&#x5982;&#x679C;&#x8CBB;&#x5E0C;&#x7279;&#x662F;&#x5C0D;&#x7684;&#xFF0C;&#x90A3;&#x9EBC;&#xFF0C;&#x7576;&#x570B;&#x5BB6;&#x662F;&#x4EE5;&#x91CD;&#x8996;&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x65B9;&#x5F0F;&#x5EFA;&#x7ACB;&#x8D77;&#x4F86;&#xFF0C;&#x300C;&#x80FD;&#x4F9D;&#x8CA1;&#x7522;&#x6B0A;&#x4F86;&#x5B58;&#x7E8C;&#x8207;&#x751F;&#x6D3B;&#x300D;&#x5C31;&#x662F;&#x57FA;&#x672C;&#x4EBA;&#x6B0A;&#x3002;</p>
-<h2 id="&#x9810;&#x9632;&#x8CA7;&#x7AAE;&#xFF1A;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;"><a class="header-anchor" href="#&#x9810;&#x9632;&#x8CA7;&#x7AAE;&#xFF1A;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;">&#xB6;</a>&#x9810;&#x9632;&#x8CA7;&#x7AAE;&#xFF1A;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;</h2>
-<p>&#x7576;&#x6211;&#x5011;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#xFF0C;&#x5176;&#x4ED6;&#x6210;&#x54E1;&#x6703;&#x652F;&#x63F4;&#x6211;&#x5011;&#x3002;&#x4F46;&#x662F;&#x6211;&#x5011;&#x4E26;&#x4E0D;&#x60F3;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#xFF08;&#x56E0;&#x70BA;&#x6211;&#x5011;&#x4E5F;&#x6709;&#x8CAC;&#x4EFB;&#x900F;&#x904E;&#x52DE;&#x52D5;&#x8B93;&#x81EA;&#x5DF1;&#x5B58;&#x6D3B;&#x4E0B;&#x53BB;&#xFF0C;&#x4E26;&#x4E14;&#x5E6B;&#x52A9;&#x4ED6;&#x4EBA;&#xFF09;&#xFF0C;&#x90A3;&#x6211;&#x5011;&#x5C31;&#x5FC5;&#x9808;&#x52DE;&#x52D5;&#x3002;</p>
-<p>&#x4F46;&#x5728;&#x4ECA;&#x5929;&#xFF0C;&#x5DE5;&#x696D;&#x767C;&#x9054;&#x7684;&#x570B;&#x5BB6;&#x51FA;&#x73FE;&#x4E86;&#x88AB;&#x7A31;&#x4F5C;&#x300C;&#x6280;&#x8853;&#x6027;&#x5931;&#x696D;&#x300D;&#x7684;&#x73FE;&#x8C61;&#xFF1A;&#x751F;&#x7522;&#x6280;&#x8853;&#x7684;&#x767C;&#x5C55;&#x9020;&#x6210;&#x5C0D;&#x4EBA;&#x529B;&#x7684;&#x5927;&#x5E45;&#x5EA6;&#x7BC0;&#x7D04;&#xFF0C;&#x793E;&#x6703;&#x4E0A;&#x7684;&#x5DE5;&#x4F5C;&#x4E0D;&#x8DB3;&#xFF0C;&#x4F7F;&#x5F97;&#x627E;&#x5230;&#x5DE5;&#x4F5C;&#x8B8A;&#x5F97;&#x8D8A;&#x4F86;&#x8D8A;&#x56F0;&#x96E3;&#x3002;</p>
-<p>&#x6211;&#x5011;&#x7121;&#x6CD5;&#x52DE;&#x52D5;&#x3002;&#x5EE3;&#x6CDB;&#x7684;&#x7121;&#x6CD5;&#x52DE;&#x52D5;&#x9020;&#x6210;&#x5EE3;&#x6CDB;&#x7684;&#x8CA7;&#x7AAE;&#x3002;</p>
-<p>&#x66F4;&#x6E05;&#x695A;&#x5730;&#x8AAA;&#xFF0C;&#x5171;&#x540C;&#x9AD4;&#x7684;&#x6280;&#x8853;&#x6027;&#x5931;&#x696D;&#xFF0C;&#x660E;&#x78BA;&#x5730;&#x8B93;&#x80FD;&#x900F;&#x904E;&#x52DE;&#x52D5;&#x4F86;&#x9632;&#x6B62;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#x7684;&#x6A5F;&#x6703;&#x6D88;&#x5931;&#x4E86;&#x3002;&#x9019;&#x500B;&#x7D50;&#x679C;&#x4E0D;&#x53EA;&#x662F;&#x7D93;&#x6FDF;&#x4E0A;&#x7684;&#x56F0;&#x5883;&#xFF0C;&#x5C0D;&#x65BC;&#x8CBB;&#x897F;&#x7279;&#x9019;&#x985E;&#x5951;&#x7D04;&#x8AD6;&#x8005;&#x4F86;&#x8AAA;&#xFF0C;&#x4E5F;&#x662F;&#x653F;&#x6CBB;&#x54F2;&#x5B78;&#x4E0A;&#x7684;&#x56F0;&#x5883;&#xFF1A;&#x6280;&#x8853;&#x6027;&#x5931;&#x696D;&#x8B93;&#x793E;&#x6703;&#x4E0A;&#x7684;&#x4E00;&#x5927;&#x7FA4;&#x4EBA;&#x7684;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#x9762;&#x81E8;&#x5931;&#x6548;&#xFF0C;&#x5C0D;&#x65BC;&#x9019;&#x7FA4;&#x4EBA;&#x4F86;&#x8AAA;&#xFF0C;&#x653E;&#x68C4;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#xFF0C;&#x63A5;&#x7D0D;&#x300C;&#x5927;&#x5BB6;&#x4F86;&#x6436;&#x5427;&#xFF01;&#x300D;&#x5951;&#x7D04;&#xFF0C;&#x6210;&#x70BA;&#x8D8A;&#x4F86;&#x8D8A;&#x7406;&#x6027;&#x7684;&#x9078;&#x9805;&#x3002;</p>
-<p>&#x7576;&#x793E;&#x6703;&#x66F4;&#x52A0;&#x5BCC;&#x88D5;&#x3001;&#x8CA7;&#x7AAE;&#x66F4;&#x52A0;&#x5EE3;&#x6CDB;&#x3001;&#x751F;&#x7522;&#x6548;&#x7387;&#x5927;&#x904E;&#x793E;&#x6703;&#x7684;&#x9700;&#x6C42;&#xFF0C;&#x4E00;&#x7A2E;&#x65B0;&#x7684;&#x7D93;&#x6FDF;&#x5206;&#x914D;&#x69CB;&#x60F3;&#x4FBF;&#x88AB;&#x63D0;&#x51FA;&#xFF0C;&#x5373;&#x300C;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;&#xFF08;Unconditional Basic Income&#xFF0C;UBI&#xFF09;&#x300D;&#x3002;&#x4E26;&#x975E;&#x5C0D;&#x8CA7;&#x7AAE;&#x8005;&#x767C;&#x653E;&#x57FA;&#x672C;&#x751F;&#x6D3B;&#x958B;&#x652F;&#xFF0C;&#x800C;&#x662F;&#x5C0D;&#x6240;&#x6709;&#x6210;&#x54E1;&#x767C;&#x653E;&#x4E00;&#x7B46;&#x57FA;&#x672C;&#x6536;&#x5165;&#x3002;</p>
-<p>&#x4E5F;&#x5C31;&#x662F;&#x8AAA;&#xFF0C;UBI&#x7684;&#x76EE;&#x7684;&#x4E26;&#x975E;&#x662F;&#x88DC;&#x8CBC;&#x7AAE;&#x4EBA;&#xFF0C;&#x800C;&#x662F;&#x56E0;&#x61C9;&#x9019;&#x500B;&#x7D50;&#x69CB;&#x6027;&#x7684;&#x6539;&#x8B8A;&#xFF0C;&#x900F;&#x904E;&#x767C;&#x653E;&#x4E00;&#x7B46;&#x8B93;&#x4EBA;&#x4E0D;&#x6703;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#x7684;&#x6536;&#x5165;&#xFF0C;&#x4F86;&#x8B93;&#x4EBA;&#x4E0D;&#x6703;&#x56E0;&#x6B64;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#x3002;&#x8EAB;&#x70BA;&#x8FD1;&#x5E74;&#x71B1;&#x9580;&#x7684;&#x984C;&#x76EE;&#xFF0C;UBI&#x7684;&#x5021;&#x8B70;&#x8005;&#x4E5F;&#x81F4;&#x529B;&#x65BC;&#x56DE;&#x7B54;&#x5404;&#x7A2E;&#x64D4;&#x6182;&#xFF0C;&#x4F8B;&#x5982;&#x4E0D;&#x52DE;&#x800C;&#x7372;&#x7684;&#x6B63;&#x7576;&#x6027;&#xFF0C;&#x4E26;&#x5F37;&#x8ABF;UBI&#x53EF;&#x671B;&#x89E3;&#x6C7A;&#x4E00;&#x822C;&#x798F;&#x5229;&#x653F;&#x7B56;&#x96E3;&#x4EE5;&#x89F8;&#x53CA;&#x7684;&#x554F;&#x984C;&#x3002;</p>
-<p>&#x96D6;&#x7136;&#x8CBB;&#x5E0C;&#x7279;&#x4E26;&#x672A;&#x8003;&#x616E;&#x904E;&#x9019;&#x7A2E;&#x5206;&#x914D;&#x6A21;&#x5F0F;&#xFF08;&#x7562;&#x7ADF;&#x4ED6;&#x4E26;&#x672A;&#x60F3;&#x898B;&#xFF0C;&#x6A5F;&#x5668;&#x53D6;&#x4EE3;&#x4EBA;&#x529B;&#x7684;&#x65B9;&#x5F0F;&#x6703;&#x5982;&#x6B64;&#x767C;&#x5C55;&#xFF09;&#xFF0C;&#x4F46;&#x5176;&#x5BE6;&#xFF0C;&#x6211;&#x5011;&#x6703;&#x767C;&#x73FE;&#x9019;&#x7A2E;&#x65B9;&#x5F0F;&#x8981;&#x6BD4;&#x5F37;&#x5236;&#x5FB5;&#x6536;&#x5BCC;&#x4EBA;&#x4F86;&#x63F4;&#x52A9;&#x7AAE;&#x4EBA;&#xFF0C;&#x66F4;&#x52A0;&#x4FDD;&#x969C;&#x4ED6;&#x7684;&#x8CA1;&#x7522;&#x6B0A;&#x5951;&#x7D04;&#x3002;&#x798F;&#x5229;&#x570B;&#x5BB6;&#x662F;&#x4F7F;&#x7AAE;&#x4EBA;&#x300C;&#x6062;&#x5FA9;&#x300D;&#x8CA1;&#x7522;&#x6B0A;&#xFF0C;&#x4F46;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;&#x662F;&#x4F7F;&#x4EBA;&#x6839;&#x672C;&#x4E0D;&#x6703;&#x843D;&#x5165;&#x8CA7;&#x7AAE;&#x3002;</p>
-<p>&#x7576;&#x5EB7;&#x5FB7;&#x4E3B;&#x5F35;&#x300C;&#x5BCC;&#x4EBA;&#x4E26;&#x4E0D;&#x300E;&#x63F4;&#x52A9;&#x300F;&#x7AAE;&#x4EBA;&#xFF0C;&#x800C;&#x53EA;&#x662F;&#x628A;&#x672C;&#x4F86;&#x5C31;&#x8A72;&#x662F;&#x4ED6;&#x5011;&#x7684;&#x6771;&#x897F;&#x9084;&#x7D66;&#x4ED6;&#x5011;&#x3002;&#x300D;UBI&#x8AAA;&#x5F97;&#x66F4;&#x9032;&#x4E00;&#x6B65;&#xFF1A;&#x5225;&#x8B93;&#x4EFB;&#x4F55;&#x4EBA;&#x8B8A;&#x6210;&#x7AAE;&#x4EBA;&#x3002;</p>
+<h2 id="財產權的條件我們能靠財產生活">財產權的條件：我們能靠財產生活</h2>
+<p>首先，財產權要成立，並不是你覺得自己擁有財產就夠了，還需要整個共同體的配合和認可。光是宣稱「我口袋裡有200元」，不代表你真的擁有那些錢，還得確保：這個社會同意你可以隨意處置該財產，而且只有你可以決定怎麼處置它。</p>
+<p>在費希特看來，財產權是一種全員的契約，並且是共同體中成員所必備擁有以用來永續生存的基本權利。國家有責任行使強制力確保這些權利。</p>
+<p>有些人（其他契約論者）可能就說到這裡，然而費希特更進一步指出，事實上財產權契約還有一個條件：會同意這個契約，是因為我能擁有足夠的財產，足以支持我活下去。也就是說，要是我發現我沒有勞動力來讓我獲取足夠財產，我打從一開始就不會支持財產權契約，我可能會支持另一個契約：大家都用搶的吧。</p>
+<p>因此，當我沒有足夠財產的時候，我的財產權契約就面臨取消的境況，那麼此時，費希特認為，國家就有責任以強制力介入，就像是國家有責任以強制力預防竊盜、強搶一樣。</p>
+<p>如果費希特是對的，那麼，當國家是以重視財產權的方式建立起來，「能依財產權來存續與生活」就是基本人權。</p>
+<h2 id="預防貧窮全民基本收入">預防貧窮：全民基本收入</h2>
+<p>當我們落入貧窮，其他成員會支援我們。但是我們並不想落入貧窮（因為我們也有責任透過勞動讓自己存活下去，並且幫助他人），那我們就必須勞動。</p>
+<p>但在今天，工業發達的國家出現了被稱作「技術性失業」的現象：生產技術的發展造成對人力的大幅度節約，社會上的工作不足，使得找到工作變得越來越困難。</p>
+<p>我們無法勞動。廣泛的無法勞動造成廣泛的貧窮。</p>
+<p>更清楚地說，共同體的技術性失業，明確地讓能透過勞動來防止落入貧窮的機會消失了。這個結果不只是經濟上的困境，對於費西特這類契約論者來說，也是政治哲學上的困境：技術性失業讓社會上的一大群人的財產權契約面臨失效，對於這群人來說，放棄財產權契約，接納「大家來搶吧！」契約，成為越來越理性的選項。</p>
+<p>當社會更加富裕、貧窮更加廣泛、生產效率大過社會的需求，一種新的經濟分配構想便被提出，即「全民基本收入（Unconditional Basic Income，UBI）」。並非對貧窮者發放基本生活開支，而是對所有成員發放一筆基本收入。</p>
+<p>也就是說，UBI的目的並非是補貼窮人，而是因應這個結構性的改變，透過發放一筆讓人不會落入貧窮的收入，來讓人不會因此落入貧窮。身為近年熱門的題目，UBI的倡議者也致力於回答各種擔憂，例如不勞而獲的正當性，並強調UBI可望解決一般福利政策難以觸及的問題。</p>
+<p>雖然費希特並未考慮過這種分配模式（畢竟他並未想見，機器取代人力的方式會如此發展），但其實，我們會發現這種方式要比強制徵收富人來援助窮人，更加保障他的財產權契約。福利國家是使窮人「恢復」財產權，但全民基本收入是使人根本不會落入貧窮。</p>
+<p>當康德主張「富人並不『援助』窮人，而只是把本來就該是他們的東西還給他們。」UBI說得更進一步：別讓任何人變成窮人。</p>
 <blockquote>
-<p>&#x672C;&#x6587;&#x9996;&#x6B21;&#x520A;&#x767B;&#x65BC;&#x9CF4;&#x4EBA;&#x5802;<a href="https://opinion.udn.com/opinion/story/6685/3543662" target="_blank" rel="noopener">&#x70D9;&#x54F2;&#x5B78;&#x5C08;&#x6B04;</a>&#x3002;</p>
+<p>本文首次刊登於鳴人堂<a target="_blank" rel="noopener" href="https://opinion.udn.com/opinion/story/6685/3543662">烙哲學專欄</a>。</p>
 </blockquote>
-<hr>
-<p>&#x5982;&#x679C;&#x4F60;&#x559C;&#x6B61;&#x9019;&#x7BC7;&#x6587;&#x7AE0;&#xFF0C;&#x8ACB;&#x4E0D;&#x541D;&#x7528;&#x5BE6;&#x969B;&#x884C;&#x52D5;&#x652F;&#x6301;&#x6211;&#xFF1A;</p>
+<hr />
+<p>如果你喜歡這篇文章，請不吝用實際行動支持我：</p>
 <ul>
-<li><a href="https://paypal.me/wayne930242" target="_blank" rel="noopener"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="cc-paypal" class="svg-inline--fa fa-cc-paypal fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M186.3 258.2c0 12.2-9.7 21.5-22 21.5-9.2 0-16-5.2-16-15 0-12.2 9.5-22 21.7-22 9.3 0 16.3 5.7 16.3 15.5zM80.5 209.7h-4.7c-1.5 0-3 1-3.2 2.7l-4.3 26.7 8.2-.3c11 0 19.5-1.5 21.5-14.2 2.3-13.4-6.2-14.9-17.5-14.9zm284 0H360c-1.8 0-3 1-3.2 2.7l-4.2 26.7 8-.3c13 0 22-3 22-18-.1-10.6-9.6-11.1-18.1-11.1zM576 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h480c26.5 0 48 21.5 48 48zM128.3 215.4c0-21-16.2-28-34.7-28h-40c-2.5 0-5 2-5.2 4.7L32 294.2c-.3 2 1.2 4 3.2 4h19c2.7 0 5.2-2.9 5.5-5.7l4.5-26.6c1-7.2 13.2-4.7 18-4.7 28.6 0 46.1-17 46.1-45.8zm84.2 8.8h-19c-3.8 0-4 5.5-4.2 8.2-5.8-8.5-14.2-10-23.7-10-24.5 0-43.2 21.5-43.2 45.2 0 19.5 12.2 32.2 31.7 32.2 9 0 20.2-4.9 26.5-11.9-.5 1.5-1 4.7-1 6.2 0 2.3 1 4 3.2 4H200c2.7 0 5-2.9 5.5-5.7l10.2-64.3c.3-1.9-1.2-3.9-3.2-3.9zm40.5 97.9l63.7-92.6c.5-.5.5-1 .5-1.7 0-1.7-1.5-3.5-3.2-3.5h-19.2c-1.7 0-3.5 1-4.5 2.5l-26.5 39-11-37.5c-.8-2.2-3-4-5.5-4h-18.7c-1.7 0-3.2 1.8-3.2 3.5 0 1.2 19.5 56.8 21.2 62.1-2.7 3.8-20.5 28.6-20.5 31.6 0 1.8 1.5 3.2 3.2 3.2h19.2c1.8-.1 3.5-1.1 4.5-2.6zm159.3-106.7c0-21-16.2-28-34.7-28h-39.7c-2.7 0-5.2 2-5.5 4.7l-16.2 102c-.2 2 1.3 4 3.2 4h20.5c2 0 3.5-1.5 4-3.2l4.5-29c1-7.2 13.2-4.7 18-4.7 28.4 0 45.9-17 45.9-45.8zm84.2 8.8h-19c-3.8 0-4 5.5-4.3 8.2-5.5-8.5-14-10-23.7-10-24.5 0-43.2 21.5-43.2 45.2 0 19.5 12.2 32.2 31.7 32.2 9.3 0 20.5-4.9 26.5-11.9-.3 1.5-1 4.7-1 6.2 0 2.3 1 4 3.2 4H484c2.7 0 5-2.9 5.5-5.7l10.2-64.3c.3-1.9-1.2-3.9-3.2-3.9zm47.5-33.3c0-2-1.5-3.5-3.2-3.5h-18.5c-1.5 0-3 1.2-3.2 2.7l-16.2 104-.3.5c0 1.8 1.5 3.5 3.5 3.5h16.5c2.5 0 5-2.9 5.2-5.7L544 191.2v-.3zm-90 51.8c-12.2 0-21.7 9.7-21.7 22 0 9.7 7 15 16.2 15 12 0 21.7-9.2 21.7-21.5.1-9.8-6.9-15.5-16.2-15.5z"/></svg> &#x55AE;&#x6B21;&#x652F;&#x6301;&#xFF08;paypal&#xFF09;</a></li>
+<li><a target="_blank" rel="noopener" href="https://paypal.me/wayne930242"><i class="fab fa-paypal"></i> 單次支持（paypal）</a></li>
 </ul>
 
-            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
-                <source type="audio/mpeg" src="">
-            </audio>
-            
-                <ul id="audio-list" style="display:none">
-                    
-                </ul>
-            
+    </div>
+
+    
+    
+    
+        
+
+  <div class="followme">
+    <p>歡迎關注我的其它發布渠道</p>
+
+    <div class="social-list">
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="https://twitter.com/wayne930242">
+            <span class="icon">
+              <i class="fab fa-twitter"></i>
+            </span>
+
+            <span class="label">Twitter</span>
+          </a>
         </div>
-        <div id="disqus_thread">
-    <script type="text/javascript">
-    var disqus_shortname = '';
-    var disqus_config = function () {
-        this.page.url = 'https://wayneh.tw/2018/12/26/Fichte-UBI/';
-        this.page.identifier = '/2018/12/26/Fichte-UBI/';
-        this.page.title = '國家應該免費給你錢？談費希特的財產權概念';
-    };
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://waynetwhexo.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="https://www.plurk.com/wayne930242">
+            <span class="icon">
+              <i class="fas fa-parking"></i>
+            </span>
+
+            <span class="label">Plurk</span>
+          </a>
+        </div>
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+
+            <span class="label">RSS</span>
+          </a>
+        </div>
+    </div>
+  </div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%B8/" rel="tag"># 政治哲學</a>
+              <a href="/tags/%E8%B2%BB%E5%B8%8C%E7%89%B9/" rel="tag"># 費希特</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2018/04/28/metaphysics-of-cthulhu-mythos/" rel="prev" title="克蘇魯神話的形上學">
+      <i class="fa fa-chevron-left"></i> 克蘇魯神話的形上學
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2019/07/17/education/" rel="next" title="小孩的教養除了讓大人心情好一點，還能幹嘛？">
+      小孩的教養除了讓大人心情好一點，還能幹嘛？ <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目錄
+        </li>
+        <li class="sidebar-nav-overview">
+          本站概要
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="洪偉 Wei Hung"
+      src="/logo.png">
+  <p class="site-author-name" itemprop="name">洪偉 Wei Hung</p>
+  <div class="site-description" itemprop="description">哲學普及與 TRPG 推廣。加上關於生活與社會的一些雜談。</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">22</span>
+          <span class="site-state-item-name">文章</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分類</span>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">24</span>
+        <span class="site-state-item-name">標籤</span>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/wayne930242" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:wayne930242@gmail.com" title="E-Mail → mailto:wayne930242@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/wayne930242" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.facebook.com/wayne930242" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-facebook fa-fw"></i>FB Page</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.plurk.com/wayne930242" title="Plurk → https:&#x2F;&#x2F;www.plurk.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fas fa-parking fa-fw"></i>Plurk</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fas fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">洪偉 Wei Hung</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://pisces.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> 強力驅動
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.querySelectorAll('.pdfobject-container').forEach(element => {
+  let url = element.dataset.target;
+  let pdfOpenParams = {
+    navpanes : 0,
+    toolbar  : 0,
+    statusbar: 0,
+    pagemode : 'thumbs',
+    view     : 'FitH'
+  };
+  let pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
+  let fullURL = `/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
+
+  if (NexT.utils.supportsPDFs()) {
+    element.innerHTML = `<embed class="pdfobject" src="${url + pdfOpenFragment}" type="application/pdf" style="height: ${element.dataset.height};">`;
+  } else {
+    element.innerHTML = `<iframe src="${fullURL}" style="height: ${element.dataset.height};" frameborder="0"></iframe>`;
+  }
+});
+</script>
+
+
+<script>
+if (document.querySelectorAll('pre.mermaid').length) {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js', () => {
+    mermaid.initialize({
+      theme    : 'forest',
+      logLevel : 3,
+      flowchart: { curve     : 'linear' },
+      gantt    : { axisFormat: '%m/%d/%Y' },
+      sequence : { actorMargin: 50 }
+    });
+  }, window.mermaid);
+}
+</script>
+
+
+  
+
+  
+
+  
+  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri === 'https://wayneh.tw/2018/12/26/Fichte-UBI/',]
+      });
+      });
   </script>
-  <noscript>Please enable JavaScript to view the <a target="_blank" rel="noopener" href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
+<script>
+  function loadCount() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://waynehtw.disqus.com/count.js';
+    s.id = 'dsq-count-scr';
+    (d.head || d.body).appendChild(s);
+  }
+  // defer loading until the whole page loading is completed
+  window.addEventListener('load', loadCount, false);
+</script>
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://wayneh.tw/2018/12/26/Fichte-UBI/";
+    this.page.identifier = "2018/12/26/Fichte-UBI/";
+    this.page.title = "國家應該免費給你錢？談費希特的財產權概念";
+    };
+  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
+    if (window.DISQUS) {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      });
+    } else {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://waynehtw.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', '' + +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+  });
+</script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
-        </div>
-        </div>
-    
-        <div class='side'>
-            <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#&#x8CBB;&#x5E0C;&#x7279;&#xFF1A;&#x570B;&#x5BB6;&#x61C9;&#x4ECB;&#x5165;&#x8CA7;&#x7AAE;"><span class="toc-text">&amp;#xB6;&amp;#x8CBB;&amp;#x5E0C;&amp;#x7279;&amp;#xFF1A;&amp;#x570B;&amp;#x5BB6;&amp;#x61C9;&amp;#x4ECB;&amp;#x5165;&amp;#x8CA7;&amp;#x7AAE;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#&#x8CA1;&#x7522;&#x6B0A;&#x7684;&#x689D;&#x4EF6;&#xFF1A;&#x6211;&#x5011;&#x80FD;&#x9760;&#x8CA1;&#x7522;&#x751F;&#x6D3B;"><span class="toc-text">&amp;#xB6;&amp;#x8CA1;&amp;#x7522;&amp;#x6B0A;&amp;#x7684;&amp;#x689D;&amp;#x4EF6;&amp;#xFF1A;&amp;#x6211;&amp;#x5011;&amp;#x80FD;&amp;#x9760;&amp;#x8CA1;&amp;#x7522;&amp;#x751F;&amp;#x6D3B;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#&#x9810;&#x9632;&#x8CA7;&#x7AAE;&#xFF1A;&#x5168;&#x6C11;&#x57FA;&#x672C;&#x6536;&#x5165;"><span class="toc-text">&amp;#xB6;&amp;#x9810;&amp;#x9632;&amp;#x8CA7;&amp;#x7AAE;&amp;#xFF1A;&amp;#x5168;&amp;#x6C11;&amp;#x57FA;&amp;#x672C;&amp;#x6536;&amp;#x5165;</span></a></li></ol>
-        </div>
-    
-    <div id="footnoteText"></div>
-</div>
-
-    </div>
-</div><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </body>
-
-<script src="../../../../cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-
-
-<script src="../../../../ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="../../../../js/plugin.js"></script>
-<script src="../../../../js/diaspora.js"></script>
-
-
-<link rel="stylesheet" href="../../../../photoswipe/photoswipe.css">
-<link rel="stylesheet" href="../../../../photoswipe/default-skin/default-skin.css">
-
-
-<script src="../../../../photoswipe/photoswipe.min.js"></script>
-<script src="../../../../photoswipe/photoswipe-ui-default.min.js"></script>
-
-
-<!-- Root element of PhotoSwipe. Must have class pswp. -->
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <!-- Background of PhotoSwipe. 
-         It's a separate element as animating opacity is faster than rgba(). -->
-    <div class="pswp__bg"></div>
-    <!-- Slides wrapper with overflow:hidden. -->
-    <div class="pswp__scroll-wrap">
-        <!-- Container that holds slides. 
-            PhotoSwipe keeps only 3 of them in the DOM to save memory.
-            Don't modify these 3 pswp__item elements, data is added later on. -->
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <!--  Controls are self-explanatory. Order can be changed. -->
-                <div class="pswp__counter"></div>
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-                <!-- element will get class pswp__preloader--active when preloader is running -->
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                      <div class="pswp__preloader__cut">
-                        <div class="pswp__preloader__donut"></div>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div> 
-            </div>
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-            </button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-            </button>
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
 </html>

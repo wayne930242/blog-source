@@ -1,12 +1,13 @@
 ---
 title: CoC 衍生系統：瑞阿勒提的呼喚（Call of R'Ality）
 categories: TRPG
-cover: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cthulhu_Regio.jpg/1024px-Cthulhu_Regio.jpg'
 date: 2020-05-27 14:08:54
 tags:
   - CoC
   - 自製規則
 ---
+
+{% img https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cthulhu_Regio.jpg/1024px-Cthulhu_Regio.jpg %}
 
 {% blockquote ——弗里德里希．威廉．尼采 %}
 當你凝視深淵，深淵也凝視著你。
@@ -17,6 +18,8 @@ tags:
 你有辦法一邊繳帳單一邊湊錢召喚邪神嗎？在反社會的同時要如何融入邪教生活？當你正要聯絡你的同伴對付調查員，卻發現電話費沒錢繳有多尷尬？你曾經擊潰過邪教徒，但你瞭解他們的困境嗎？當現實突然來訪，你是否還能維持你的信仰？
 
 > CoC 7 版的版權屬於混沌元素（Chaosium）。這個衍生系統由粉絲創作，和混沌元素沒有任何關係。
+
+<!--more-->
 
 # 如何遊玩
 
@@ -175,5 +178,5 @@ tags:
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

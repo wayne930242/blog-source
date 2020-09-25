@@ -3,13 +3,16 @@ title: 五、順利進行虛構敘事(2)：場景發展
 tags:
   - CoC 守密人指南
 categories: TRPG
-cover: /img/coc7.jpg
 date: 2020-09-23 14:03:59
 ---
+
+{% img /img/coc7.jpg %}
 
 在良好的 **_虛構敘事_** 對話中，你好好地回應了玩家說的話，而玩家也好好地回應了你的。「好好地回應」是什麼意思？一部分來說，是我們上一篇所說的，回應了彼此的故事意圖。但另一部分，則是我們目前還陌生的：回應了彼此在場景發展上的意圖，對於守密人來說，也就是，回應了玩家的行動目的。
 
 角色的行動目的和玩家的發問息息相關。如果玩家的發問開始變得瑣碎，你該考慮「先不要回答問題」，先發問「這問題的答案有什麼意義？」你不打算猜玩家的意圖，也不想給你自己都不知道意義的答案。
+
+<!--more-->
 
 同樣的道理，如果玩家角色的行動變得無法理解、或採取的人際互動在你看來不太妥當，你該考慮「先不要回應他」，先發問「你這麼做的目的是什麼？」「你是在嘗試激怒他嗎？」代表你正在為「如何回應」找到更踏實的基礎。
 
@@ -43,5 +46,5 @@ date: 2020-09-23 14:03:59
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

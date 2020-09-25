@@ -1,17 +1,20 @@
 ---
 title: 序、守密人的工作
 categories: TRPG
-cover: /img/coc7.jpg
 date: 2020-08-17 12:28:40
 tags:
  - CoC 守密人指南
 ---
+
+{% img /img/coc7.jpg %}
 
 守密人（Keeper、KP）為了一場遊戲存在。一場遊戲可能只包括一次聚會（我們稱這叫「單發（one shot）團」），也可能包括十次甚至三十次的聚會（我們稱這叫作「戰役」）。
 
 對於一場遊戲而言，守密人有許多足以支配故事發展的權力。因此守密人往往認為，自己需要為遊戲的體驗負責。一方面來說，這是對的，守密人對於遊戲體驗至關重要。但另一方面來說，守密人如果字面上過度延伸這樣的教條，他有可能反而誤入歧途，因為他弄錯了自己的任務：他是為了一場遊戲存在的，他並不是遊戲本身。
 
 要釐清這問題怎麼發生的、以及後果是什麼，我們要先澄清，究竟我們正在進行的是怎樣的一場遊戲。
+
+<!--more-->
 
 一些初步接觸 TRPG 的玩家，可能會這樣類比：「GM（遊戲主持人）就像是你玩電腦遊戲的時候的電腦」。這說法如果是對的，那大概後面還要加上一句「但是是性能比較差的電腦」。對剛入門的玩家來說，這或許是簡單易懂的說法，但在實務上，會造成一些怪問題。
 
@@ -37,5 +40,5 @@ _遊戲經營_ 則是建立遊戲所需的工作：帶出玩家的遊戲意識�
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

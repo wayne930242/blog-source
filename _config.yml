@@ -11,13 +11,9 @@ author: 洪偉 Wei Hung
 language: zh-TW
 timezone: Asia/Taipei
 
-github_username: wayne930242
-twitter_username: wayne930242
-facebook_username: wayne930242
-
 # archive page title
 archive:
-  title: 封存
+  title: 歸檔
 
 # Build settings
 anchorjs: false
@@ -29,9 +25,6 @@ url: https://wayneh.tw
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
-header-img: default.jpeg
-email: wayne930242@gmail.com
 
 # Directory
 source_dir: source
@@ -50,8 +43,8 @@ titlecase: false # Transform title into titlecase
 external_link.enable: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
-relative_link: true
+post_asset_folder: false
+relative_link: false
 future: true
 highlight:
   enable: true
@@ -112,7 +105,7 @@ markdown:
     permalinkClass: header-anchor
     permalinkSymbol: ¶
 
-theme: diaspora
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -121,54 +114,3 @@ deploy:
   repo: git@github.com:wayne930242/wayne930242.github.io.git
   branch: master
   message: blog update
-
-# Themes
-google_analytics: 'UA-61272067-1'
-ga_domain: wayneh.tw
-disqus_username: waynehtw
-favicon: https://wayneh.tw/favicon.png
-mp3:
-    - https://wayneh.tw/mp3/Touching_Moment.mp3
-    - https://wayneh.tw/mp3/Dinner_for_Two.mp3
-featured-tags: true
-featured-condition-size: 1
-rss: atom.xml
-cover: https://wayneh.tw/img/default.jpg
-post-default-img: "https://wayneh.tw/img/default.jpg"
-post-default-img-mobile: "https://wayneh.tw/img/default.jpg"
-menu:
- About: https://about.me/wayne930242
- 哲學: https://wayneh.tw/categories/philosophy/
- TRPG: https://wayneh.tw/categories/TRPG/
-
-# Disqus
-disqus:
-  enable: true
-  disqus_shortname: waynetwhexo
-  count: true
-
-# Sidebar settings
-sidebar: true
-sidebar-about-description: "台大哲學博士生、哲學普及工作者， TRPG 玩家與專欄作家。"
-sidebar-avatar: /avatar.jpg
-
-# Qiniu imageView2 API
-# clip-content: "?imageView2/1/w/1400/h/400/interlace/1/q/90"
-# clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
-# clip-post: "?" # you can custom post width and height
-# clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
-
-math:
-  engine: 'katex' # or 'mathjax' 
-  mathjax:
-    src: custom_mathjax_source
-    config:
-      # MathJax config
-  katex:
-    css: custom_css_source
-    js: custom_js_source # not used
-    config:
-      # KaTeX config
-
-pandoc:
-  mathEngine: katex

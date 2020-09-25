@@ -1,7 +1,6 @@
 ---
 title: 小孩的教養除了讓大人心情好一點，還能幹嘛？
 mp3:
-cover: 'https://wayneh.tw/img/education.jpg'
 date: 2019-07-17 17:07:55
 tags:
   - 概念反思
@@ -10,6 +9,8 @@ tags:
   - 應用倫理學
 categories: philosophy
 ---
+
+{% img /img/education.jpg %}
 
 郝廣才在金鼎獎公開發言，認為人在台北車站大廳席地而坐，顯示了因為不讀書而導致的教養問題。他認為，這就像廁所排不到就在大廳大便一樣——不管是哪本書讓他覺得這類比恰當，我希望那本書離我的孩子遠一點。當柯文哲發現建中生不用掃廁所，也批評說這違反教育宗旨。
 
@@ -131,4 +132,4 @@ categories: philosophy
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

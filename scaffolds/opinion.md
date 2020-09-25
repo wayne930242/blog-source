@@ -3,8 +3,9 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories: philosophy
-cover: /img/
 ---
+
+{% img  %}
 
 > 本文首次刊登於「鳴人堂烙哲學」專欄。
 
@@ -12,4 +13,4 @@ cover: /img/
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

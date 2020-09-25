@@ -1,15 +1,18 @@
 ---
 title: 一、TRPG 是怎樣的遊戲？
 categories: TRPG
-cover: /img/coc7.jpg
 tags:
  - CoC 守密人指南
 date: 2020-09-16 21:54:49
 ---
 
+{% img /img/coc7.jpg %}
+
 TRPG 是一個由語言所進行的遊戲，玩家與 GM 透過對話來玩。一些對話和遊戲無關，像是「抱歉，我得去一下洗手間」，有些則是遊戲相關，但並非遊戲本身，「如果我希望看破他的謊言，我得擲什麼技能」。
 
 守密人精進的第一步，是要弄清楚 TRPG 是怎樣的遊戲。要弄清楚 TRPG 的遊戲，我們需要看到這個遊戲中混合的各種對話模式與觀點，以及這些觀點之間的關係。
+
+<!--more-->
 
 有三個重要的對話模式以及觀點：
 
@@ -35,5 +38,5 @@ _評價觀點_：玩家同時也是觀眾，他們除了創造自己的故事，
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

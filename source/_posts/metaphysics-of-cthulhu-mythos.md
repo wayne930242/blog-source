@@ -7,9 +7,9 @@ tags:
  - 形上學
 categories:
  - philosophy
-cover: https://wayneh.tw/img/cthulhu.jpeg
-mp3: https://wayneh.tw/mp3/Spirit_of_the_Dead.mp3
 ---
+
+{% img /img/cthulhu.jpeg %}
 
 克蘇魯神話（Cthulhu Mythos）是小說家洛夫克拉夫特（Howard Phillips Lovecraft，1890年8月20日至？？？，據說還活著）創造的神話世界觀的總稱，你或許從來沒聽過克蘇魯神話，但其實它深深地影響了我們這時代。異形、魔獸世界、大萌神長門有希、觸手 play 等，都有克蘇魯神話的影子。以克蘇魯神話為題材的遊戲也不少，例如渾沌元素（chaosium）出版的角色扮演遊戲《克蘇魯的呼喚》（Call of Cthulhu）。甚至有一種恐怖風格，就叫「洛夫克拉夫特式恐怖」。
 
@@ -84,4 +84,4 @@ mp3: https://wayneh.tw/mp3/Spirit_of_the_Dead.mp3
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

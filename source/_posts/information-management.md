@@ -1,19 +1,21 @@
 ---
 title: 談 CoC 的情報管理
 categories: TRPG
-mp3: 'https://wayneh.tw/mp3/They_Might_Not.mp3'
-cover: 'https://wayneh.tw/img/information_management.jpg'
 date: 2020-03-05 18:36:05
 tags: 
  - CoC
  - GM
 ---
 
+{% img /img/information_management.jpg %}
+
 當教授在塵封的舊書中尋找不起眼的歷史資料，找到了什麼？偵探在雜亂污穢的現場尋找蛛絲馬跡，得知了什麼？法醫在被害者的屍體上尋找到了邪惡肆虐的證據，那是什麼？
 
 調查，是克蘇魯的呼喚遊戲的主旨，也是恐怖氛圍與營造的關鍵。
 
 玩家進行調查。而你，守密人，你必須看守情報。
+
+<!--more-->
 
 ## 情報管理的目的
 
@@ -79,5 +81,5 @@ tags:
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline patreon fab %} 定期支持（patreon）](https://www.patreon.com/weihung)
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
+* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

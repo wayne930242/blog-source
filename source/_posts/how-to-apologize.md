@@ -1,11 +1,12 @@
 ---
 title: 道歉的哲學：「因為你生氣所以我道歉」為何不妥？
-cover: '/img/apology.jpg'
 date: 2020-06-12 15:11:21
 tags:
  - 語言哲學
 categories: philosophy
 ---
+
+{% img /img/apology.jpg %}
 
 > 本文首次刊登於「鳴人堂烙哲學」專欄。
 
@@ -20,6 +21,8 @@ categories: philosophy
 這麼多道歉方向，並不是隨意選一個就行。狀況不同，適合的道歉也不同。若小安從來沒遲到過，或許一句「抱歉我遲到了」就能讓小華滿意；但若小安熬夜打電動的習慣過去已經造成小華不少困擾，小安可能需要說更多。
 
 怎樣的道歉才妥當？以下我提出一個分析：我主張，道歉的核心在於表達自己同意某種「互動規則」。
+
+<!--more-->
 
 # 什麼是道歉？
 
@@ -106,4 +109,4 @@ categories: philosophy
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

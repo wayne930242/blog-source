@@ -1,13 +1,16 @@
 ---
 title: The Henkin style proof of the completeness of predicate logic
-mp3: 
-cover: 
 date: 2020-04-07 19:01:03
 tags:
   - 邏輯
   - 學院
 categories: philosophy
+mathjax: true
 ---
+
+述詞邏輯完備性的證明。
+
+<!--more-->
 
 # The Semantics
 
@@ -288,4 +291,4 @@ If $\Gamma \vDash \phi$, then $\Gamma \vdash \phi$ where $\phi$ is a sentence in
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)

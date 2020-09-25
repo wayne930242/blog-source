@@ -1,12 +1,13 @@
 ---
 title: 連孔恩都認不出來的「典範轉移」真的沒問題嗎？
 mp3:
-cover: 'https://wayneh.tw/img/kuhn.jpg'
 date: 2019-07-18 16:59:47
 tags:
   - 語詞誤用
 categories: philosophy
 ---
+
+{% img /img/kuhn.jpg %}
 
 最近《關鍵評論網》上刊登了[一篇談典範轉移（paradigm shift）的文章](https://www.thenewslens.com/article/72434)，節錄了柯維（Stephen Covey）的《與成功有約：高效能人士的七個習慣》。「與成功有約」是一本勵志書，主要的宗旨看起來像是「透過一些習慣的轉變，能讓我們更容易成功」。
 
@@ -107,4 +108,4 @@ categories: philosophy
 
 如果你喜歡這篇文章，請不吝用實際行動支持我：
 
-* [{% fa_inline cc-paypal fab %} 單次支持（paypal）](https://paypal.me/wayne930242)
+* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://paypal.me/wayne930242)
