@@ -6,6 +6,7 @@ date: 2020-08-28 16:24:57
 tags:
   - SRD
   - 規則
+  - Blades in the Dark
 ---
 
 <img style="width:100%;" src="/2020/08/28/blades-in-the-dark-srd/BitD.png" />
@@ -28,7 +29,7 @@ _暗夜冷鋒_ 是關於膽大包天的角色們一起壯大幫派的故事。�
 
 ## 角色
 
-角色們透過做案和抗衡敵人威脅來嘗試發展他們的幫派。
+角色們透過案件和抗衡敵人威脅來嘗試發展他們的幫派。
 
 ## 幫派
 
@@ -44,7 +45,7 @@ GM 協助組織遊戲中的對話，讓它能點出有趣的遊玩元素。GM �
 
 _暗夜冷鋒_ 的一次聚會就像是電視劇的一集。有一個或兩個主要是見，加上一些分支故事元素，為未來的系列故事留下伏筆。一次遊玩聚會可以少到兩小時，多至六小時，看團的喜好。
 
-在聚會之中，惡棍們的幫派一起選擇要完成的案子，然後進行一些擲骰來跳到進行中的做案行動。PCs 進行行動、承受後果並且完成任務（成功或失敗）。接著幫派進行休整期，他們在那時恢復狀態、追求旁支專案、與沉迷於他們的惡習。在休整期後，玩家再次尋找新的機會或創造他們的目標與所求，我們用玩的來看看接下來怎麼樣。
+在聚會之中，惡棍們的幫派一起選擇要完成的案件，然後進行一些擲骰來跳到進行中的案件行動。PC 們進行行動、承受後果並且完成任務（成功或失敗）。接著幫派進行休整期，他們在那時恢復狀態、追求旁支專案、與沉迷於他們的惡習。在休整期後，玩家再次尋找新的機會或創造他們的目標與所求，我們用玩的來看看接下來怎麼樣。
 
 # 核心系統
 
@@ -74,8 +75,8 @@ _如果你必須擲骰，但你只有零骰（或負骰），擲兩個骰子並�
 
 在這遊戲中最常用的擲骰類型有四種：
 
-* <span class="game-term">行動骰。</span>當 PCs 嘗試進行危險或有麻煩的行動，你必須擲一次行動骰來看看會怎樣。行動擲骰與其效果幾乎決定了大部分的遊戲。
-* <span class="game-term">休整骰。</span>當 PCs 處於工作之餘，他們可以相對安全地進行休整活動。你擲休整骰來看他們做得怎樣。
+* <span class="game-term">行動骰。</span>當 PC 們嘗試進行危險或有麻煩的行動，你必須擲一次行動骰來看看會怎樣。行動擲骰與其效果幾乎決定了大部分的遊戲。
+* <span class="game-term">休整骰。</span>當 PC 們處於工作之餘，他們可以相對安全地進行休整活動。你擲休整骰來看他們做得怎樣。
 * <span class="game-term">運氣骰。</span>GM 可以擲一次運氣骰來不作決定，而是將一些事情留給命運。 _一名 NPC 是否忠誠？瘟疫會散佈得多快？在員警踢開門時，有多少證據還沒燒完？_
 * <span class="game-term">抵抗骰。</span>當玩家的角色遭受到他不想要的後果時，玩家可以擲抵抗骰。這個擲骰告訴我們他的角色承受了多少壓力來減輕後果的嚴重性。 _當你抵抗「斷腿」傷害，你可以承受壓力讓它只是「腳踝扭傷」。_
 
@@ -83,11 +84,11 @@ _如果你必須擲骰，但你只有零骰（或負骰），擲兩個骰子並�
 
 _暗夜冷鋒_ 有一個遊玩結構，分成四部分。預設是**自由**階段——角色與彼此說話、去某個地方、做某件事、需要的話就擲骰。
 
-當團員準備好，他們為接下來的任務行動選擇一個 _標的_，接著選擇一個類型的 _計畫_ 來進行。這會觸發 _參案骰_（建立任務行動開始時的狀況），接著故事轉入**做案**階段。
+當團員準備好，他們為接下來的任務行動選擇一個 _標的_，接著選擇一個類型的 _計畫_ 來進行。這會觸發 _參案骰_（建立任務行動開始時的狀況），接著故事轉入**案件**階段。
 
-在做案階段中，PCs 與標的交戰——他們擲骰、克服困難、要求追敘、並完成任務行動（成功或沒有）。當做案階段結束，遊戲轉入**休整**階段。
+在案件階段中，PC 們與標的交戰——他們擲骰、克服困難、要求追敘、並完成任務行動（成功或沒有）。當案件階段結束，遊戲轉入**休整**階段。
 
-在休整階段中，GM 以遊戲系統來處理 _清償_、 _追緝_、和 _糾葛_，來決定做案階段時遺留下來的一切。接著，每個 PCs 得到他們的 _休整活動_，像沉溺於惡習來移除壓力，或為長期專案努力。當所有休整活動完成，遊戲進入**自由**階段，重頭開始循環。
+在休整階段中，GM 以遊戲系統來處理 _清償_、 _追緝_、和 _糾葛_，來決定案件階段時遺留下來的一切。接著，每個 PC 們得到他們的 _休整活動_，像沉溺於惡習來移除壓力，或為長期專案努力。當所有休整活動完成，遊戲進入**自由**階段，重頭開始循環。
 
 這些階段是協助你組織遊戲的概念模型。不是限制選擇的強硬結構（這就是為什麼我們給它們**粗體**而不是<span class="game-term">強調</span>標記）。將這些階段想成選項的菜單，讓你在符合時試著放進遊戲。每個階段都適用不同的目標。
 
@@ -231,13 +232,13 @@ _GM 決定傷害如何被抵抗骰減輕，但無法完全避免。克羅斯遭�
 
  <img style="width:10%;min-width:50px;padding:4%;display:inline-block" src="/2020/08/28/blades-in-the-dark-srd/clock4.png" /><img style="width:10%;min-width:50px;padding:4%;display:inline-block;" src="/2020/08/28/blades-in-the-dark-srd/clock6.png" /><img style="width:10%;padding:4%;min-width:50px;display:inline-block;" src="/2020/08/28/blades-in-the-dark-srd/clock8.png" />
 
-_溜進警察的哨站？畫一個鐘追蹤巡邏守衛的警戒等級。當 PCs 遭到部分成功或失敗的後果時，填滿鐘上的區段，直到警報響起。_
+_溜進警察的哨站？畫一個鐘追蹤巡邏守衛的警戒等級。當 PC 們遭到部分成功或失敗的後果時，填滿鐘上的區段，直到警報響起。_
 
 一般來說，問題越複雜，進度鐘有越多區段。
 
 複雜的阻礙是 4 段鐘。更複雜的阻礙是 6 段鐘。可怕的阻礙的 8 段鐘。
 
-當你創造一個鐘，讓他關於**阻礙**而非方法。滲透的鐘可以是「內部巡邏」或「塔」，但不能是「悄悄通過守衛」或「爬上塔」。巡邏和塔是阻礙——PCs 能嘗試以各種方式克服它們。
+當你創造一個鐘，讓他關於**阻礙**而非方法。滲透的鐘可以是「內部巡邏」或「塔」，但不能是「悄悄通過守衛」或「爬上塔」。巡邏和塔是阻礙——PC 們能嘗試以各種方式克服它們。
 
 複雜的敵人威脅也可以打碎成數「層」，每個都有自己的倒數鐘。譬如，港邊幫派的 HWQ 有一個「周邊保全」鐘、一個「內部守衛」鐘、和一個「保安部門」鐘。幫派可用他們的方式通過全部三層，來到達匪徒老大的私人保險箱和裡頭的貴重物品。
 
@@ -255,9 +256,9 @@ GM 可以使用鐘來表示一個漸進的危險，像是在一次誘導中的�
 
 ## 競賽鐘
 
-創造兩個對立鐘來代表一次競賽。PCs 可能有一個叫「逃亡」的進度鐘，而警方有個叫「圍堵」的鐘。如果 PCs 在員警填滿鐘以前填滿他們的，他們逃走。不然，他們就被堵住，然後無法逃離。如果同時完成，PCs 逃到了他們的巢穴，但狩獵的警官就在外頭！
+創造兩個對立鐘來代表一次競賽。PC 們可能有一個叫「逃亡」的進度鐘，而警方有個叫「圍堵」的鐘。如果 PC 們在員警填滿鐘以前填滿他們的，他們逃走。不然，他們就被堵住，然後無法逃離。如果同時完成，PC 們逃到了他們的巢穴，但狩獵的警官就在外頭！
 
-你也可以為環境危害使用競賽鐘。或許 PCs 嘗試完成「搜尋」鐘來在下沉的船中找到密碼箱，在 GM 填滿「沉沒」鐘而船艦完全下沉以前。
+你也可以為環境危害使用競賽鐘。或許 PC 們嘗試完成「搜尋」鐘來在下沉的船中找到密碼箱，在 GM 填滿「沉沒」鐘而船艦完全下沉以前。
 
 ## 連環鐘
 
@@ -279,9 +280,9 @@ GM 可以為時間緊迫的任務製作一個鐘，來表示你們必須完成�
 
 ## 派系鐘
 
-每個派系都有一個長期目標。當 PCs 進行**休整**，GM 就將他們有興趣的派系鐘推進。這樣一來，圍繞著 PCs 的世界就是動態的，發生了一些他們不直接相關的事，改變了城市的整體局勢，並創造了新的機會和挑戰。
+每個派系都有一個長期目標。當 PC 們進行**休整**，GM 就將他們有興趣的派系鐘推進。這樣一來，圍繞著 PC 們的世界就是動態的，發生了一些他們不直接相關的事，改變了城市的整體局勢，並創造了新的機會和挑戰。
 
-PCs 也能以任務和他們犯下的案子直接影響 NPCs 的派系鐘。討論他們能協助或干涉的派系專案，並考慮 PC 的任務行動可以如何影響 NPC 鐘，無論玩家想要或不想要。
+PC 們也能以任務和他們犯下的案件直接影響 NPC 們的派系鐘。討論他們能協助或干涉的派系專案，並考慮 PC 的任務行動可以如何影響 NPC 鐘，無論玩家想要或不想要。
 
 # 動作骰
 
@@ -330,7 +331,7 @@ _GM 對效果等級和情勢的選擇可以被玩家在行動評等的選擇大�
 
 ### 魔鬼交易
 
-在 _冷鋒_ 中的 PCs 是被毀滅性的惡習所誘惑的無謀惡棍——他們不會總是以自己的最佳利益行動。為了反應這個，GM 或其他玩家可以提供你一個獎勵骰，只要你接受一次魔鬼交易。常見的魔鬼交易包括：
+在 _冷鋒_ 中的 PC 們是被毀滅性的惡習所誘惑的無謀惡棍——他們不會總是以自己的最佳利益行動。為了反應這個，GM 或其他玩家可以提供你一個獎勵骰，只要你接受一次魔鬼交易。常見的魔鬼交易包括：
 
 * 附帶傷害，意外傷害。
 * 犧牲<span class="game-term">錢幣</span>或一個道具。
@@ -354,7 +355,7 @@ _GM 對效果等級和情勢的選擇可以被玩家在行動評等的選擇大�
 
 在 <span class="game-term">1-3</span> 時，PC 的行動是否有效果，或甚至什麼都沒發生，都由 GM 看著辦。通常行動就是完全失敗，但在一些情況下，即便結果是 <span class="game-term">1-3</span> 行動有某些效果比較有道理或比較有趣。
 
-每次 <span class="game-term">4/5</span> 和 <span class="game-term">1-3</span> 的結果列表建議了給該角色的**後果**。你的情勢越糟，後果就越糟。GM 可以造成一個或多個這些後果，端看行動擲骰的狀況。PCs 能透過**抵抗**來避免或減輕後果的嚴重性。
+每次 <span class="game-term">4/5</span> 和 <span class="game-term">1-3</span> 的結果列表建議了給該角色的**後果**。你的情勢越糟，後果就越糟。GM 可以造成一個或多個這些後果，端看行動擲骰的狀況。PC 們能透過**抵抗**來避免或減輕後果的嚴重性。
 
 當你在敘述行動後擲骰，GM 和玩家合作說幕前發生了什麼。 _告訴我們你是怎麼跳到另一個屋頂上的。告訴我們你對警察說了什麼來說服他。GM 會告訴你她如何回應。當你面對紅紗（Red Sash）的鬥士，你的戰鬥風格像是怎樣？等等。_
 
@@ -365,6 +366,8 @@ _GM 對效果等級和情勢的選擇可以被玩家在行動評等的選擇大�
 * GM 建立行動的**情勢**與**效果等級**。玩家對行動的選擇大大地影響情勢和效果的選擇。
 * 最多加上兩顆獎勵骰。 1) 來自一名隊友**協助**， 2) **強推自己**（受到 2 格壓力）或接受**魔鬼交易**。
 * 擲骰池並判定結果。玩家和 GM 一起敘述該行動。GM 由情勢和擲骰結果來最終決定發生的事及造成的後果。
+
+---
 
 > ## 行動擲骰
 > 
@@ -393,9 +396,11 @@ _GM 對效果等級和情勢的選擇可以被玩家在行動評等的選擇大�
 > * <span class="game-term">4/5</span>：你做到了，但是帶有橫果：你遭受**重大傷害**，**嚴重複雜狀況**發生，你得到**減弱效果**。
 > * <span class="game-term">1-3</span>：最壞的結果。你遭受**重大傷害**，**嚴重複雜狀況**發生，你**失去這次**行動的**機會** 。
 
+---
+
 ## 兩用擲骰
 
-因為 NPCs 不為他們的行動擲骰，行動骰是兩用的：**它解決 PC 的行動，也解決相關的 NPCs 行動**。單一個擲骰告訴我們那些行動如何互動，並且造成怎樣的後果。在 <span class="game-term">6</span> ，PC 勝利並獲得他們的效果。在 <span class="game-term">4/5</span> ，PC 和 NPC 都得到他們的效果。在 <span class="game-term">1-3</span> ，NPCs 勝利，他們的效果就是 PC 的後果。
+因為 NPC 們不為他們的行動擲骰，行動骰是兩用的：**它解決 PC 的行動，也解決相關的 NPC 們行動**。單一個擲骰告訴我們那些行動如何互動，並且造成怎樣的後果。在 <span class="game-term">6</span> ，PC 勝利並獲得他們的效果。在 <span class="game-term">4/5</span> ，PC 和 NPC 都得到他們的效果。在 <span class="game-term">1-3</span> ，NPC 們勝利，他們的效果就是 PC 的後果。
 
 # 效果
 
@@ -456,7 +461,7 @@ _「哦，我覺得可以！」_
 
 ## 後果
 
-當 PC 遭受來自敵人或危險情況的效果，這叫作**後果**。後果是效果的同伴。PCs 對圍繞他們的世界有效果，而他們在面對風險時被還以後果。
+當 PC 遭受來自敵人或危險情況的效果，這叫作**後果**。後果是效果的同伴。PC 們對圍繞他們的世界有效果，而他們在面對風險時被還以後果。
 
 # 設置情勢和效果
 
@@ -557,6 +562,8 @@ GM 也可以一次威脅數個後果，接著玩家可以選擇要抵抗哪幾�
 
 當你決定抵抗後果並擲骰，你改為承受壓力。你不能先擲骰看會承受多少壓力再決定要不要抵抗。
 
+---
+
 > ## 抵抗骰
 > 
 > * 每個**屬性**評等 **1d**。
@@ -567,13 +574,15 @@ GM 也可以一次威脅數個後果，接著玩家可以選擇要抵抗哪幾�
 > 
 > <p><span class="game-term">關鍵</span><span>：清空一格壓力。</span></p>
 
+---
+
 ## 護甲
 
 如果你有任何類型的適用的**護甲**，你可以標記一個護甲格來降低或避免一次後果，來取代抵抗。
 
 > 希拉斯受到等級 2 的傷害，「割到肋骨」，而戰鬥尚未結束，因此伊恩決定使用希拉斯護甲來減輕傷害。他標記護甲格並讓傷害變成等級 1，「瘀傷」。如果希拉斯穿重甲，他可以標記第二個護甲格，再次降低傷害，到零。
 
-當一格護甲格被標記，它在恢復前不能再次使用。你的所有護甲會在你選擇下次做案的**裝載**時恢復。
+當一格護甲格被標記，它在恢復前不能再次使用。你的所有護甲會在你選擇下次案件的**裝載**時恢復。
 
 ## 死亡
 
@@ -590,7 +599,7 @@ PC 有幾種死亡的方法：
 
 運氣骰是 GM 可以用來拒絕作決定的工具。你以兩種不同的方式使用運氣骰：
 
-**當你必須做出關於 PCs 並未直接涉入的狀況的決定的時候**，加上你不想簡單地決定結果。
+**當你必須做出關於 PC 們並未直接涉入的狀況的決定的時候**，加上你不想簡單地決定結果。
 
 > 兩個敵對的團夥在交戰。結果如何？GM 為他們各進行一次運氣骰。一邊得到好結果，另一邊得到有限效果。GM 決定第一個團夥搶下了他的敵手的一些地盤，並在衝突中承受一些損傷。
 
@@ -611,11 +620,11 @@ PC 有幾種死亡的方法：
 
 運氣骰的其他例子：
 
-* PCs 煽動兩個派系的戰爭，然後等著看火拼的發生。結果如何？哪編曲得了支配？他們都因為衝突而變得脆弱嗎？進行一些運氣骰來看看。
+* PC 們煽動兩個派系的戰爭，然後等著看火拼的發生。結果如何？哪編曲得了支配？他們都因為衝突而變得脆弱嗎？進行一些運氣骰來看看。
 * 怪異的疾病席捲城市。一個犯罪猖獗的地區會因此受到多大的影響？GM 為奧術的瘟疫決定一個量級，並值運氣骰來判定污染程度。
 * 「獵犬」盯上了一個好位置來狙擊剛踏入辦公室的團夥領導人。受控的<span class="game-term">狩獵</span>擲骰成功了，但嚴重程度足以直接殺死一個強悍的團夥領導人嗎？不使用他的生命的進度鐘，GM 決定使用他的「強韌」來做簡單的幸運骰，來看他是否從攻擊中生還。擲出來的骰是 <span class="game-term">4/5</span>：子彈沒射中心臟，但擊中了他的肺——這是一次致命的損傷。他在死亡的門前，只有一小時能活，除非團夥可以即時找到專業的治療者。
 * 檢調正在立案調查 PC 幫派。他們的證據有多快能進行逮捕？將幫派的<span class="game-term">通緝等級</span>當成檢查官的主要優勢。
-* PCs 與一位老獵魔人船長和他的船員進行衝突。戰鬥的趨勢對 PCs 有利，許多船員被殺死。其中一名玩家問，船長是否會投降來保護他其他船員的生命。GM 不確定。這個老獵人有多冷血？她盯著巨大惡魔的眼睛時都沒退縮⋯⋯她心中還有多少人性？GM 為「人類情感」擲 2d 的幸運骰來看在心中還有多少同情的火花。假若如此，或許其中一名 PCs 可以<span class="game-term">勾結</span>、<span class="game-term">動搖</span>,、或<span class="game-term">命令</span>她放棄。
+* PC 們與一位老獵魔人船長和他的船員進行衝突。戰鬥的趨勢對 PC 們有利，許多船員被殺死。其中一名玩家問，船長是否會投降來保護他其他船員的生命。GM 不確定。這個老獵人有多冷血？她盯著巨大惡魔的眼睛時都沒退縮⋯⋯她心中還有多少人性？GM 為「人類情感」擲 2d 的幸運骰來看在心中還有多少同情的火花。假若如此，或許其中一名 PC 們可以<span class="game-term">勾結</span>、<span class="game-term">動搖</span>,、或<span class="game-term">命令</span>她放棄。
 
 ## 運氣骰
 
@@ -681,7 +690,7 @@ PC 有幾種死亡的方法：
 
 <span class="game-term">錢幣</span>是現金與流動資產的抽象單位。
 
-PCs 用在每日生活的那些小錢不用追蹤。如果角色想花錢來達到小目標（賄賂看門人），使用 PC 的**生活型態品質**來擲運氣骰。
+PC 們用在每日生活的那些小錢不用追蹤。如果角色想花錢來達到小目標（賄賂看門人），使用 PC 的**生活型態品質**來擲運氣骰。
 
 ## 貨幣價值
 
@@ -692,7 +701,7 @@ PCs 用在每日生活的那些小錢不用追蹤。如果角色想花錢來達�
 * <span class="game-term">8 錢幣：</span>小型商業景氣不錯的一個月收入。一個裝滿錢幣和貴重物品的保險箱。一件非常罕見的奢侈品。
 * <span class="game-term">10 錢幣：</span>用來計算重要的資產——一輛馬車與山羊、一匹馬、小財產的一張契據。
 
-超過 4 <span class="game-term">錢幣</span> 就不適合放在身邊了。你必須將超過的花費掉，或是將它們放入你的 **私金**（見下方）。預設來說，幫派也可以在他們的巢穴積存 4 <span class="game-term">錢幣</span>。如果他們升級**保險箱**，他們可以將他們的積存擴充到 8 ，然後是 16 <span class="game-term">錢幣</span>。所有超過限度的<span class="game-term">錢幣</span>必須儘快花掉（通常在下一次做案以前）或是分配給幫派成員。
+超過 4 <span class="game-term">錢幣</span> 就不適合放在身邊了。你必須將超過的花費掉，或是將它們放入你的 **私金**（見下方）。預設來說，幫派也可以在他們的巢穴積存 4 <span class="game-term">錢幣</span>。如果他們升級**保險箱**，他們可以將他們的積存擴充到 8 ，然後是 16 <span class="game-term">錢幣</span>。所有超過限度的<span class="game-term">錢幣</span>必須儘快花掉（通常在下一次案件以前）或是分配給幫派成員。
 
 攜帶在身上時，一個單位的<span class="game-term">錢幣</span>，無論是銀幣或是其他散裝貨幣，都會佔據你**負載**的一個道具欄。
 
@@ -748,7 +757,7 @@ PCs 用在每日生活的那些小錢不用追蹤。如果角色想花錢來達�
 
 要爬升並發展你們的幫派，你需要<span class="game-term">名望（rep）</span>。<span class="game-term">名望</span>是權勢和聲望的單位。當你們累積足夠的<span class="game-term">名望</span>，其他派系會更嚴肅地看待你們，你們也會吸引發展和成長所需要的支持。
 
-當你們完成一次做案，你們的幫派會賺到 **2** <span class="game-term">名望</span>。如果做案的標的層級比你們高，每個更高層級你們得到 **+1** <span class="game-term">名望</span>。如果做案的標的層級更低，每個更低層級你們得到 **-1** <span class="game-term">名望</span>（最小為零）。
+當你們完成一次案件，你們的幫派會賺到 **2** <span class="game-term">名望</span>。如果案件的標的層級比你們高，每個更高層級你們得到 **+1** <span class="game-term">名望</span>。如果案件的標的層級更低，每個更低層級你們得到 **-1** <span class="game-term">名望</span>（最小為零）。
 
 你們需要 **12** <span class="game-term">名望</span>來填滿幫派卡上的<span class="game-term">名望</span>軌。當你們填滿名望軌，進行下列之一：
 
@@ -795,7 +804,7 @@ PCs 用在每日生活的那些小錢不用追蹤。如果角色想花錢來達�
 * **0：中立。**
 * **-1：擾亂。**只要不會造成問題或太多花費，該派系會找機會為你們帶來麻煩（或從你們的不幸中得利）。他們對你也如此預期。
 * **-2：敵對。**該派系會傷害你們，只要這不會為他們帶來麻煩。他們對你們也如此預期，並且對你們有所防備。
-* **-3：戰爭。**該派系會傷害你們，即便這不符合他們的最佳利益。他們對你們也如此預期，並且對你們有所防備。當你們與任何數量的派系在戰爭中，你們的幫派從做案承受的<span class="game-term">追緝</span> +1、暫時失去 1 凝聚、PCs 只能進行一次休整行動，而非兩次。你們可以透過消滅敵人或協商一次互惠協議來建立新的地位評等。
+* **-3：戰爭。**該派系會傷害你們，即便這不符合他們的最佳利益。他們對你們也如此預期，並且對你們有所防備。當你們與任何數量的派系在戰爭中，你們的幫派從案件承受的<span class="game-term">追緝</span> +1、暫時失去 1 凝聚、PC 們只能進行一次休整行動，而非兩次。你們可以透過消滅敵人或協商一次互惠協議來建立新的地位評等。
 
 > 如果你們在進入戰爭前凝聚是弱的，暫時的失去寧去會讓你們失去一個層級。當戰爭結束，將你們的層級恢復到戰前等級。
 
@@ -809,9 +818,9 @@ _然而，你們可以嘗試掌握在你們的地圖上的任何一塊管區_，
 
 所有管區都已經被某派系所控制。要獲取自己的，必須將它從別人那裡拿走。要掌握一塊管區，告訴 GM，在你們地圖上，幫派打算去掌握的管區。GM 會說明管區的細節，包括地點和描述，也會告訴我們哪個派系現在控制了那裡。或如果可行，GM 會給你們一些選項。
 
-如果你們選擇忽視路線圖的路徑來掌握管區，GM 會告訴你們必須調查與蒐集資訊，以找出該類型的管區，然後才能去掌握它。
+如果你們選擇忽視路線圖的路徑來掌握管區，GM 會告訴你們必須調查與蒐集情報，以找出該類型的管區，然後才能去掌握它。
 
-執行任務行動就像其他的**做案**，如果你們成功，你們掌握管區，並且目標派系會失去它。
+執行任務行動就像其他的**案件**，如果你們成功，你們掌握管區，並且目標派系會失去它。
 
 掌握一個管區對於派系來說是嚴重的打擊，通常會導致目標的派系地位 -2，並對它的敵人潛在地 +1。
 
@@ -819,7 +828,7 @@ _然而，你們可以嘗試掌握在你們的地圖上的任何一塊管區_，
 
 ### 失去管區
 
-一個敵對派系可能嘗試掌握你們的幫派所掌握的管區。你們可以戰鬥以抵抗它，或是與該派系交易協商，以狀況而定。如果你們失去一個管區，你們失去所有該管區的好處。如果你們失去了巢穴，你們失去所有你們的管區的好處，直到你們可以恢復你們的巢穴，或是重建一個新的。要重建一個新的巢穴，要進行一次做案。
+一個敵對派系可能嘗試掌握你們的幫派所掌握的管區。你們可以戰鬥以抵抗它，或是與該派系交易協商，以狀況而定。如果你們失去一個管區，你們失去所有該管區的好處。如果你們失去了巢穴，你們失去所有你們的管區的好處，直到你們可以恢復你們的巢穴，或是重建一個新的。要重建一個新的巢穴，要進行一次案件。
 
 # 成長
 
@@ -910,7 +919,7 @@ _然而，你們可以嘗試掌握在你們的地圖上的任何一塊管區_，
 
 ## 選擇密友和敵手
 
-每本遊玩書都有你的角色知道的 NPCs 列表。從列表中選擇一名和你有親近關係的（好朋友、戀人、家人關係等）。在他的名字旁標記向上指的三角形。在列表中選擇另一名 NPC 作為你的敵手或敵人。在他的名字旁邊標記向下指的三角形。
+每本遊玩書都有你的角色知道的 NPC 們列表。從列表中選擇一名和你有親近關係的（好朋友、戀人、家人關係等）。在他的名字旁標記向上指的三角形。在列表中選擇另一名 NPC 作為你的敵手或敵人。在他的名字旁邊標記向下指的三角形。
 
 ## 選擇你的惡習
 
@@ -1022,7 +1031,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 你的裝載上限變得更高。輕：5。一般：7。重：8。
 
-> 如果你穿著重型護甲、手持重武器，但又不會引起太多注意，這項能力將會變得十分強大。由於你實際上攜帶的裝備是在任務行動期間匆忙決定，更多裝載也讓你有更多選項來在做案中發揮創意面對問題。
+> 如果你穿著重型護甲、手持重武器，但又不會引起太多注意，這項能力將會變得十分強大。由於你實際上攜帶的裝備是在任務行動期間匆忙決定，更多裝載也讓你有更多選項來在案件中發揮創意面對問題。
 
 ### 萬夫莫敵
 
@@ -1196,7 +1205,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 ### 預見
 
-一次做案兩次，你可以不需要支付壓力來**協助**一名隊員。描述你如何為此準備。
+一次案件兩次，你可以不需要支付壓力來**協助**一名隊員。描述你如何為此準備。
 
 > 你可以講述過去的事件如何現在有助於隊員，或可以解釋你如何預期這情況，與做出你現在揭露的有幫助的偶然計畫。
 
@@ -1204,7 +1213,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 因為你謹慎的計畫，在休整期間，你可以給你自己或其他幫派成員 **+1 休整活動**。
 
-> 如果你忘記在休整的時候使用這個能力，你依然可以在做案中啟動它，追敘在上一個休整時發生的額外活動。
+> 如果你忘記在休整的時候使用這個能力，你依然可以在案件中啟動它，追敘在上一個休整時發生的額外活動。
 
 ### 連帶
 
@@ -1220,7 +1229,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 ### 織網
 
-當你為做案的目標蒐集情報時，你的<span class="game-term">勾結</span>得到 **+1d**。你在該次任務行動的**參案骰**得到 **+1d**。
+當你為案件的目標蒐集情報時，你的<span class="game-term">勾結</span>得到 **+1d**。你在該次任務行動的**參案骰**得到 **+1d**。
 
 > 你在黑社會連帶的網絡總是可以發揮功用——即便你的聯絡人並未意識到他們在幫你。
 
@@ -1264,11 +1273,11 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 每個冷鋒引擎的遊戲都應該有符合設定和前提的幫派類型。這些可能是組織、黑幫、船、據點等。有三到六個選項就很好。
 
-你們的幫派類型決定了你們專注的案子，及能幫助你們進行這類行動的特殊能力。幫派類型不是限制——走私者幫派也能從事勒索或販賣違禁品——但幫派類型的核心活動，是他們賺取<span class="game-term">錢幣</span>和 xp 最頻繁的方法。
+你們的幫派類型決定了你們專注的案件，及能幫助你們進行這類行動的特殊能力。幫派類型不是限制——走私者幫派也能從事勒索或販賣違禁品——但幫派類型的核心活動，是他們賺取<span class="game-term">錢幣</span>和 xp 最頻繁的方法。
 
 如角色遊玩書，你們的幫派類型也是你們在黑社會中為人所知的。犯罪派系和官方機構將你們看作「刺客」或「教團」等，並依此來對待你們。
 
-你們的幫派從金庫內的 2 <span class="game-term">錢幣</span>開始（來自 PCs 的積蓄）。你們**層級 0**，**強凝聚**以及 **0** <span class="game-term">名望</span>。
+你們的幫派從金庫內的 2 <span class="game-term">錢幣</span>開始（來自 PC 們的積蓄）。你們**層級 0**，**強凝聚**以及 **0** <span class="game-term">名望</span>。
 
 ## 選擇起始的名聲與巢穴
 
@@ -1283,13 +1292,13 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 * 不可捉摸的
 * 古怪的
 
-當你們鞏固你們幫派的名聲時會賺得 xp，所以將這想成你們在遊戲中如何行動的另一個指示信號。你們會好高騖遠，瞄準更高層級的目標嗎？你們會做其他人看來過於冒險的大膽案子嗎？還是你們將興趣放在奇異和古怪？
+當你們鞏固你們幫派的名聲時會賺得 xp，所以將這想成你們在遊戲中如何行動的另一個指示信號。你們會好高騖遠，瞄準更高層級的目標嗎？你們會做其他人看來過於冒險的大膽案件嗎？還是你們將興趣放在奇異和古怪？
 
 同時，談談幫派在哪裡蓋它的**巢穴**。你們開始時只是層級 0，所以可能是非常低調或沒人要的地方。
 
 ## 建立你們的獵場
 
-你們的幫派是全新的，但你們還是找了部分區域當作你們的**獵場**。這是你們通常鎖定做案的範圍，你們知此地甚詳。你們的獵場不必和你們的巢穴在同一區域。這範圍不大，只有三或四個城市街區——但依然會侵犯一些人。整個城市被數個更大更強的派系所瓜分。GM 會告訴你什麼派系對這個區域擁有權利，接著你們決定要如何應付他們：
+你們的幫派是全新的，但你們還是找了部分區域當作你們的**獵場**。這是你們通常鎖定案件的範圍，你們知此地甚詳。你們的獵場不必和你們的巢穴在同一區域。這範圍不大，只有三或四個城市街區——但依然會侵犯一些人。整個城市被數個更大更強的派系所瓜分。GM 會告訴你什麼派系對這個區域擁有權利，接著你們決定要如何應付他們：
 
 * 付他們錢。給他們 1 <span class="game-term">錢幣</span>來換取你們的生活空間。
 * 給該派系 2 <span class="game-term">錢幣</span>來表示尊敬，對他們得到 **+1 地位**。
@@ -1341,7 +1350,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 <p><span class="game-term">精通：</span>你們的幫派達到大師級的訓練。你們能將你們的 PC 的行動評等進階到 4（在沒解鎖這個升級前，PC 的行動評等最高是 3）。這要花費四個升級格來解鎖。</p>
 
-<p><span class="game-term">品質：</span><b>每個升級都會提升</b>所有 PCs 的該類型道具的<b>品質評等</b>，超過幫派層級建立的和優良道具的品質。你可以改善<b>文件</b>、<b>裝備</b>（包含竊盜裝備和攀登裝備）、奧術<b>植入物</b>、掩飾<b>耗材</b>、<b>工具</b>（包括爆破工具和修補工具）、和<b>武器</b>。 <em>所以，如果你是層級 0，有撬鎖（+1）以及裝備的品質升級（+1），你可以對等地應付層級 II 品質的鎖。</em></p>
+<p><span class="game-term">品質：</span><b>每個升級都會提升</b>所有 PC 們的該類型道具的<b>品質評等</b>，超過幫派層級建立的和優良道具的品質。你可以改善<b>文件</b>、<b>裝備</b>（包含竊盜裝備和攀登裝備）、奧術<b>植入物</b>、掩飾<b>耗材</b>、<b>工具</b>（包括爆破工具和修補工具）、和<b>武器</b>。 <em>所以，如果你是層級 0，有撬鎖（+1）以及裝備的品質升級（+1），你可以對等地應付層級 II 品質的鎖。</em></p>
 
 <p><span class="game-term">宿舍：</span>你的巢穴包括幫派的居住宿舍。沒有這個升級，每個 PC 都只能睡在其他地方，他們因此會是脆弱的。</p>
 
@@ -1405,7 +1414,7 @@ _如果你想要分派四個起始技能點和特殊能力的引導，使用以�
 
 當你們將同夥派去任務時，擲他們的**品質**來看事情如何發生。或是，PC 可以透過領導一次**團體動作**來監督策略。如果你下命令指導同夥，擲<span class="game-term">命令</span>。如果你與同夥一起行動，擲合適的行動。對手與同夥的相關品質會影響行動的情勢與效果。
 
-> PCs 的「小販」想將敵對團夥趕出他們販毒的小巷。他們將他們的暴徒團夥派去將闖入者踢出去。GM 因暴徒的品質擲 2d，並得到 <span class="game-term">3</span>。一小時後，暴徒回來了，被人打得血肉模糊。其中一個看起來很不好意思，「這些傢伙太強了，老大。」（GM 對同夥造成傷害，並且他們沒達到目標。）
+> PC 們的「小販」想將敵對團夥趕出他們販毒的小巷。他們將他們的暴徒團夥派去將闖入者踢出去。GM 因暴徒的品質擲 2d，並得到 <span class="game-term">3</span>。一小時後，暴徒回來了，被人打得血肉模糊。其中一個看起來很不好意思，「這些傢伙太強了，老大。」（GM 對同夥造成傷害，並且他們沒達到目標。）
 
 > 第二天，幫派老大回來並領導了一次團隊行動，以她的<span class="game-term">衝突</span>擲 3d，和暴徒的 2d 一起。老大這次得到了 <span class="game-term">6</span>——他們把其他團夥打得屁滾尿流，讓他們滾蛋（至少現在）。
 
@@ -1478,11 +1487,11 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 <span class="game-term">掩蓋身分：</span>你們在進行**社交計畫**的**參案骰**得到 **+1d**。 _假身分能夠協助你們迷惑對手。_
 
-<span class="game-term">掩蓋任務：</span>你們在每次做案中得到 **-2** <span class="game-term">追緝</span>。 _合法任務的掩蓋幫助你們轉移當局的追緝。_
+<span class="game-term">掩蓋任務：</span>你們在每次案件中得到 **-2** <span class="game-term">追緝</span>。 _合法任務的掩蓋幫助你們轉移當局的追緝。_
 
-<span class="game-term">特使：</span>你們在牽涉到高階級對象的做案中的**收買**視作 **+2** <span class="game-term">錢幣</span>。 _良好的私通者幫你們對有錢人安排更好的收買行動。_
+<span class="game-term">特使：</span>你們在牽涉到高階級對象的案件中的**收買**視作 **+2** <span class="game-term">錢幣</span>。 _良好的私通者幫你們對有錢人安排更好的收買行動。_
 
-<span class="game-term">貨頭：</span>你們在牽涉到低階級對象的做案中的**收買**視作 **+2** <span class="game-term">錢幣</span>。 _受到敬重的代理人幫你們對窮人安排更好的收買行動。_
+<span class="game-term">貨頭：</span>你們在牽涉到低階級對象的案件中的**收買**視作 **+2** <span class="game-term">錢幣</span>。 _受到敬重的代理人幫你們對窮人安排更好的收買行動。_
 
 <span class="game-term">診療室：</span>你們在治療處置擲骰得到 **+1d**。 _診療室也有能用於長期恢復的病床。_
 
@@ -1494,13 +1503,13 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 <span class="game-term">縱慾之地：</span>在休整期間的任何時候，擲等同於你的層級的骰子。你們得到等同於最高結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。
 
-<span class="game-term">戰利品：</span>你們在每次做案得到 **+1 名望**。 _你們的駭人「收集」的名聲不脛而走，而你們的大膽加強了你們在黑社會的聲望。_
+<span class="game-term">戰利品：</span>你們在每次案件得到 **+1 名望**。 _你們的駭人「收集」的名聲不脛而走，而你們的大膽加強了你們在黑社會的聲望。_
 
 <span class="game-term">鬥技場：</span>休整期間，擲等同於你們的層級的骰子。你們得到等同於最高值的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。 _當地人喜愛在你們主持的染血運動中賭上辛苦賺來的錢。_
 
-<span class="game-term">街頭賊市：</span>在涉及低階級標的的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _專家能在你們窮困受害者的垃圾堆中找到寶物。_
+<span class="game-term">街頭賊市：</span>在涉及低階級標的的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _專家能在你們窮困受害者的垃圾堆中找到寶物。_
 
-<span class="game-term">膽顫市民：</span>在涉及戰鬥或勒索的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _當你們發火，擔心受怕的當地人會表達他們的心意。他們不想成為下一個。_
+<span class="game-term">膽顫市民：</span>在涉及戰鬥或勒索的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _當你們發火，擔心受怕的當地人會表達他們的心意。他們不想成為下一個。_
 
 <span class="game-term">倉庫：</span>你們在**獲取資產**擲骰得到 **+1d**。 _你們有空間容納你們在戰鬥後得到的各種戰利品。它本身就很有用，也可以在你需要的時候以物易物。
 
@@ -1508,21 +1517,21 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 <span class="game-term">古老塔樓：</span>你們對在現場的奧秘實體的<span class="game-term">勾結</span>得到 **+1**。
 
-<span class="game-term">捐獻：</span>在涉及神秘學任務的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _當你們執行黑暗儀式，擔心受怕的當地人會表達他們的心意。他們不想成為下一個。_
+<span class="game-term">捐獻：</span>在涉及神秘學任務的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _當你們執行黑暗儀式，擔心受怕的當地人會表達他們的心意。他們不想成為下一個。_
 
-<span class="game-term">在地賄款：</span>在涉及力量展示或社交的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _一些城市官員會與活躍表現的玩家分享髒錢。_
+<span class="game-term">在地賄款：</span>在涉及力量展示或社交的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _一些城市官員會與活躍表現的玩家分享髒錢。_
 
 <span class="game-term">瞭望台：</span>你們在地盤上的<span class="game-term">狩獵</span>或<span class="game-term">調查</span>得到 **+1d**。
 
 <span class="game-term">豪華會場：</span>在現場的<span class="game-term">勾結</span>和<span class="game-term">動搖</span>得到 **+1d**。 _你們的絲綢、繪畫、水晶讓訪客感到驚艷。_
 
-<span class="game-term">過剩備品：</span>在涉及產品販售或供應的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _你們有滿滿產品，時時刻刻讓你們的口袋鼓鼓。_
+<span class="game-term">過剩備品：</span>在涉及產品販售或供應的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _你們有滿滿產品，時時刻刻讓你們的口袋鼓鼓。_
 
-<span class="game-term">隱秘情報站：</span>在涉及間諜活動或暗中破壞的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _內行顧客會為完美隱藏的情報交換中心額外付錢。_
+<span class="game-term">隱秘情報站：</span>在涉及間諜活動或暗中破壞的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _內行顧客會為完美隱藏的情報交換中心額外付錢。_
 
 <span class="game-term">審訊室：</span>你們在現場的<span class="game-term">命令</span>和<span class="game-term">動搖</span>得到 **+1d**。 _髒活，但有效。_
 
-<span class="game-term">忠實賊市：</span>在涉及竊盜或搶劫的案子中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _要有熟練的眼睛和良好的人脈才能轉移贓物。_
+<span class="game-term">忠實賊市：</span>在涉及竊盜或搶劫的案件中，你們得到 **+2** <span class="game-term">錢幣</span>作為報酬。 _要有熟練的眼睛和良好的人脈才能轉移贓物。_
 
 <span class="game-term">秘密路徑：</span>你們在**隱匿**計畫的**參案骰**得到 **+1d**。 _你們有機會進入早被遺忘的地下運河、屋頂走道或其他你選擇的路線。_
 
@@ -1542,7 +1551,7 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 ### 死神面紗
 
-由於艱苦的經驗或神秘學儀式，你們不會在做案中因涉及殺人而得到額外的<span class="game-term">追緝</span>。
+由於艱苦的經驗或神秘學儀式，你們不會在案件中因涉及殺人而得到額外的<span class="game-term">追緝</span>。
 
 ### 無影無蹤
 
@@ -1576,7 +1585,7 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 ### 戰爭財
 
-當你們在戰爭中（-3 的派系地位），你們的幫派不會遭受 -1 凝聚，並且每個 PCs 依然有兩個休整行動，而非只有一個。
+當你們在戰爭中（-3 的派系地位），你們的幫派不會遭受 -1 凝聚，並且每個 PC 們依然有兩個休整行動，而非只有一個。
 
 ### 聖膏
 
@@ -1616,177 +1625,192 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 在**休整**期間，得到 **-1 <span class="game-term">追緝</span>**。當你們的<span class="game-term">追緝</span>是 4 或更低，當你們裝作普通市民來欺瞞他人時得到 **+1d** 。
 
-# 做案
-
-#@TODO 進行到這
+# 案件
 
 _受雇殺人、殘酷勒索、黑暗儀式、非法交易、走私跑路、暗中偷竊——這是被推到了邊緣、腐敗與狼性的精英特權被剝奪的人僅有的機會。_
 
-在 _暗夜冷鋒_ 中，我們用玩得來看看角色的幼小幫派是否能在這個黑社會中茁壯——他們的成長有賴於他們在犯罪上的努力，我們將它稱作**做案**。
+在 _暗夜冷鋒_ 中，我們用玩得來看看角色的幼小幫派是否能在這個黑社會中茁壯——他們的成長有賴於他們在犯罪上的努力，我們將它稱作**案件**。
 
-一次做案是有特定目標的單次任務行動：_盜竊領主莊園、暗殺外交官、將奇怪的人造物走私進城_ 等。通常一次做案可能是下列三類之一：
+一次案件是有特定目標的單次任務行動：_盜竊領主莊園、暗殺外交官、將奇怪的人造物走私進城_ 等。通常一次案件可能是下列三類之一：
 
 * 一次**犯罪活動**，由你們的幫派類型決定。一次暗殺、盜竊、非法毒品交易等。
-* 掌握一個你們從幫派的**權利地圖**上選擇的**權利**。[權利可以幫助你們的幫派成長與發展](/2020/08/28/blades-in-the-dark-srd/#%E5%B9%AB%E6%B4%BE%E9%81%8A%E7%8E%A9%E6%9B%B8)。
-* A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper’s rituals).
+* 掌握一個你們從幫派的**權利地圖**上選擇的**權利**。[權利可以幫助你們幫派成長與發展](/2020/08/28/blades-in-the-dark-srd/#%E5%B9%AB%E6%B4%BE%E9%81%8A%E7%8E%A9%E6%9B%B8)。
+* **特別任務**或由玩家決定的目標（像是得到稀有的器物來強化「低語者」的一項儀式）。
 
-A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. _Play to find out what happens!_ A score doesn’t need to fill one session of play every time. Let it be however long it is.
+案件可以長而複雜，也可以短而簡單。可能有大量的擲骰與麻煩，也可以只用幾個行動就解決。_用玩的來看會發生什麼！_ 一次案件不會每次都填滿一次聚會。讓它可長可短。
 
-The PCs can set up a new score by choosing a target (from their claims or the faction list, for example), by approaching a potential client and asking for work, or by being contacted by an NPC who needs to hire a crew for a job.
+玩家可以選擇一個標的（譬如從權利地圖或派系表上）來設定新的案件，透過靠近可能的客戶並要求工作、或聯絡可能想雇傭團夥的 NPC。
 
-A score consists of a few key elements, detailed in this chapter: **planning &amp; engagement**, **flashbacks**, and **teamwork**.
+一次案件有數個關鍵元素，在這些章節中有詳述：**計畫與參案**、**追敘**、和**團隊合作**。
 
-# Planning &amp; engagement
+# 計畫與參案
 
-Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
+每次案件你們的幫派都要進行計畫。他們圍著巢穴裡盞盞閃爍的燈籠、看著潦草的地圖、低聲談論著陰謀詭計、爭論著最佳的辦法、感嘆著前方的危險、貪戀著成堆的錢幣。
 
-But you, the players, don’t have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters _have already made_. There’s no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed on the next page) ultimately determines how much trouble you’re in when the plan is put in motion. _No plan is ever perfect._ You can’t account for everything. This system assumes that there’s always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
+但你們，玩家，不需要真的進行計畫。角色會搞定這些，在幕後。你們唯一需要選擇的是角色 _已經做了_ 的**計畫類型**。不需要努力生出所有小細節、嘗試涵蓋未來每個可能性，因為是**參案骰**（細節在下面章節）最終決定當計畫推動時你們涉入的麻煩。 _沒有計畫會是完美的。_ 你們無法算清每件事。這個系統假設總是有某些未知的要素和——或大或小的——麻煩會在任務行動中出現：你只能盡量做到最好。
 
-There are six different plans, each with a missing **detail** you need to provide (see the list below). To “plan an operation,” simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
+有六個不同的計畫，每個都有你必須提供的缺少的**細節**（見下表）。「計畫一次任務行動」就只是選擇計畫並提供細節。接著 GM 會**切到行動**，作為任務行動展開的第一個瞬間。
 
-@TODO Add table p79
+* **刺殺**——對標的行使暴力。_細節：攻擊點。_
+* **欺瞞**——引誘、欺騙或操縱。_細節：欺瞞的方式。_
+* **潛匿**——偷偷闖入。_細節：滲透點。_
+* **神秘學**——行使超自然力量。_細節：奧術方法。_
+* **社交**——談判、議價或說服。_細節：社交關聯。_
+* **運輸**——讓貨物或人穿過危險。_細節：路線與手法。_
 
-## The Detail
+## 細節
 
-When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don’t know the detail, you can **gather information** in some way to discover it.
+當你選擇一項計畫，提供一個缺少的**細節**，如攻擊點、社交關聯等。如果你不知道細節，你可以以某些方式**蒐集情報**來發現它。
 
-## Item Loadouts
+## 道具負載
 
-After the plan and detail are in place, each player chooses their character’s **load**. This indicates how much stuff they’re carrying on the operation. They don’t have to select individual items—just the maximum amount they’ll have access to during the action.
+在計畫和細節都到位後，每個玩家選擇他們角色的**負載**。這指示了他們會在任務行動中帶多少東西。他們不必選擇個別道具——只需選擇他們會在行動中用到的最大數量。
 
-## Engagement Roll
+## 參案骰
 
-Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply “get it right” each time, we use a dice roll instead. This is the **engagement roll**.
+一旦玩家選擇一項計畫並提供其細節，GM 就會切到行動——描述幫派開始行動並遇到第一個障礙的場景。但這如何建立呢？GM 描述開始情況的方式，會對行動簡單或麻煩的程度產生巨大的影響。與其讓 GM 每次都簡單地「搞定」，我們改為使用擲骰。也就是**參案骰**。
 
-The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
+參案骰是一次**運氣骰**，從 **1d 的單純幸運**開始。以主要優勢或劣勢來調整骰池。
 
-### Major Advantages / Disadvantages
+### 主要優勢 / 劣勢
 
-* Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
-* Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
-* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
-* Are there any **other elements** that you want to consider? Maybe a lower-層級 target will give you +1d.  Maybe a higher-層級 target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
+* 這個任務行動是否特別膽大妄為？得到 **+1d**。這個任務是否過於複雜，或取決於許多要素？得到 **-1d**。
+* 這個**計畫細節**讓目標暴露了弱點或打到痛處？得到 **+1d**。這個進路是目標最強的地方，或他們有格外防範或特別準備？得到 **-1d**。
+* 有你們的**友人或聯絡人**能提供協助或洞見嗎？得到 **+1d**。有任何**敵人或對手**會干擾任務行動嗎？得到 **-1d**。
+* 有任何你們想考慮的**其他元素**嗎？或許較低層級的標的可以給你們 **+1d**。或許更高的層級可以給你們 **-1d**。或許區域中的某個狀況會讓任務行動更棘手或更不棘手。
 
-The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
+參案骰假設 PC 們盡可能聰明地接近標的，以他們提供的計畫和細節，因此我們不需要玩出試探性的探查、特殊的預防措施、或其他乏味的非行動。參案骰會涵蓋一切。PC 們已經在行動中、面對第一個阻礙——上屋定、正在撬窗戶的鎖；敵開敵對巢穴的大門；在化裝舞會上與一位領主展開對話等。
 
-Don’t make the engagement roll and then describe the PCs _approaching_ the target. It’s the approach that the engagement roll resolves. Cut to the action that results _because of_ that initial approach—to the first serious obstacle in their path.
+不要進行了參案骰後還在描述 PC 們_正在靠近_ 標的。參案骰解決了接近的事情。切到 _由於_ 剛靠近而來的行動——切到他們路徑上的第一個嚴重阻礙。
 
-@TODO add table p81
+---
 
-> The first obstacles at the witches’ house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
+> * **1d**，單純的幸運。
+> * 為每個**主要優勢**，**+1d**。
+> * 為每個**主要劣勢**，**-1d**。
+> 
+> * **關鍵：**卓絕的結果。_你們已經克服了第一個阻礙，並在受控情勢中面對下一個阻礙。_
+> * **6：**好結果。_在行動開始時，你們位於受控情勢。_
+> * **4/5：**混合的結果。_在行動開始時，你們位於險峻情勢。_
+> * **1-3：**壞結果。_在行動開始時，你們位於絕望情勢。_
 
-> The PCs have kicked down the door and swarmed into the front room of the gang’s lair, weapons flashing, into the swirl of the melee with the first guards.
+---
 
-> The PCs have socialized politely at the party, maneuvering into position to have a private word with a powerful Lord. As a group of young nobles leave his side, the PCs step up and engage him in conversation.
+> 女巫之屋的第一個阻礙是那狡猾的鎖與魔法的陷阱。參案骰將我們放到窗外的屋頂上，PC 們試圖悄悄地、小心翼翼地闖入閣樓。
+> 
+> PC 們已經踢開了門，蜂擁而入對方團伙巢穴的前廳，武器熠熠發光，進入與第一批守衛的混戰。
+> 
+> PC 們在聚會上禮貌地進行了社交，找機會與有權勢的領主私下展開對話。當一群年輕的貴族離開他身邊時，PC 們上前與他進行交談。
 
-If the players want to include a special preparation or clever setup, they can do so with **flashbacks** during the score. This takes some getting used to. Players may balk at first, worried that you’re skipping over important things that they want to do. But jumping straight into the action of the score is much more effective once you get used to it. When they see the situation they’re in, their “planning” in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that might not even happen.
+如果玩家想加入特殊準備或巧妙設置，可以在案件中用**追敘**。這需要時間習慣。玩家一開始可能會不滿，擔心你跳過了他們想做的重要的事。但是，一旦習慣，直接跳入案件中行動會更有效。當他們看到自己所處的情況，他們在追敘中的「規劃」會更針對和實用，而不是僅僅對可能根本不會發生的情況與事件做出猜測。
 
-### Outcomes
+### 結果
 
-The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A <span class="game-term">1-3</span> means a desperate position. A <span class="game-term">4/5</span> is a risky position. A <span class="game-term">6</span> yields a controlled position. And a <span class="game-term">關鍵</span> carries the action beyond the initial obstacle, deeper into the action of the score.
+參案骰的結果決定了當 PC 們切到進行中案件時，初始行動的**情勢**。<span class="game-term">1-3</span> 意味著絕望的情勢。<span class="game-term">4/5</span> 是險峻的情勢。<span class="game-term">6</span> 產生受控的情勢。<span class="game-term">關鍵</span>讓行動通過第一個阻礙，深入案件的下一個行動。
 
-No matter how low-層級 or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It’s designed this way so the planning process matters, but it doesn’t call for lots of optimization or nitpicking. Even if you’re reckless and just dive in and take your chances, you can’t get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
+無論你們層級多低或多不堪一擊，險峻情勢是計畫 + 細節 + 參案過程最壞的結果。這樣設計讓計畫過程夠重要，但又不需要大量優化和鑽牛角尖。即使你們不計後果、莽撞地潛入碰運氣，也不會太慘烈。甚至，你們還可能希望絕望擲骰能為 PC 帶來更多 xp，有助於讓起始角色成長。
 
-When you describe the situation after the roll, use the details of the target to paint a picture of the PCs’ position. How might the strange, occult gang present a desperate position for burglars? How might the violent and ruthless butchers present a risky threat to assaulting thugs? How might the vain and pompous Lord present a controlled opportunity for a manipulative scoundrel? Use this opportunity to show how the PCs’ enemies are dangerous and capable—don’t characterize a bad engagement roll as a failure by the PCs, or they won’t trust the technique in the future. Sure, things are starting out desperate here against the creepy occultists, but you’re just the type of characters who are daring enough to take them on. Let’s get to it.
+當你在擲骰後描述情境時，以標的的細節來描繪 PC 們的情勢。陌生、神秘的團夥可能給竊賊帶來怎樣的絕望情勢？冷酷的屠夫可能給來襲暴徒帶來怎樣的險峻威脅？虛榮而浮誇的領主如何為善於操縱的惡棍帶來受控的機會？藉此機會展示 PC 的敵人如何危險與強大——不要把糟糕的參案骰定性為 PC 的失敗，他們將來才會信任它。當然，面對那些毛骨悚然的神秘主義者一開始就是很絕望的，但你正是那種敢於與他們抗衡的角色。我們上吧。
 
-### How long does it last?
+### 它能持續多久
 
-The engagement roll determines the starting position for the PCs’ actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn’t have any impact after that.
+參案骰決定了 PC 們行動的起始情勢。這能持續多久？情況會一直絕望下去嗎？不。一旦解決了最初的行動，你們就會按照正常程序為案件期間的其餘擲骰建立情勢。參案骰是快速的短兵相接，啟動事情並讓行動開始——不會影響到以後。
 
-## Linked Plans
+## 串聯的計畫
 
-Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
+有時，一項任務行動似乎需要好幾個計畫串聯在一起。常見的情況是，團隊希望雙線並進。「你在酒館製造混亂，等他們派打手過去，我們闖進他們的老巢。」有兩種方法可以處理。
 
+1. 分頭進行是團隊成員作為一部分計畫而進行的**設置戰術**。成功的設置戰術有助於改善隊友的**情勢**（可能能抵消糟糕的參案骰）或改善效果。不成功的設置戰術可能會為第二部分的計畫帶來麻煩——可以簡單讓參案骰 -1d。_如果合理的話，執行設置戰術的隊員可以回到主要任務行動，稍後再加入隊伍，讓他不用在那邊乾等。_
+2. 分頭行動是計畫、參團和任務行動，它的結果才能為未來的計畫創造機會。如果個計畫接續部分的發生需要前半部份的話，使用這個選項。譬如，你們能進行一個潛匿計畫來從「遠古圖書館」竊取器物，接著才使用這個器物來供奉神廟以進行神秘學計畫。在這情況下，你們前半部分的計畫結束後，如常進入休整（以及補償、<span class="game-term">追緝</span>等）。
 
-1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
-1. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">追緝</span>, etc.) after the first part of the plan, as normal.
+無論哪種方法都很好。這通常是個有趣的問題。串聯計畫的想法是否足夠有趣，是否無論如何都能進行？它是否需要第二個計畫來讓它有意義？如果是，讓它是分開來的任務行動。如果不是，設置成戰術。
 
-Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
+## 追敘
 
-## Flashbacks
+在當前時刻進行的行動和過去進行的並沒有區別。當任務行動正在進行的途中，你可以引入**追敘**來為影響現今狀況的過去行動擲骰。或許你說服了該區的「看守」取消了今晚的巡邏任務，因此你可進行<span class="game-term">動搖</span>骰來看狀況如何。
 
-The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a <span class="game-term">動搖</span> roll to see how that went.
+當你啟動一次追敘行動，由 GM 設置一次**壓力費用**。
 
-The GM sets a **stress cost** when you activate a flashback action.
+* <span class="game-term">0 壓力：</span>你有很大機會能進行的一般行動。_「利刃」<span class="game-term">勾結</span>了她的朋友約好提前抵達這場骰子遊戲，作為驚喜的盟友突然冒出。_
+* <span class="game-term">1 壓力：</span>複雜的情況，或不太好的機會。_「獵犬」以<span class="game-term">靈巧</span>將他的手槍藏到了牌桌附近的藏匿點，因此他可以在門哨搜完身後拿回槍枝。_
+* <span class="game-term">2 壓力：</span>一個涉及特別的機會或突發事件的精密行動。 _「低語者」已經<span class="game-term">研究</span>了該地的歷史，並且知道有個已知的幽魂在古老的運河碼頭附近徘徊——可以強迫他揭露隱藏金庫的位置。_
 
-* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. _The 「利刃」 _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
-* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span>_ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
-* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. _The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
+在支付了壓力費用後，追敘行動就像其他行動一樣處理。有時，它因為涉及到一些危險或麻煩，需要一個行動骰。有時，追敘會需要進行運氣骰，因為我們只需要狀況如何（或有多少、或多時間有多長等）。有時追敘根本不需要擲骰子，當你你支付壓力，就直接完成了。
 
-After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
+如果追敘牽涉一個**休整**活動，為此花費 1 <span class="game-term">錢幣</span>或 1 <span class="game-term">名望</span>，而非壓力。
 
-If a flashback involves a **downtime** activity, pay 1 <span class="game-term">錢幣</span> or 1 <span class="game-term">名望</span> for it, instead of stress.
+追敘最有用的地方就是**參案骰**出狀況的時候。在 GM 描述了遭遇到的麻煩後，你可以要求追敘你已經進行的特別準備，就是在堤防「這種事情」發生。這樣一來，你的「追敘計畫」會集中在那些 _發生_ 的問題上，而不是那些 _可能發生_ 的問題。
 
-One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that _do _happen, not the problems that _might_ happen.
+### 追敘的極限
 
-### Limits of flashbacks
+追敘不是時間旅行。它不能「撤回」剛剛發生的事。比如說，如果探長在你參加「女士」聚會時質問你最近發生的奧秘器物失竊案，你不能要求倒敘來暗殺前晚的探長。她現在就在這裡 審問你。這是虛構敘事中的既定事實。你 _可以_ 要求倒敘說你故意和探長套好，要求她在宴會上與你對質——這樣你可以利用這個機會，用你的機敏和大膽給「女士」留下深刻印象。
 
-A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You _can_ call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
+#### 追敘範例
 
-#### flashback examples
+> 「我想追敘那天晚上早些時候的情景，我潛入馬廄，給他們所有的山羊餵食火草，讓牠們發狂，為我們的潛入製造騷亂。」
+> 
+> 「哈！耐斯。好吧，這似乎有點棘手，對付狂暴的山羊和... 1個壓力。」
+> 
+> 「我應該擲來匿蹤來潛入餵食嗎？」
+> 
+> 「不用，他們的山羊就像小男孩一樣安全，反正平時都在睡覺。你可以輕鬆避開他們的注意。」
+> 
+> 「這麼說就直接成功了？」
+>
+> 「呃⋯⋯沒那麼快。你想製造干擾，我們來擲個運氣骰，看看火草羊戰術有多瘋狂。三顆骰子。」
+>
+> ---
+> 
+> 「參案骰擲出了⋯⋯ <span class="game-term">2</span> 。看來你的形勢是絕望的！哼嗯。好，所以你在碼頭那幫人的聚落裡，從陰影裡溜到巨大的金屬儲罐旁。但隨後，所有的燈都亮了。大金屬倉庫的門打開，你聽到一輛重馬車從大門進來。他們看起來正在交貨，另外一群人在外頭等著接貨。他們就要逮到你了。你要怎麼做？」
+> 
+> 「等下，我想追敘。」
+> 
+> 「好，追什麼？」
+> 
+> 「呃，一些⋯⋯幹，我不知道要追什麼。有人有想法嗎？
+>
+> 「哦，如果你昨天勾結你的碼頭朋友們，他們說出了這次交貨的事，所以我們裝上了炸彈。」
+> 
+> 「噢，這滿搞笑的。不過有點瘋狂。我猜 2 壓力吧？」
+> 
+> 「聽起來不錯。但讓我們擲個勾結吧，看你的碼頭朋友是否提出了什麼要求或更麻煩的東西。然後我們需要知道炸彈的效果怎樣。誰來搞定炸彈？」
+> 
+> 「我。我來擲擺弄來將引信設置得好好的。希望啦。」
 
-> “I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they’ll go berserk and create a distraction for our infiltration.”
+## 放棄案件
 
-> “Ha! Nice. Okay, that’s seems a bit tricky, dealing with ornery goats and all... 1 stress.”
+當你們放棄案件，進入**休整**。依循下個章節在休整提到的階段進行。你們通常都會是零**補償**，因為你們沒有完成任何事情。你們依然會如常面對<span class="game-term">追緝</span>和**糾纏**。
 
-> “Should I roll Prowl to sneak in and plant it?”
+# 團隊合作
 
-> “Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice.”
+## 團隊合作
 
-> “So it just works?”
+當 PC 們的團隊一起合作，角色可以使用四個特殊的**團隊戰術**。它們列在角色的遊玩書的底部，幫助提醒玩家。四個戰術是：
 
-> “Eh... not so fast. When you want the distraction to hit, let’s make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice.”
+* **協助**正在擲骰的另一個 PC。
+* 領導一次**團體行動**。
+* **保護**一名隊員。
+* **設定**會跟隨你的行動的一名角色。
 
-&emdash;
+### 協助
 
-> “The engagement roll is... a <span class="game-term">2</span>. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”
+當你協助另一個正在擲骰的玩家，描述你的角色如何幫忙。得到 1 壓力，並給他的擲骰 **+1d**。你也可能承受因為擲骰而來的後果，依情況而定。一次擲骰只有一個角色可以協助。_如果你真的想要幫助已經得到協助的人，考慮改為進行**設定**戰術。_
 
-> “Hang on, I want to have a flashback.”
+角色可以協助一次團體行動，但他不能是直接參與者。你決定在團隊行動中的哪個角色得到獎勵骰。
 
-> “Okay, for what?”
+### 領導團體行動
 
-> “Uh. Something... helpful? Damn, I don’t know what that would be. Anyone have ideas?”
+當你領導一次團體行動，你協調團隊的複數成員一起處理問題。描述你的角色如何努力協調以領導團隊。你吼出命令？輕輕比出手語？還是發揮了感召力？
 
-> “Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb.”
+每個參與的 PC 都進行一次**行動骰**（使用同一個行動）並**以團隊最高的單一結果**當成所有擲骰的人的努力總和。然而，領導團體行動的角色因為每個最高結果擲出 <span class="game-term">1-3</span> 的玩家得到 1 **壓力**。
 
-> “Oh man, that’s hilarious. But kind of nuts. I guess 2 stress for that?”
+> @ANCHOR - 到這裡
 
-> “Sounds good. But let’s make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?”
+> 這是「我們如何都潛入大樓」的場景。每個想潛入的人都要擲自己的<span class="game-term">匿蹤</span>行動，最好的結果算全隊的。領導的人要為每個做得不好的人承受壓力。為落後者掩護是辛苦的。
 
-> “I did it. I’ll roll Tinker to set the fuse just right. Hopefully.”
+**團體行動的結果會覆蓋所有擲骰的人。**如果你不擲骰，你的角色不會從行動得到效果。
 
-## Giving up on a score
-
-When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face <span class="game-term">追緝</span> and **entanglements** as usual.
-
-# Teamwork
-
-## Teamwork
-
-When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They’re listed at the bottom of the character 遊玩書 sheets to help remind the players of them. The four maneuvers are:
-
-* **Assist** another PC who’s rolling an action.
-* Lead a **group action**.
-* **Protect** a teammate.
-* **Set up** a character who will follow through on your action.
-
-### Assist
-
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll._ If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
-
-A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
-
-### Lead a group action
-
-When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
-
-Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled<span class="game-term"> 1-3</span> as their best result.
-
-> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
-
-**The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
-
-Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll <span class="game-term">命令</span> if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **品質** level.
+你的角色的該行動技能不必有特別好就能領導團體行動。這個戰術關乎領導者特性，而不是特定的能力。Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll <span class="game-term">命令</span> if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **品質** level.
 
 ### Protect
 
@@ -1802,9 +1826,9 @@ When you perform a setup action, you have an indirect effect on an obstacle. If 
 
 This is a good way to contribute to an operation when you don’t have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
 
-Since a setup action can increase the effect of follow-up actions, it’s also useful when the team is facing tough opposition that has advantages in quality, scale, and/or 效力. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
+Since a setup action can increase the effect of follow-up actions, it’s also useful when the team is facing tough opposition that has advantages in quality, scale, and/or 效力. Even if the PC 們are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
 
-> The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses <span class="game-term">破壞</span> as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
+> The PC 們are facing a heavily armored carriage that’s immune to their weapons. Aldo uses <span class="game-term">破壞</span> as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
 ## Do We Have to Use Teamwork?
 
@@ -1816,7 +1840,7 @@ After the crew finishes a score (succeed or fail), they take time to recover, re
 
 Downtime fulfills two purposes in the game:
 
-* First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
+* First, it’s a break for the players. During the action of the score, the PC 們are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
 * Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
 
 Downtime is divided into four parts, which are resolved in order:
@@ -1824,14 +1848,14 @@ Downtime is divided into four parts, which are resolved in order:
 		<li><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
 		<li><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
 		<li><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li><span class="game-term">Downtime Activities.</span> The PCs indulge their 惡習s to remove stress, work on long-term projects, recover from injuries, etc.
+		<li><span class="game-term">Downtime Activities.</span> The PC 們indulge their 惡習s to remove stress, work on long-term projects, recover from injuries, etc.
 	</ol>
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
 
 # Payoff
 
-After a score, the PCs take stock of their income from the operation. A successful score generates both <span class="game-term">名望</span> and <span class="game-term">錢幣</span>.
+After a score, the PC 們take stock of their income from the operation. A successful score generates both <span class="game-term">名望</span> and <span class="game-term">錢幣</span>.
 
 The crew earns 2 <span class="game-term">名望</span> per score by default. If the target of the score is higher 層級 than you, take **+1 **<span class="game-term">名望</span>** per 層級 higher**. If the target of the score is lower 層級, you get **-1 **<span class="game-term">名望</span>** per 層級 lower** (minimum zero).
 
@@ -1854,7 +1878,7 @@ Most districts have crime bosses that expect smaller crews to pay a tithe from t
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
-GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in _Blades_, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
+GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in _Blades_, the PC 們have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
 
 # Heat
 
@@ -1933,9 +1957,9 @@ After payoff and <span class="game-term">追緝</span> are determined, the GM ge
 
 Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their 惡習, then say the costables picked them up when they were distracted by its pleasures.
 
-Entanglements manifest fully before the PCs have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PCs deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
+Entanglements manifest fully before the PC 們have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PC 們deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
 
-The entanglements are detailed on the following pages. Each has a list of potential ways for the PCs to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
+The entanglements are detailed on the following pages. Each has a list of potential ways for the PC 們to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
 
 ## Arrest
 
@@ -1961,7 +1985,7 @@ One of your gangs (or other cohorts) causes trouble due to their flaw(s). You ca
 
 ## Interrogation
 
-The officers round up one of the PCs to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">錢幣</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">追緝</span>). You can **resist** each of those consequences separately.
+The officers round up one of the PC 們to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">錢幣</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">追緝</span>). You can **resist** each of those consequences separately.
 
 > Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
 
@@ -2120,10 +2144,10 @@ Along with your character’s heritage and background, their 惡習 tells us wha
 
 ## NPC &amp; faction downtime
 
-NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
+NPC 們and factions also do things when the PC 們have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
 * Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
-* Gather information on the PCs (may be opposed by a PC roll) or another subject.
+* Gather information on the PC 們(may be opposed by a PC roll) or another subject.
 * Achieve a short-term goal they’re in position to accomplish.
 * Acquire a new asset.
 * Call in a favor from another faction.
@@ -2145,7 +2169,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
 
-> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">關鍵</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
+> A sea demon summons a crushing wave at the canal dock where the PC 們are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">關鍵</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not _always_ additive.
 
