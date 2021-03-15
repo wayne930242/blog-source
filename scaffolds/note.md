@@ -1,8 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
-categories: note
+tags: 筆記
+categories: 哲學
 mathjax: true
 ---
 

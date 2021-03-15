@@ -20,10 +20,10 @@ anchorjs: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wayneh.tw
+# url: https://wayneh.tw
 # cdn-url: "https://wayneh.tw/img/"
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:name/
 permalink_defaults:
 
 # Directory
