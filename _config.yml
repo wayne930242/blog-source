@@ -19,9 +19,8 @@ archive:
 anchorjs: false
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: https://wayneh.tw
-# cdn-url: "https://wayneh.tw/img/"
+url: https://wayneh.tw
+cdn-url: https://wayneh.tw/img/
 root: /
 permalink: :year/:month/:day/:name/
 permalink_defaults:
@@ -82,28 +81,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-# Markdown-it config
-
-markdown:
-  render:
-    html: true
-    xhtmlOut: true
-    breaks: true
-    linkify: true
-    typographer: true
-    quotes: '“”‘’'
-  plugins:
-    - markdown-it-abbr
-    - markdown-it-footnote
-    - markdown-it-ins
-    - markdown-it-sub
-    - markdown-it-sup
-  anchors:
-    level: 2
-    collisionSuffix: 'v'
-    permalink: true
-    permalinkClass: header-anchor
-    permalinkSymbol: ¶
+pandoc:
+  # other options
+  filters:
+    - node_modules/hexo-pandoc-tippy/pandocFilter.py
+  extra:
+    - toc:
 
 theme: next
 

@@ -6,6 +6,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
+    "-": "0.0.1",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
@@ -13,9 +14,11 @@
     "braces": "^3.0.2",
     "eslint": "^7.28.0",
     "extglob": "^3.0.0",
+    "glob-parent": "^6.0.0",
     "hexo": "^5.4.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-fontawesome": "^2.2.1",
+    "hexo-fs": "^3.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
@@ -25,19 +28,19 @@
     "hexo-image-link": "0.0.3",
     "hexo-inject": "^1.0.0",
     "hexo-next-three": "github:next-theme/hexo-next-three",
+    "hexo-pandoc-tippy": "^0.4.4",
     "hexo-pdf": "^1.1.1",
     "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-pandoc": "^0.3.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
+    "hexo-util": "^2.5.0",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
-    "markdown-it": "^12.0.6",
-    "markdown-it-emoji": "^2.0.0",
-    "markdown-it-sub": "^1.0.0",
     "node": "^16.3.0",
     "rpg-awesome": "^0.2.0",
+    "s": "^1.0.0",
+    "tippy.js": "^6.3.1",
     "underscore": "^1.13.1"
   }
 }
