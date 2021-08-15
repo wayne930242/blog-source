@@ -18,7 +18,6 @@
     "hexo": "^5.4.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-fontawesome": "^2.2.1",
-    "hexo-fs": "^3.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
@@ -28,7 +27,6 @@
     "hexo-image-link": "0.0.3",
     "hexo-inject": "^1.0.0",
     "hexo-next-three": "github:next-theme/hexo-next-three",
-    "hexo-pandoc-tippy": "^0.4.4",
     "hexo-pdf": "^1.1.1",
     "hexo-renderer-ejs": "^1.0.0",
     "hexo-renderer-pandoc": "^0.3.0",
@@ -38,7 +36,6 @@
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
     "node": "^16.3.0",
-    "rpg-awesome": "^0.2.0",
     "s": "^1.0.0",
     "tippy.js": "^6.3.1",
     "underscore": "^1.13.1"

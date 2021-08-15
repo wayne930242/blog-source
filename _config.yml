@@ -83,8 +83,6 @@ pagination_dir: page
 
 pandoc:
   # other options
-  filters:
-    - node_modules/hexo-pandoc-tippy/pandocFilter.py
   extra:
     - toc:
 
