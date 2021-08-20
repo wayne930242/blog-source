@@ -36,9 +36,3 @@ _遊戲經營_ 則是建立遊戲所需的工作：帶出玩家的遊戲意識�
 
 > 下一篇：[一、TRPG 是怎樣的遊戲？](/2020/09/16/1-trpg-basic/)
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

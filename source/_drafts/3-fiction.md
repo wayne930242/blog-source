@@ -30,9 +30,3 @@ _**虛構敘事**_ 是 TRPG 的主要模式和觀點，我們先從這裡開始�
 
 > 下一篇：[四、順利進行虛構敘事(1)：故事意圖](/2020/09/18/4-fiction-2/)
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

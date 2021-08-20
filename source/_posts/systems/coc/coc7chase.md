@@ -98,9 +98,3 @@ tags:
 - 你可以先抽出 10 張牌，表示這是這次追逐最多的區位。意思是，只要這邊的牌用完就逃脫了。
 - 你可以先抽出 20 張牌，加入鬼牌，宣告這就是玩家要尋找的逃脫點。你可能想要先抽出 5 張，來確保角色不會一下子就離開。
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

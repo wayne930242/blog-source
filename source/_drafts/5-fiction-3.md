@@ -42,9 +42,3 @@ date: 2020-09-23 14:03:59
 
 > 下一篇：[六、如何理解機制？](/2020/09/24/6-mechanism-1/)
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

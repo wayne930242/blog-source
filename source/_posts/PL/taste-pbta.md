@@ -99,9 +99,3 @@ Move 就像是你按照你的意圖來建議一種劇情發展，無論成功或
 
 希望這篇文章能讓你們的團更加順利。
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

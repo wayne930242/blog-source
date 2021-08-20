@@ -34,9 +34,3 @@ _評價觀點_：玩家同時也是觀眾，他們除了創造自己的故事，
 
 > 下一篇：[二、良好的對話](/2020/09/16/2-good-conversaion/)
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)

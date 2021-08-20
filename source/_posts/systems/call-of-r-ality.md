@@ -174,9 +174,3 @@ tags:
 
 最後，避免邪教徒簡單地自我毀滅，別讓他們隨意地毀滅自己和世界，他們擁有一些人性的弱點，將他們綁在生命的牢籠中——貫徹瑞阿勒提的意志吧！
 
----
-
-如果你喜歡這篇文章，請不吝用實際行動支持我：
-
-* [<i class="fab fa-patreon"></i> 定期支持（patreon）](https://www.patreon.com/weihung)
-* [<i class="fab fa-paypal"></i> 單次支持（paypal）](https://www.paypal.com/pools/c/8jLP7Wsi80)
