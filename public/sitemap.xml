@@ -2,144 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wayneh.tw/2018/12/26/Fichte-UBI/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2019/07/18/Paradigm-shift/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/02/04/dogs-eat-logic/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2019/07/17/education/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/06/12/how-to-apologize/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2018/04/28/metaphysics-of-cthulhu-mythos/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2019/07/18/sisyphean-life/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/04/15/information-management-for-example/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/03/05/information-management/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/06/15/make-character-round/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/06/01/taste-pbta/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/12/18/intro-to-a-game/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2020/05/27/call-of-r-ality/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2021/01/06/coc7chase/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/2021/03/15/fate-condensed-2/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wayneh.tw/2021/06/15/fate-condensed-3/</loc>
     
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-12-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,16 +13,142 @@
   <url>
     <loc>https://wayneh.tw/2021/02/03/fate-condensed/</loc>
     
-    <lastmod>2021-08-15</lastmod>
+    <lastmod>2021-12-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wayneh.tw/2020/05/13/sound-of-silence/</loc>
+    <loc>https://wayneh.tw/2021/03/15/fate-condensed-2/</loc>
     
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/05/27/call-of-r-ality/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2021/01/06/coc7chase/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2019/07/18/sisyphean-life/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2018/04/28/metaphysics-of-cthulhu-mythos/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/02/04/dogs-eat-logic/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/06/12/how-to-apologize/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2019/07/17/education/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/06/01/taste-pbta/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2018/12/26/Fichte-UBI/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2019/07/18/Paradigm-shift/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/03/05/information-management/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/06/15/make-character-round/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/12/18/intro-to-a-game/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/04/15/information-management-for-example/</loc>
+    
+    <lastmod>2021-12-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +157,16 @@
   <url>
     <loc>https://wayneh.tw/2020/02/07/control-scene/</loc>
     
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/2020/05/13/sound-of-silence/</loc>
+    
+    <lastmod>2020-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -246,6 +246,13 @@
   </url>
   
   <url>
+    <loc>https://wayneh.tw/tags/%E9%82%8F%E8%BC%AF/</loc>
+    <lastmod>2021-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wayneh.tw/tags/GM%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2021-12-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -281,20 +288,6 @@
   </url>
   
   <url>
-    <loc>https://wayneh.tw/tags/%E8%AA%9E%E8%A9%9E%E8%AA%A4%E7%94%A8/</loc>
-    <lastmod>2021-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/tags/%E9%82%8F%E8%BC%AF/</loc>
-    <lastmod>2021-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wayneh.tw/tags/%E6%99%AE%E9%80%9A%E4%BA%BA/</loc>
     <lastmod>2021-12-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,6 +296,20 @@
   
   <url>
     <loc>https://wayneh.tw/tags/%E4%BA%9E%E9%87%8C%E6%96%AF%E5%A4%9A%E5%BE%B7/</loc>
+    <lastmod>2021-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/tags/%E8%AA%9E%E8%A9%9E%E8%AA%A4%E7%94%A8/</loc>
+    <lastmod>2021-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayneh.tw/tags/%E8%AA%9E%E8%A8%80%E5%93%B2%E5%AD%B8/</loc>
     <lastmod>2021-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -337,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://wayneh.tw/tags/%E8%AA%9E%E8%A8%80%E5%93%B2%E5%AD%B8/</loc>
+    <loc>https://wayneh.tw/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E7%BE%A9/</loc>
     <lastmod>2021-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -359,13 +366,6 @@
   
   <url>
     <loc>https://wayneh.tw/tags/%E5%BD%A2%E4%B8%8A%E5%AD%B8/</loc>
-    <lastmod>2021-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wayneh.tw/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E7%BE%A9/</loc>
     <lastmod>2021-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

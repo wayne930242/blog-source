@@ -123,7 +123,8 @@ menu:
   about: https://about.me/wayne930242 || fas fa-feather-alt
   哲學: /categories/philosophy/ || fas fa-coffee
   TRPG: /categories/TRPG/ || fas fa-dice-d20
-  archives: /archives/ || fas fa-archive
+  notes: https://notes.wayneh.tw || fas fa-book-dead 
+  #archives: /archives/ || fas fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
