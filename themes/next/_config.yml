@@ -98,14 +98,13 @@ creative_commons:
 
 # Schemes
 
-#scheme: Mist
-scheme: Pisces
-#scheme: Gemini
-#scheme: Muse
+# scheme: Mist
+# scheme: Pisces
+# scheme: Gemini
+scheme: Muse
 
 # Dark Mode
 darkmode: false
-
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -133,7 +132,7 @@ menu:
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
-  badges: false
+  badges: true
 
 
 # ---------------------------------------------------------------
