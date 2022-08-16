@@ -6,7 +6,7 @@
   <link href="https://wayneh.tw/atom.xml" rel="self"/>
   
   <link href="https://wayneh.tw/"/>
-  <updated>2022-07-24T17:38:49.260Z</updated>
+  <updated>2022-08-16T09:38:42.872Z</updated>
   <id>https://wayneh.tw/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何在 PbtA 中推動故事——談倒數鐘的使用</title>
+    <link href="https://wayneh.tw/2022/08/16/pbta-countdown/"/>
+    <id>https://wayneh.tw/2022/08/16/pbta-countdown/</id>
+    <published>2022-08-16T09:13:52.000Z</published>
+    <updated>2022-08-16T09:38:42.872Z</updated>
+    
+    <content type="html"><![CDATA[<img data-src="/img/pbta.jpg" class=""><p>這篇文章想要回答的是 <a href="https://www.plurk.com/p/oybgqp">Eagle 在噗浪上提出的問題</a>：</p><blockquote><p>我覺得在帶PbtA時，總是習慣在Move觸發、尤其是硬動作時，敘述當下我臨時想到最曲折、最能讓玩家大吃一驚的劇情轉折（例如角色背景中某個失蹤已久的重要他人突然出現、絕對不想看到的仇人半路殺出）。</p><p>當下確實效果跟畫面都很好、玩家都很快樂，但長期下來我卻覺得自己有點審美疲勞，太過依賴這種像是打了雞血一樣的刺激感，一次又一次讓劇情更加往灑狗血的方向邁進。也常常導致明顯的御都合主義或劇情分支太多；不少爆點跟衝突因為都是即興編的，要回收並解釋清楚也變得非常辛苦。</p><p>更重要的是，這讓我的故事缺乏較長期的情感鋪陳跟縝密的結構，NPC也都變得很工具性（因為隨時都可以調整設定才可以配合即興的劇情）、難以透過長期的操作塑造立體感。</p><p>[...]</p><p>舉個我之前某次帶城市之影團務的思考歷程，可能比較好理解：</p><p>玩家角色去盤查跟蹤他的可疑大叔，結果擲骰失敗，按規則我不能只是讓他盤查失敗，必須進行GM動作，也就是推進我自己要的劇情。但單純讓大叔暴怒、攤牌，我都覺得不有趣。</p><p>於是我當下立刻決定當玩家放棄刺探大叔、準備回自己車上時，發現自己車門被打開，東西被亂翻。</p><p>這是一個明明才離開沒多久，卻在光天化日下發生的詭異情況，說實在我自己當下都沒想到我要怎麼圓……</p><p>當玩家努力想搞清楚狀況時，我突然又想到，等等，這個世界觀有幽靈陣營啊？</p><p>然後我就開始描述玩家角色如何感覺到車內異常冰冷，後座的物件懸在空中然後又掉下去。</p><p>想到的點子是讓之前凶殺案的死者變成幽靈回來找他麻煩。至於大叔那邊，結合的方式是把設定改成幽靈先纏上大叔，要大叔帶他去找玩家角色，所以大叔才會跟蹤玩家角色、才會有那些奇怪的行為舉止。</p><p>這些思考全部都是當下臨時進行的，所有設定跟劇情也都是現場創作，所以才會導致噗首提到的那些問題。</p></blockquote><p>這篇文章要談的問題因此會十分深入，但很適合對 PbtA 有興趣的玩家和 GM 一起來思考。</p><span id="more"></span><h1 id="我的診斷">我的診斷</h1><p>Eagle 臨場反應非常快速，給出的故事轉折也很有趣。他提出的問題很深刻，也會很有趣，使得我們有機會回來好好思考 PbtA 的引擎核心。</p><p>問題出在哪裡？在我看來，在於兩點：</p><ol type="1"><li>故事的推動太快，導致故事弧線被快速拉高，但不斷拉高的過程缺乏進展過程，一下子就來到了高點。</li><li>同樣由於故事推動太快，但同時，因為動作的副作用無法估算，為了將瑣碎資訊轉換成伏筆，需要引入的後續描述和動作太多和太刻意。</li></ol><p>這兩點都不是 PbtA 直接指出的問題，它們不是原則或事程內容，但是，這樣的狀況卻可以用 PbtA 附贈的工具來解決，我說的就是：<strong>倒數鐘</strong>。</p><p>在我看來，只需要善用倒數鐘來輔助，回到 PbtA 的故事推動節奏、想正確的問題，就能夠解決 Eagle 擔心的問題。</p><h1 id="倒數鐘是什麼">倒數鐘是什麼？</h1><p>倒數鐘是進度的<strong>抽象</strong>度量工具，幾乎被記錄在所有的 PbtA 遊戲中。它除了威力強大，還暗示了一個核心概念，那就是：不要憑空飛出故事。</p><p>我的意思不是「故事不要留白」，或是「不要留下懸疑和伏筆」，而是更單純的：不要發生那種「我不知道為何會來到這裡，也不知道之後要去哪裡」的故事轉折——這不是鐵則，但當違反這概念，危險就在那裡。</p><p>進度鐘可以有 4 格、6 格、8 格等，越長的進度鐘，代表這件事情在發展到結束前會經歷越多階段，也代表這個事件有多複雜。</p><p>每當 GM 進行行動，考慮到該行動的推進程度，勾選一到三格的進度（看你覺得現在發展到哪了），然後將故事推動到到達的那個階段。（由於不需要解釋發展過程，這看起來就像是天外飛來故事，但不是！）</p><p>進度鐘並不違反「用玩得去發現」的原則，因為我們最多知道各階段的名稱（甚至只是待回答的問題，或是只是個格子什麼都沒有），而非事件的內容，我們還留下了非常多的問題，等著我們在遊戲中去臨時確定。</p><p>使用數個進度鐘紀錄重要角色動機、情節發展階段等，讓故事在進度鐘的推動中編織成複雜的圖景，它們互相影響，但又彼此獨立。這是 PbtA 的美好時刻之一。</p><h1 id="如何使用倒數鐘">如何使用倒數鐘？</h1><p>當你有了個事件發展的想法，先不要急著把它說出來。先想想兩個 PbtA 式的問題：「幕後正在發生什麼？」和「現在有什麼被決定了？」</p><p>一個有關的常見迷思是：誠然，GM 對 PC 行動的回應可以不需要有直接因果，然而，這並<strong>不代表 GM 的回應可以不建立在玩家的行動上</strong>。剛好相反，總是思考「玩家的行動決定了什麼」這個問題。更極端來說，當你在問「你們要做什麼」的時候，你心中真正在想的是接下來這句話「……讓我可以不需要決定我不想決定的事情」。</p><p>所以首先，讓故事建立在的行動上，看看這個行動的結果可以決定什麼問題的答案。然後再想想，事件要怎麼發展。</p><p>接著，當你有了事件發展的想法，也不要立刻說出那個事件，先習慣性地回頭<strong>想想幕後</strong>，然後判斷這個事件有多大。如果這個事件的發展是單次的、明膫的、沒有伏筆和單純有趣的，你就讓事件直接發展，就像是這是一個單格的倒數鐘。</p><p>但如果你希望讓這個事件帶來更強的世界聯繫，就考慮和倒數鐘互動。</p><p>首先考慮，這個事件是不是另一個更大事件圖景的一部分。如果舊的倒數鐘稍微擴張或是修改，就能滿足你的需要，那就修改倒數鐘——只要這不是前置所準備的，你可以自由修改而不違反誠信！</p><p>如果，你發現過去的倒數鐘不夠用，你可以考慮建立新的倒數鐘。這並不複雜，不需要在遊戲中把所有的階段全部命名，只需要寫下一個結局，譬如「長老死於黑手黨的暗殺」，然後想想可能有幾格，並在遊戲中慢慢去逐步建立過程。</p><p>當建立倒數鐘後，再看看你現在要將故事進行倒哪個階段，一樣問問自己：好，那我們現在決定了什麼？到了什麼階段？</p><h1 id="備註">備註</h1><p>有人問我，是不是帶團一定會寫下這些倒數中。不，不一定，除非你想把倒數鐘與玩家共享，否則倒數鐘是一種輔助工具，當你熟練以後，你不需要寫下它，你可以在腦中建立簡單的圖景，然後逐步推動就好。</p><p>共享倒數鐘也能帶來一些獨特的好處，像是透過機制來建立一些步步進逼的急迫感，要是玩家已經遇見了那個悲劇，有何不可呢？</p><p>最後，如果你想學習更多倒數鐘的用法，歡迎參考<a href="https://wayneh.tw/BitD/1-basic/04-index">《暗夜冷鋒》中的進度鐘章節</a>，那邊有更多種類的鐘可以使用。</p>]]></content>
+    
+    
+    <summary type="html">&lt;img data-src=&quot;/img/pbta.jpg&quot; class=&quot;&quot;&gt;
+&lt;p&gt;這篇文章想要回答的是 &lt;a href=&quot;https://www.plurk.com/p/oybgqp&quot;&gt;Eagle 在噗浪上提出的問題&lt;/a&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我覺得在帶PbtA時，總是習慣在Move觸發、尤其是硬動作時，敘述當下我臨時想到最曲折、最能讓玩家大吃一驚的劇情轉折（例如角色背景中某個失蹤已久的重要他人突然出現、絕對不想看到的仇人半路殺出）。&lt;/p&gt;
+&lt;p&gt;當下確實效果跟畫面都很好、玩家都很快樂，但長期下來我卻覺得自己有點審美疲勞，太過依賴這種像是打了雞血一樣的刺激感，一次又一次讓劇情更加往灑狗血的方向邁進。也常常導致明顯的御都合主義或劇情分支太多；不少爆點跟衝突因為都是即興編的，要回收並解釋清楚也變得非常辛苦。&lt;/p&gt;
+&lt;p&gt;更重要的是，這讓我的故事缺乏較長期的情感鋪陳跟縝密的結構，NPC也都變得很工具性（因為隨時都可以調整設定才可以配合即興的劇情）、難以透過長期的操作塑造立體感。&lt;/p&gt;
+&lt;p&gt;[...]&lt;/p&gt;
+&lt;p&gt;舉個我之前某次帶城市之影團務的思考歷程，可能比較好理解：&lt;/p&gt;
+&lt;p&gt;玩家角色去盤查跟蹤他的可疑大叔，結果擲骰失敗，按規則我不能只是讓他盤查失敗，必須進行GM動作，也就是推進我自己要的劇情。但單純讓大叔暴怒、攤牌，我都覺得不有趣。&lt;/p&gt;
+&lt;p&gt;於是我當下立刻決定當玩家放棄刺探大叔、準備回自己車上時，發現自己車門被打開，東西被亂翻。&lt;/p&gt;
+&lt;p&gt;這是一個明明才離開沒多久，卻在光天化日下發生的詭異情況，說實在我自己當下都沒想到我要怎麼圓……&lt;/p&gt;
+&lt;p&gt;當玩家努力想搞清楚狀況時，我突然又想到，等等，這個世界觀有幽靈陣營啊？&lt;/p&gt;
+&lt;p&gt;然後我就開始描述玩家角色如何感覺到車內異常冰冷，後座的物件懸在空中然後又掉下去。&lt;/p&gt;
+&lt;p&gt;想到的點子是讓之前凶殺案的死者變成幽靈回來找他麻煩。至於大叔那邊，結合的方式是把設定改成幽靈先纏上大叔，要大叔帶他去找玩家角色，所以大叔才會跟蹤玩家角色、才會有那些奇怪的行為舉止。&lt;/p&gt;
+&lt;p&gt;這些思考全部都是當下臨時進行的，所有設定跟劇情也都是現場創作，所以才會導致噗首提到的那些問題。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這篇文章要談的問題因此會十分深入，但很適合對 PbtA 有興趣的玩家和 GM 一起來思考。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="TRPG" scheme="https://wayneh.tw/categories/TRPG/"/>
+    
+    
+    <category term="GM" scheme="https://wayneh.tw/tags/GM/"/>
+    
+    <category term="PbtA" scheme="https://wayneh.tw/tags/PbtA/"/>
+    
+  </entry>
   
   <entry>
     <title>擲骰與不擲骰之間——扮演、擲骰與推進</title>
@@ -66,80 +105,6 @@
     
     
     <category term="規則" scheme="https://wayneh.tw/tags/%E8%A6%8F%E5%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>怎麼玩《命運濃縮版》(3)：核心規則</title>
-    <link href="https://wayneh.tw/2021/06/15/fate-condensed-3/"/>
-    <id>https://wayneh.tw/2021/06/15/fate-condensed-3/</id>
-    <published>2021-06-15T06:14:32.000Z</published>
-    <updated>2021-12-11T16:33:25.393Z</updated>
-    
-    <content type="html"><![CDATA[<img data-src="/img/Page-Header-Fate-Condensed.jpg" class=""><p>在<a href="/2021/03/15/fate-condensed-2/">遊戲與角色創造</a>完成後，我們就可以開始進行遊戲。</p><p>進行遊戲的方式，我將它稱之為核心規則，整個《命運》系統都以核心規則的邏輯在運作。</p><p>通常，除非你對新的數學很有信心，你不會去改變<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>。而除非你非常有經驗，不建議去更動命運點的流動規則。</p><span id="more"></span><h1 id="擲骰初步">擲骰初步</h1><h2 id="採取行動">採取行動</h2><p>在《命運》中的玩家描述角色的活動。有些活動，不只涉及角色的個人表現，也對故事發展有所影響，這時角色就正在採取行動。</p><p>當角色採取行動，玩家便需要擲骰。玩家總是優先考慮「他想要說怎樣的故事」，再來考慮「要擲什麼骰子」：<strong>故事優先於機制</strong>。</p><p>玩家可以採取的行動有四類：</p><ol type="1"><li><strong>克服</strong><span class="fate-font">O</span>：角色試圖克服阻礙，來達到某個目標。</li><li><strong>創造優勢</strong><span class="fate-font">C</span>：角色試圖做某件事，來讓他們可以更容易達到目標，可能是改變情況、或發現新資訊。</li><li><strong>攻擊</strong><span class="fate-font">A</span>：角色對其他角色造成傷害，無論是生理的還是心理的。</li><li><strong>防禦</strong><span class="fate-font">D</span>：角色對他人的<strong>攻擊</strong>傷害進行減免，或阻止對方的行動。</li></ol><h2 id="擲骰">擲骰</h2><p>當你採取行動，你的行動會因應一個<strong>技能</strong>。當你擲骰，你擲下四顆命運骰，將命運骰加總以後，加上你的<strong>技能值</strong>，便是這次的<strong>擲骰值</strong>。</p><blockquote><p><span class="fate-font">0</span> 代表 0</p><p><span class="fate-font">-</span> 代表 -1</p><p><span class="fate-font">+</span> 代表 +1</p></blockquote><h2 id="擲骰結果">擲骰結果</h2><p>每個擲骰都有一個對應的<strong>目標值</strong>，有時這個目標值是對手的擲骰值，有時這個目標值是一個給定的困難水平。</p><p>比較擲骰值與目標值，會有四種可能結果：</p><ol type="1"><li><strong>戲劇性成功</strong>：擲骰值超過目標值，但是相差大於或等於 3。你除了成功以外，還獲得小好處。</li><li><strong>成功</strong>：擲骰值超過目標值，但是相差小於或等於 2。你成功了。</li><li><strong>平手</strong>：擲骰值等於目標值。你部分成功，或是小代價地成功。</li><li><strong>失敗</strong>：擲骰值不到目標值。你失敗，或是帶有大代價地成功。</li></ol><p>在《命運》裡面，小好處、小代價、大代價如何衡量？<strong>創造優勢</strong> <span class="fate-font">C</span> 所創造的優勢，又是如何在機制上有影響？我們先介紹命運點和形象，最後再來總結。</p><h1 id="形象與命運點">形象與命運點</h1><p>《命運》用<strong>形象</strong>表達重要訊息。</p><p><strong>形象</strong>是潛在優劣勢的度量單位。但是，形象是中立的，<em>火災</em>的形象，可能代表對我有益的資訊，也可能代表於我有害的資訊。如果我希望形象在機制上對我有益，我便需要<strong>援引</strong>它。</p><p>所以一個形象在機制上對誰有益？誰<strong>援引</strong>就對誰有益。</p><h2 id="形象的來源與生命週期">形象的來源與生命週期</h2><p>在遊戲中，有幾種常見的形象來源：</p><ol type="1"><li><strong>遊戲形象</strong>：在創造遊戲時，我們就說好要有的形象，在整個遊戲都存在。如<em>黑死病正在蔓延</em>。</li><li><strong>角色形象</strong>與<strong>後果</strong>：角色卡上紀錄的形象，在角色在場時存在。如<em>暗影獵人</em>、<em>嚴重骨折</em>。</li><li><strong>局勢形象</strong>：透過<strong>創造優勢</strong><span class="fate-font">C</span>行動所建立的形象，只在場景上存在。如<em>火災</em>、<em>村長是狼人</em>、<em>跌倒在地</em>。</li><li><strong>推助</strong>：零碎的優勢，隨意命名或未命名的形象。只能有限地影響故事，短暫存在。</li></ol><p>每個形象都有它的生命週期。<strong>遊戲形象</strong>與<strong>後果</strong>會持續多個聚會，直到故事告一段落或後果得到治癒。<strong>角色形象</strong>會持續到角色退場。<strong>局勢形象</strong>通常最多維持一個場景。<strong>推助</strong>很快就會消失。</p><p>但無論如何，只要<strong>形象</strong>所依的事實消失了，形象也會不復存在。譬如，如果本來有<em>無人察覺</em>的形象，當角色觸發警鈴後，這個形象自然會消失。</p><h2 id="形象的援引">形象的援引</h2><p><strong>援引形象</strong>，如果不是免費的，便需要支付遊戲的故事貨幣，也就是<strong>命運點</strong>，給 GM。</p><p><strong>援引形象</strong>可以在任何時候進行，它可以：</p><ol type="1"><li><strong>影響故事</strong>：為故事增添符合形象的巧合或較不直接的細節。</li><li><strong>調整擲骰</strong>：根據形象來補述行動的細節與風格，讓剛進行的擲骰得到 +2 或重擲。</li><li><strong>敵對援引</strong>：援引對手<strong>形象</strong>來<strong>調整擲骰</strong>（在場景結束後，這點<strong>命運點</strong>要交給對方）。</li></ol><p>限制是，你不能在一次行動中，支付命運點來重複援引<strong>形象</strong>。</p><h2 id="免費援引">免費援引</h2><p>有些形象援引是免費的，常見的情況包括：</p><ol type="1"><li>你得到了<strong>推助</strong>。通常來說，推助沒辦法如上表的<strong>影響故事</strong>。</li><li>你成功地<strong>創造優勢</strong><span class="fate-font">C</span>。或是你失敗地<strong>創造優勢</strong> <span class="fate-font">C</span>，讓你的對手拿到了<strong>免費援引</strong>。</li><li>你的<strong>攻擊</strong><span class="fate-font">A</span>對對手造成了<strong>後果</strong>。或是你被造成<strong>後果</strong>，讓你的對手拿到。</li><li>GM 在場景開始前，就幫他的 NPC 先取得了免費援引。</li></ol><p><strong>免費援引</strong>用起來就像是<strong>命運點</strong>，只是限制更少：</p><ol type="1"><li>你可以在一次行動中，<strong>免費援引</strong>重複的<strong>形象</strong>。</li><li>你可以將<strong>免費援引</strong>讓給其他人。</li></ol><h2 id="獲得命運點的方法">獲得命運點的方法</h2><p>即便免費援引的好處很多，你可能還是會想要拿著<strong>命運點</strong>來應付不時之需。</p><p>一般來說，你透過<strong>強迫</strong>來取得命運點。</p><p><strong>強迫</strong>有兩種不同的形式：</p><ol type="1"><li><strong>事件性的強迫</strong>：因為某個你的<strong>形象</strong>，某個不樂見的事情發生在你身上。</li><li><strong>強迫選擇</strong>：因為某個你的<strong>形象</strong>，你做出了某個選擇，讓你陷入了麻煩。</li></ol><p>無論是哪一種，<strong>強迫</strong>都會讓你陷入麻煩。</p><p>強迫以獲得<strong>命運點</strong>，在遊戲中有三種進行方式：</p><ol type="1"><li>GM 主動強迫：GM 支付一點<strong>命運點</strong>給你，宣布一個<strong>強迫</strong>發生。如果同意，你就收下。如果不同意，那你就支付一點<strong>命運點</strong>來抵銷這次強迫，並且說明為什麼沒有發生。</li><li>追溯強迫：你突然發現自己陷入的某個困境其實來自於某個你的<strong>形象</strong>，你可以向 GM 要求追溯的<strong>命運點</strong>。</li><li>建議強迫：玩家可以支付一點<strong>命運點</strong>來提議對另一個玩家角色進行<strong>強迫</strong>，如果 GM 同意，GM 可以<strong>強迫</strong>他。</li></ol><h2 id="一些提示">一些提示</h2><p><strong>命運點</strong>與<strong>形象</strong>是《命運》的重要核心，在這裡有幾個遊玩上的提示。</p><ol type="1"><li><strong>為形象預留空間</strong>：當你描述時，不要把故事說得太滿，來為你往後可能的<strong>援引</strong>預留空間。</li><li><strong>多考慮形象</strong>：在《命運》裡面，通常你只需要去展現你的<strong>角色形象</strong>，你就能獲得好的遊玩樂趣。同時，場上的所有<strong>形象</strong>也會成為你們說故事的重要參考。<strong>形象</strong>是不可忽略的。</li><li><strong>故事是共有的</strong>：不妨拿出便條紙，將<strong>形象</strong>寫下來，讓所有人都能在狀況內。</li></ol><h1 id="擲骰總結">擲骰總結</h1><p>最後，我們來將擲骰規則總結補完。</p><p>我們回來看這四種結果：</p><ol type="1"><li><strong>戲劇性成功</strong>：你除了成功以外，還獲得小好處。</li><li><strong>成功</strong>：你成功了。</li><li><strong>平手</strong>：你部分成功，或是小代價地成功。</li><li><strong>失敗</strong>：你失敗，或是帶有大代價地成功。</li></ol><p>根據四種不同行動，這四種結果會有所不同。</p><h2 id="克服-o">克服 <span class="fate-font">O</span></h2><ol type="1"><li><strong>戲劇性成功</strong>：你除了成功以外，獲得<strong>推助</strong>。</li><li><strong>成功</strong>：你成功了。</li><li><strong>平手</strong>：你成功，但是故事的細節變得麻煩、敵人獲得<strong>推助</strong>、或受到<strong>壓力</strong>。或是，你失敗，但是獲得<strong>推助</strong>。</li><li><strong>失敗</strong>：你失敗。或是你成功，但是處境變得更糟而麻煩。</li></ol><p><strong>壓力</strong>是一個度量故事進行進度的工具。在《命運》裡面，我們不用生命值（HP）來度量角色狀態，而是用這個比較抽象的量尺。我們會在下一章介紹它的意義。</p><h2 id="創造優勢-c">創造優勢 <span class="fate-font">C</span></h2><p>創造優勢 <span class="fate-font">C</span> 有兩種不同的情況，一種是，你決定要創造一個新<strong>形象</strong>來改變局勢，並且創造它。</p><p>另一種是在既有<strong>形象</strong>上獲得<strong>免費援引</strong>。如果這個<strong>形象</strong>是未知的，你可以揭露它（譬如，村長的真實身分），表示你發現了新的資訊。</p><p>創造新形象：</p><ol type="1"><li><strong>戲劇性成功</strong>：你成功創造了<strong>形象</strong>，並獲得兩次<strong>免費援引</strong>。</li><li><strong>成功</strong>：你成功創造了<strong>形象</strong>，並獲得一次<strong>免費援引</strong>。</li><li><strong>平手</strong>：你無法創造<strong>形象</strong>，獲得<strong>推助</strong>。</li><li><strong>失敗</strong>：你無法創造<strong>形象</strong>。或是你創造了<strong>形象</strong>，但是敵人有<strong>免費援引</strong>。</li></ol><p>既有形象：</p><ol type="1"><li><strong>戲劇性成功</strong>：你在該<strong>形象</strong>上獲得兩次<strong>免費援引</strong>；如果它是未知的，敵人必須揭露它。</li><li><strong>成功</strong>：你在該<strong>形象</strong>上獲得一次<strong>免費援引</strong>；如果它是未知的，敵人必須揭露它。</li><li><strong>平手</strong>：如果<strong>形象</strong>是未知的，你獲得<strong>推助</strong>，但是<strong>形象</strong>並未揭露；如果是已知的，你獲得<strong>免費援引</strong>。</li><li><strong>失敗</strong>：如果<strong>形象</strong>是未知的，敵人可以揭露它來獲得<strong>免費援引</strong>；如果是已知的，敵人獲得<strong>免費援引</strong>。</li></ol><h2 id="攻擊-a">攻擊 <span class="fate-font">A</span></h2><p>如果你進行<strong>攻擊</strong>，對方會進行<strong>防禦</strong>，反之亦然。<strong>攻擊</strong>的擲骰值減去<strong>防禦</strong>的擲骰值，我們稱之為成功檔次。</p><ol type="1"><li><strong>戲劇性成功</strong>：你可以選擇減少 1 個成功檔次來換取一次<strong>推助</strong>。</li><li><strong>成功</strong>：你對對方造成等同成功檔次的<strong>壓力</strong>。</li><li><strong>平手</strong>：你只獲得<strong>推助</strong>。</li><li><strong>失敗</strong>：沒有對對方造成效果。</li></ol><h2 id="防禦-d">防禦 <span class="fate-font">D</span></h2><p>防禦是一個被動的行動，用來阻止對方進行他的行動，或是防止對方對你造成<strong>壓力</strong>。</p><ol type="1"><li><strong>戲劇性成功</strong>：除了成功以外，你還獲得<strong>推助</strong>。</li><li><strong>成功</strong>：你完全防禦了<span class="fate-font">A</span>，或阻止了對方的行動。</li><li><strong>平手</strong>：按照對方的行動平手結果來處理。</li><li><strong>失敗</strong>：事情按照對方的行動成功發生。</li></ol><hr /><p>Fate™ is a trademark of Evil Hat Productions, LLC.</p><p>The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.</p><section class="footnotes" role="doc-endnotes"><hr /><ol><li id="fn1" role="doc-endnote"><p>在《命運》中，我們使用四顆命運骰，骰子的分佈是 4d3-8。<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li></ol></section>]]></content>
-    
-    
-    <summary type="html">&lt;img data-src=&quot;/img/Page-Header-Fate-Condensed.jpg&quot; class=&quot;&quot;&gt;
-&lt;p&gt;在&lt;a href=&quot;/2021/03/15/fate-condensed-2/&quot;&gt;遊戲與角色創造&lt;/a&gt;完成後，我們就可以開始進行遊戲。&lt;/p&gt;
-&lt;p&gt;進行遊戲的方式，我將它稱之為核心規則，整個《命運》系統都以核心規則的邏輯在運作。&lt;/p&gt;
-&lt;p&gt;通常，除非你對新的數學很有信心，你不會去改變&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;。而除非你非常有經驗，不建議去更動命運點的流動規則。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="TRPG" scheme="https://wayneh.tw/categories/TRPG/"/>
-    
-    
-    <category term="規則" scheme="https://wayneh.tw/tags/%E8%A6%8F%E5%89%87/"/>
-    
-    <category term="Fate" scheme="https://wayneh.tw/tags/Fate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>怎麼玩《命運濃縮版》(2)：遊戲設定與角色創造</title>
-    <link href="https://wayneh.tw/2021/03/15/fate-condensed-2/"/>
-    <id>https://wayneh.tw/2021/03/15/fate-condensed-2/</id>
-    <published>2021-03-15T07:54:21.000Z</published>
-    <updated>2022-06-27T04:25:04.605Z</updated>
-    
-    <content type="html"><![CDATA[<img data-src="/img/Page-Header-Fate-Condensed.jpg" class=""><p>當你和朋友首次相聚在舒適安全的場合，或在網路上、正式開始遊戲前，我們首先會進行兩件事情：<strong>遊戲設定</strong>與<strong>角色創造</strong>。</p><span id="more"></span><h1 id="遊戲設定">遊戲設定</h1><p>在遊戲設定中，我們會先決定以下事項：</p><ul><li><strong>定義遊戲</strong>：決定故事背景以及風格。黑幫遊戲？啟示錄廢土？Cyberpunk？中古奇幻？</li><li><strong>決定調性</strong>：輕鬆的？嚴肅的？恐怖的？史詩的？</li></ul><p>讓每個人說說話，確定你們想玩的是同一個遊戲。直到你們都確定你們有共識了。你們可以討論的事情很多，端看你們希望你們保持對故事有多大的控制力。你們可以一起談談參考的電影、聽聽音樂、聊聊覺得怎樣的情節是有趣的。</p><p>我的建議是，即便這個階段結束了，也讓對遊戲的討論氛圍和步調能持續下去。將來有機會我們可以再來談談這個，但目前，只需要定義你們的遊戲和調性就好。</p><h1 id="角色創造">角色創造</h1><p>在角色扮演遊戲中，每個玩家都扮演一名玩家角色（PC）。玩家角色的創造依照下面步驟進行：</p><ul><li><ol type="1"><li>撰寫<strong>形象</strong></li></ol></li><li><ol start="2" type="1"><li>分配<strong>技能</strong></li></ol></li><li><ol start="3" type="1"><li>設計並挑選<strong>特技</strong>（同時也決定了<strong>重振點</strong>）</li></ol></li><li><ol start="4" type="1"><li>調整<strong>壓力軌</strong></li></ol></li><li><ol start="5" type="1"><li>收尾</li></ol></li></ul><h2 id="撰寫形象">1. 撰寫形象</h2><p>《命運》的角色創造從形象開始，形象是角色的核心，每個形象都是意義簡單而明確的短語，可以簡單地刻畫一個<strong>有故事意義</strong>的面向。（像<em>惡魔獵人</em>、<em>阿波羅女祭司</em>這樣的。）</p><p>如果沒有特別進行調整，每個角色開始時共有下面五個形象：</p><ul><li><strong>高概念</strong>：角色的總體概念，在故事中給人的核心印象。</li><li><strong>麻煩</strong>：一種讓角色生活變得複雜的概念，常見的包括個人弱點、家族糾葛或其他義務等等。</li><li><strong>關係</strong>：和另一個玩家角色的關係，代表了張力，在故事中，你和他有機會因此<strong>關係</strong>而發生衝突。</li><li>兩個<strong>自由形象</strong>：不管什麼有趣的、好玩的、可以強化角色和世界連結的概念都可以。</li></ul><p>如果你暫時想不到，不用擔心：</p><ul><li>除了<strong>高概念</strong>和<strong>麻煩</strong>，其他的我們都可以未來在增添。</li><li>讓朋友給你意見：拋出來和所有人討論吧。當你想到一個糢糊的想法，拋出來和大家說。</li><li>別太在意寫法，如果有更好的寫法，可以隨時換掉它。</li></ul><p>未來我們有機會更深地談如何撰寫形象，目前憑藉你的直覺來進行就可以。</p><h2 id="分配技能">2. 分配技能</h2><p>將所有技能以<em>四層</em>的<em>金字塔</em>來分配，並填在角色卡上：</p><ul><li>1 個優秀（+4）的技能</li><li>2 個良好（+3）的技能</li><li>3 個尚可（+2）的技能</li><li>4 個平均（+1）的技能</li><li>剩下的 9 個技能，是二流（0）的</li></ul><blockquote><p>像是「優秀（+4）」這樣的寫法，後面的數字代表技能的評級，前方的概念則代表了該數字的形容詞，這在《命運》中稱為「形容詞梯度」：</p><table><thead><tr class="header"><th>評級</th><th>形容詞</th></tr></thead><tbody><tr class="odd"><td>+8</td><td>傳奇</td></tr><tr class="even"><td>+7</td><td>史詩</td></tr><tr class="odd"><td>+6</td><td>驚異</td></tr><tr class="even"><td>+5</td><td>卓越</td></tr><tr class="odd"><td>+4</td><td>優秀</td></tr><tr class="even"><td>+3</td><td>良好</td></tr><tr class="odd"><td>+2</td><td>尚可</td></tr><tr class="even"><td>+1</td><td>平均</td></tr><tr class="odd"><td>0</td><td>二流</td></tr><tr class="even"><td>-1</td><td>貧弱</td></tr><tr class="odd"><td>-2</td><td>糟糕</td></tr><tr class="even"><td>-3</td><td>悲劇</td></tr><tr class="odd"><td>-4</td><td>駭人</td></tr></tbody></table></blockquote><h3 id="技能表">技能表</h3><p>《命運濃縮版》預設的技能已經涵蓋了大部分的遊玩情境，預設的 19 個技能如下：</p><table><thead><tr class="header"><th>技能</th><th>原文</th><th>說明</th><th>規則上的備註</th></tr></thead><tbody><tr class="odd"><td>學術</td><td>Academics</td><td>一般來說的世俗人類知識。</td><td>治療生理後果。</td></tr><tr class="even"><td>運動</td><td>Athletics</td><td>身體潛能。</td><td>移動。閃避攻擊。</td></tr><tr class="odd"><td>盜竊</td><td>Burglary</td><td>突破保全與偷竊的能力與知識。</td><td></td></tr><tr class="even"><td>人脈</td><td>Contacts</td><td>尋找能幫你的人的知識。</td><td>如果需要預定盟友，需要寫成特技。</td></tr><tr class="odd"><td>工藝</td><td>Crafts</td><td>操作、製造、修復、破壞、創造機器或人造物的能力。</td><td></td></tr><tr class="even"><td>欺瞞</td><td>Deceive</td><td>從容地哄騙、欺瞞他人的能力。</td><td></td></tr><tr class="odd"><td>駕駛</td><td>Drive</td><td>操作載具的能力。</td><td>使用載具移動。</td></tr><tr class="even"><td>共感</td><td>Empathy</td><td>對他人情感與心思的判斷力。</td><td>識破欺瞞、治療心理後果。</td></tr><tr class="odd"><td>格鬥</td><td>Fight</td><td>手持武器或赤手空拳戰鬥。</td><td>進行或防禦近戰攻擊。</td></tr><tr class="even"><td>調查</td><td>Investigate</td><td>思慮、分析、研究、拼湊謎團的能力。</td><td></td></tr><tr class="odd"><td>傳說</td><td>Lore</td><td>非正規知識，包括神秘學知識或實踐性的知識。</td><td></td></tr><tr class="even"><td>覺察</td><td>Notice</td><td>注意細節、看清細節、一般覺察的能力。</td><td></td></tr><tr class="odd"><td>體魄</td><td>Physique</td><td>力量、耐力等身體素質。</td><td>提供更多生理壓力軌。</td></tr><tr class="even"><td>煽動</td><td>Provoke</td><td>迫使、引誘、教唆、挑釁他人進行你想要的行動</td><td>心理上的攻擊。</td></tr><tr class="odd"><td>親善</td><td>Rapport</td><td>誠懇正面地與他人建立連結、合作的能力。</td><td></td></tr><tr class="even"><td>資源</td><td>Resources</td><td>獲得物質資源的能力。不管是借來的還是本來就有的。</td><td></td></tr><tr class="odd"><td>射擊</td><td>Shoot</td><td>用任何東西進行遠距攻擊的能力。</td><td>進行遠距攻擊。</td></tr><tr class="even"><td>潛匿</td><td>Stealth</td><td>隱藏以進行逃脫、穿越看守。</td><td></td></tr><tr class="odd"><td>意志</td><td>Will</td><td>心理素質，用來克服情緒、進行專注、面對創傷。</td><td>對煽動的防禦。提供更多心理壓力軌。</td></tr></tbody></table><h2 id="更改技能">更改技能</h2><p>在遊戲設定完以後，你可能發現技能表不符合你的世界觀和想玩的東西。如此一來，你可能想要調整你們的技能表。</p><p>最簡單的調整，就是更動技能的名字，但是保持它的功能：</p><ul><li>譬如，在廢土世界觀中，將「工藝」改成「打造（Tinker）」、將「資源」改成「拾荒」，稍微修改它們的「說明」欄位。</li></ul><p>或是刪除某個技能，增添一個不怎麼相關的：</p><ul><li>譬如，在一個陌生地域冒險的奇幻世界中，刪除「人脈」但增加「鍊金術」。</li></ul><p>這兩種修改的好處在於，它維持了 19 個技能，讓有數值的技能維持在 10/19 的比例。如果你會破壞技能表的技能數量，那你們可以考慮：</p><ul><li>更改上限：一般遊戲中，技能上限是優秀（+4），但如果你希望更嚴苛，可以降低到良好（+3）。當然你也可以提升到卓越（+5）。</li><li>不維持技能金字塔：預設是「4、3、2、1」你們可以將技能分配調成別的形狀，像是柱形「3、3、3、3」或是其他形狀。數值越高的技能愈多，角色會顯得越像是專家，越低的技能愈多，角色會越顯得像是通才。</li></ul><h2 id="設計特技">3. 設計特技</h2><p>技能提供了角色的基礎能力，但是毫無特色。我們現在要來設計<strong>特技</strong>，讓你的角色與眾不同。</p><p>一般來說，角色有三個<strong>特技</strong>，但至多可以有五個<strong>特技</strong>，但這不是沒有代價的（代價請見步驟 4）。</p><h3 id="特技的寫法">特技的寫法</h3><p><strong>特技</strong>分成兩大類：</p><ul><li><strong>給予推助的特技</strong>與</li><li><strong>改變規則的特技</strong>。</li></ul><h4 id="給予推助的的特技">給予推助的的特技</h4><p>這種特技讓你特別擅於進行某個行動。格式是：</p><blockquote><p>因為我[有多厲害多厲害或是有什麼超酷的設備]，我在[某個特定的情況下]，使用[一個技能]來進行[擇一：克服、創造優勢、攻擊、防禦]時得到 +2。</p></blockquote><p>範例：</p><blockquote><p>因為我是一個通過軍事訓練的狙擊手，我在當目標<em>在我的視線中</em>（一個形象）的時候，我以<strong>射擊</strong>進行<strong>攻擊</strong>便得到 +2。</p></blockquote><h4 id="改變規則的特技">改變規則的特技</h4><p>這種特技允許你變更規則。格式是：</p><blockquote><p>因為我[有多厲害多厲害或是有什麼超酷的設備]，我可以[展現一個很讚的專長]，但是[描述一個情境、限制（譬如每個聚會只能一次）或代價（例如額外支付命運點）]。</p></blockquote><p>改變規則的方式有以下幾種：</p><ul><li><strong>交換兩個技能</strong>：一個「神秘學研究者」特技，或許可以讓你在施展魔法儀式的時候使用<strong>學術</strong>而非<strong>傳說</strong>。</li><li><strong>讓一個技能做到它本來不能做的事</strong>：一個「刺客」特技或許可以讓你在陰影中使用<strong>隱匿</strong>來進行近戰<strong>攻擊</strong>。</li><li><strong>給角色差不多等同於一個 +2 推助的好處</strong>：一個「演說家」，或許可以在用<strong>親善</strong>演說來創造優勢時，得到額外的免費援引。</li><li><strong>允許角色宣稱一項次要的事實</strong>：一個「生存專家」或許可以讓你在遇到相關阻礙的時候拿出有用的生存道具。</li><li><strong>允許角色展現特殊的規則例外</strong>：一個「銅皮鐵骨」特技可能可以讓你有兩個額外的<strong>生理壓力格</strong>或一個<strong>輕微後果格</strong>。</li></ul><p>可以看到，撰寫特技需要一些對規則的理解。因此也是新手最難理解和上手的部分。別擔心，這是很正常的。我建議你先看完本系列的教學，最後再回來完成這個部分。</p><h2 id="重振點">4. 重振點</h2><p>每個角色有 3 點<strong>重振點</strong>。這決定了你在每次聚會時，手上最起碼會擁有的<strong>命運點</strong>數量。如果你在上次聚會結束時，擁有的<strong>命運點</strong>數量比這要多，那你不會拿到更多。但如果你在上次聚會結束時擁有的<strong>命運點</strong>比這更少，你可以補充到等同重振點的數量。</p><h2 id="調整壓力軌">5. 調整壓力軌</h2><p><strong>壓力</strong>和<strong>後果</strong>決定了角色承受攻擊的能力，無論是生理的還是心理的。</p><p>有兩個技能會影響到它們：<strong>生理壓力軌</strong>對應到<strong>體魄</strong>、<strong>心理壓力軌</strong>對應到意志。如下表：</p><table><thead><tr class="header"><th>體魄/意志</th><th>生理/心理壓力軌</th></tr></thead><tbody><tr class="odd"><td>平庸（+0）</td><td>[1][1][1]</td></tr><tr class="even"><td>平均（+1）或尚可（+2）</td><td>[1][1][1][1]</td></tr><tr class="odd"><td>良好（+3）或優秀（+4）</td><td>[1][1][1][1][1][1]</td></tr><tr class="even"><td>卓絕（+5）</td><td>[1][1][1][1][1][1] 以及一個額外的<strong>輕微後果格</strong></td></tr></tbody></table><h2 id="收尾">6. 收尾</h2><p>最後，決定角色的姓名、外貌描述和一般描述。不用太複雜，簡單明確就好。</p><p>然後和其他玩家一起討論彼此的關係。如果你還沒有決定<strong>關係形象</strong>，現在就可以來決定。</p><p>然後，就可以開始遊戲了。</p><hr /><p>Fate™ is a trademark of Evil Hat Productions, LLC.</p><p>The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.</p>]]></content>
-    
-    
-    <summary type="html">&lt;img data-src=&quot;/img/Page-Header-Fate-Condensed.jpg&quot; class=&quot;&quot;&gt;
-&lt;p&gt;當你和朋友首次相聚在舒適安全的場合，或在網路上、正式開始遊戲前，我們首先會進行兩件事情：&lt;strong&gt;遊戲設定&lt;/strong&gt;與&lt;strong&gt;角色創造&lt;/strong&gt;。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="TRPG" scheme="https://wayneh.tw/categories/TRPG/"/>
-    
-    
-    <category term="規則" scheme="https://wayneh.tw/tags/%E8%A6%8F%E5%89%87/"/>
-    
-    <category term="Fate" scheme="https://wayneh.tw/tags/Fate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>怎麼玩《命運濃縮版》(1)：基本介紹</title>
-    <link href="https://wayneh.tw/2021/02/03/fate-condensed-1/"/>
-    <id>https://wayneh.tw/2021/02/03/fate-condensed-1/</id>
-    <published>2021-02-03T06:46:40.000Z</published>
-    <updated>2022-06-27T04:39:08.274Z</updated>
-    
-    <content type="html"><![CDATA[<img data-src="/img/Page-Header-Fate-Condensed.jpg" class=""><p>《命運（Fate）》是一個泛用系統遊戲：也就是說，它能讓我們用來進行不拘類型、風格與題材的角色扮演遊戲。</p><span id="more"></span><p>2013 年，邪惡帽子（Evil Hat）出版了《命運核心版（Fate Core）》與《命運快速版（Fate Accelerated）》的 4.0 版本。而《命運濃縮版》出版於 2020 年。雖然是「濃縮版」，但並不是精簡的版本，應該定調成 4.5 版的《命運》。我認為比起其他版本，《命運濃縮版》是更靈巧與優雅的遊戲。</p><p>在這個系列中，將包括這些章節。除了包含必要規則外，也會加上一些教學段落：</p><ul><li><ol start="2" type="1"><li><a href="/2021/03/15/fate-condensed-2/">遊戲設定與角色創造</a></li></ol></li><li><ol start="3" type="1"><li><a href="/2021/06/15/fate-condensed-3/">核心規則</a></li></ol></li><li><ol start="4" type="1"><li>挑戰、競爭與衝突</li></ol></li><li><ol start="5" type="1"><li>特技</li></ol></li><li><ol start="6" type="1"><li>成長</li></ol></li><li><ol start="7" type="1"><li>可選規則</li></ol></li><li><ol start="8" type="1"><li>駭入命運</li></ol></li></ul><p>希望你看了這系列文章以後，可以直接開始遊玩。</p><h1 id="開始玩以前">開始玩以前</h1><p>你需要：</p><ol type="1"><li><strong>幾個朋友和一段不被打擾的時間</strong>。找好三、五個想一起說故事的人，約在輕鬆的晚上或下午。</li><li><strong>一組以上的命運骰</strong>。但是最好每人都有一組。命運骰是四顆的六面骰子，包含：2 面<span class="fate-font">0</span>、2 面<span class="fate-font">-</span>、2 面<span class="fate-font">+</span>。</li><li><strong>名片卡</strong>。你也可以用白板或是一張大張白紙，用來記錄遊戲中的「<strong>形象</strong>」（我們會在後面章節中說明這是什麼）。</li><li><strong>命運點指示物</strong>。若干代表「<strong>命運點</strong>」的指示物。不要是能吃的東西。</li><li>一些白紙，每人一隻鉛筆，橡皮擦。</li><li><strong>角色卡與規則小抄</strong>：可以在<a href="https://www.evilhat.com/home/fate-core-downloads/">官網</a>下載。</li></ol><p>下一篇文章，我們就來談該怎麼玩《命運濃縮版》吧。</p><h1 id="老手">老手</h1><p>如果你是《命運核心版》的老手，你或許會想知道它和核心版不同的地方：</p><ul><li>壓力格：改成單一壓力格，而非傳統壓力格。</li><li>先攻次序：不再使用技能高低決定先攻次序，而是改用「指定後繼者」的方式來決定先攻次序。</li><li>簡化的成長規則。</li><li>對抗規則的微調。</li><li>再釐清了創造優勢（以及形象）在遊戲中的效果。</li><li>「全防禦」改為可選規則，並增加了一些標準的可選規則。</li></ul><hr /><p>Fate™ is a trademark of Evil Hat Productions, LLC.</p><p>The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.</p>]]></content>
-    
-    
-    <summary type="html">&lt;img data-src=&quot;/img/Page-Header-Fate-Condensed.jpg&quot; class=&quot;&quot;&gt;
-&lt;p&gt;《命運（Fate）》是一個泛用系統遊戲：也就是說，它能讓我們用來進行不拘類型、風格與題材的角色扮演遊戲。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="TRPG" scheme="https://wayneh.tw/categories/TRPG/"/>
-    
-    
-    <category term="規則" scheme="https://wayneh.tw/tags/%E8%A6%8F%E5%89%87/"/>
-    
-    <category term="Fate" scheme="https://wayneh.tw/tags/Fate/"/>
     
   </entry>
   
@@ -554,6 +519,32 @@
     <category term="政治哲學" scheme="https://wayneh.tw/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%B8/"/>
     
     <category term="費希特" scheme="https://wayneh.tw/tags/%E8%B2%BB%E5%B8%8C%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>克蘇魯神話的形上學</title>
+    <link href="https://wayneh.tw/2018/04/28/metaphysics-of-cthulhu-mythos/"/>
+    <id>https://wayneh.tw/2018/04/28/metaphysics-of-cthulhu-mythos/</id>
+    <published>2018-04-28T06:52:24.000Z</published>
+    <updated>2021-12-11T16:33:25.389Z</updated>
+    
+    <content type="html"><![CDATA[<img data-src="/img/cthulhu.jpeg" class=""><p>克蘇魯神話（Cthulhu Mythos）是小說家洛夫克拉夫特（Howard Phillips Lovecraft，1890年8月20日至？？？，據說還活著）創造的神話世界觀的總稱，你或許從來沒聽過克蘇魯神話，但其實它深深地影響了我們這時代。異形、魔獸世界、大萌神長門有希、觸手 play 等，都有克蘇魯神話的影子。以克蘇魯神話為題材的遊戲也不少，例如渾沌元素（chaosium）出版的角色扮演遊戲《克蘇魯的呼喚》（Call of Cthulhu）。甚至有一種恐怖風格，就叫「洛夫克拉夫特式恐怖」。</p><span id="more"></span><p>「克蘇魯神話」命名自偉大的克蘇魯（Great Cthulhu），在系列神話設定中，祂來自廣漠宇宙，長眠在太平洋南方的海底。克蘇魯神話中有各種像克蘇魯這樣強大的神祉，祂們能夠無視自然定律，甚至有些還能支配自然定律。不同於一般宗教信仰的神祇，克蘇魯世界的神對人類的生活漠不關切，如果祂們的強大力量摧毀了地球，比起故意為之，還更可能只是因為不小心。就像你一邊上網一邊抖腳結果壓死了路過的螞蟻，你甚至根本不會注意到。克蘇魯神話強調，這種漠不關心才是神明真正的樣子（祂們才不會管同性能不能結婚什麼的）。</p><p>然而，這些神依然受到人崇拜，我們可以將這些人叫作「克蘇魯教徒」。克蘇魯教徒是真正意義下的邪教徒，他們失去了所有人性的可愛之處，為了召喚邪神，不惜採用活人獻祭之類的可怕手段。任何有人性與理智的人大概都會拒絕成為這樣的邪教徒。對吧？</p><p>對克蘇魯教徒來說，邪神存在的證據，在人類文明的進展中不斷被排擠，只留下難以解讀的斷簡殘篇與破碎事件，和一個又一個被輕輕推開的問題：被獵殺的女巫所施行的咒術是什麼？為什麼會有怪異巨石陣與超古代文明遺跡？教徒們相信，文明和科學並沒有幫助我們更了解世界，事實上完全相反：就是因為文明和科學的排擠和掩蓋，使得人類到今天還是不了解宇宙的恐怖真相。</p><p>如果你是正常人，你八成相信這些神秘東西的存在滿扯的。我同意。</p><p>因此，這篇文章並不是要主張說這些邪神真的存在、宇宙真的是如同克蘇魯神話描述的那般。我要討論的是，克蘇魯神話身為一種嚴肅的、具體的世界觀，在撇除小說中為了氣氛營造所需要的誇張情節和觸手後，有哪些核心特色，以及這些特色和哲學的關聯。</p><p>簡單地說，克蘇魯神話認為「關於世界的真正知識」注定無法成為人類知識的一部分。這不但是因為文明拒絕接受這些知識，也是因為我們的人性情感不願意接受這樣的世界。最根本的人類無知的原因，並不是文化意義上的，而是在於演化上的：人類的理智具有絕對的缺陷，使我們系統的、全面的解釋將徒勞無功。甚至只要稍微瞥見一眼宇宙的真實，就會立刻陷入瘋狂。洛夫克拉夫特如此斷言：宇宙的本質是恐怖的。</p><p>然而，「宇宙的本質是恐怖的」意謂著什麼？為何會瘋狂？如何理解克蘇魯教徒眼中的世界？克蘇魯神話，究竟是怎樣的形上學？</p><h2 id="形上學我們該如何理解世界">形上學：我們該如何理解世界</h2><p>形上學（Metaphysics）是哲學最古老的學問之一，形上學家核心的關懷，在於「我們應該如何理解『真正的』世界」。</p><p>之所以有「真正的」和「虛假的」的差別，是因為哲學家很早就認為，我們認識到的各種現象都是偶然的，甚至摻雜我們自以為是的想法，基於認知能力的限制，若不主動做些什麼，我們沒有辦法認識「真正的世界」。</p><p>舉例來說，我看過一隻叫作凱蒂的小貓，但是世界上還有許許多多的貓。我看到的這隻貓不同於其他所有的貓。當我想知道關於「貓」的事情，我就不能只知道凱蒂的事情，我還必須研究更多的貓。但是無論我看過再多的貓，我還是無法看過所有的貓，因為有些貓已經死去了、有些則還未出生。我如果要真正理解關於貓的事情，我因此不能只掌握偶然的貓的事（像是個別的長相、毛色、動作等），我必須要掌握更加必然的、不變的事（像是機制、品種、習性等），這才更接近真正世界的事。</p><p>因此，形上學家認為我們必須進行哲學思考和科學研究<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>，透過各種「認識方法」來理解這個世界。</p><p>在形上學家面對的問題中，最困難的，是關於「超越界」的問題：沒辦法用知覺、經驗和實驗來了解和發掘的領域。例如：上帝存在嗎？有靈魂嗎？大自然的存在有目的嗎？有「因果關係」嗎？</p><p>這些問題之所以難，是因為形上學家的答案會受到懷疑論者的高度檢驗：「你怎麼知道世界是你想的那個樣子呢？」在懷疑論者眼裡，如果你堅持世界的真實如你所說，但是又沒有辦法真的排除其它可能性，那麼，你的說法就是一種獨斷論：在沒有好理由支持的情況下選邊站。</p><h2 id="一個例子目的論-vs-機械論">一個例子：目的論 vs 機械論</h2><p>舉例來說，我是一個目的論者，我主張自然有目的。一顆種子長成一株植物，然後開花、結果，而後凋謝，我可以說，這顆種子之所以這樣做，是為了完成它的一生。同樣的道理，自然界的現象，是不是都能這樣思考呢？一顆石頭落下，可以理解成該物體主動地依循了物理的法則？</p><p>相對的，你可能是一個機械論者，你主張自然就是機械性地運轉著，這些自然原理只是我們歸納出來的經驗定律，不需要假設裡面的東西是為了達成什麼目的而依循這些原理。</p><p>不過面對我們的爭論，懷疑論者會認為兩邊一樣爛：兩邊都沒有決定性的證據支持。即便機械論者強調「目的」是不必要的設定，就算不假設目的，我們也能找出高度準確的自然定律，這代表了就算不解釋萬物運行的目的，還是有辦法解釋萬物的運行。這聽起來好像有道理，然而，如果目的論真的是對的，世界萬物的運行真的有目的可言，那麼這些目的顯然沒被自然定律解釋到。換句話說，除非機械論者先預設目的論是錯的，否則其實無法主張自己真的為世界提供了充足解釋。</p><p>這樣的問題會發生，就是因為關於「超越界」的知識，本質上就是儘管我們窮極認識能力，都還是會缺少決定性證據的信念。</p><h2 id="克蘇魯神話與大宇宙恐怖">克蘇魯神話與大宇宙恐怖</h2><p>對於這個超難的形上學問題，克蘇魯神話的答案很乾脆：我們無法回答關於超越界的問題，我們窮極一切理性能力都無法知道答案<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>。當然，很多理論都宣稱人類的理智有限，不提務實的科學理論，就算是支持上帝或靈魂存在的理論，也常常強調有些東西處於人的理解範圍之外：有些東西我們無法認識，因為我們的能力有限。</p><p>與這類懷疑論不同，克蘇魯形上學肯定人類有能力去認識宇宙真相洩漏出來的一些片段，只是我們的理智拒絕接受這些認知，在這裡，我們之所以無法理解世界，不是因為我們的知覺有限，而是理性出了問題。在這樣的觀點下，我們的科學知識不再具有「認識世界」的積極意義，只有「保護我們的認知當中還能接受的世界」的消極意義。</p><p>在決定「世界是如何」的問題上，我們遠比自己以為的還要倚賴道德感、美感和安全感。我們喜歡世界依照我們過去認知到的規律運行，我們習慣看到石頭落下，停在地上，這讓我們感到安心。若目擊石頭浮在空中，我們會開始這樣猜想：是不是有吊鋼索？是不是出現了誇張的上升氣流？我們會依照常識提出解釋，直到解消異象為止。如果做不到，我們可能會開始害怕。</p><p>克蘇魯神話認為，要是人放棄對安全的渴望、對理智與科學的信任，努力去整理世界上那些怪異的線索，那麼，人確實有可能認識到形上學家探尋的超越界，也就是世界的本質。然而，基於世界的本質恐怖得超越人能承受的範圍，只要瞥見真實的一角，就足以讓你驚叫、昏厥，甚至完全瘋狂，成為一般人眼裡的瘋子，甚至邪教徒。</p><p>這樣想起來，我們對超越界的無知，其實是一種幸運。</p><blockquote><p>在我看來，世上最仁慈之事莫過於人類無法將其所思所想全部連貫起來。我們生息之地如漆黑、無盡浩瀚中的一個平靜無知之島，然而，這並不意味著我們有遠航的必要。</p><footer><strong>洛夫克拉夫特</strong><cite>〈克蘇魯的呼喚〉</cite></footer></blockquote><p>如果我們願意相信，對無知的恐懼或許是一種徵兆，這種神秘的心理作用正在試圖保護我們，從我們這個物種在遠古曾遭遇過的悲慘中保護我們、從我們陷入瘋狂以前保護我們。當我們畏懼、我們逃離、拒絕聯繫起關於真相的線索，對我們來說，真是再好不過的。</p><p>總歸而言，克蘇魯神話形上學不只是一個懷疑論，還是一個具有正面意義的形上學主張。它不只說明我們為何是無知的，還說明了我們為何必須接受這樣的無知。在這形上學中，人類是渺小的、無足輕重的，面對自然也不再有任何的宰制地位。更多時候，我們該慶幸與感激的，是這個宇宙在無意間放了我們一條生路，讓我們可以作為「萬物之靈」安安穩穩地、有尊嚴地生活著。</p><h2 id="notes">Notes</h2><blockquote><p>本文首次刊登於鳴人堂<a href="https://opinion.udn.com/opinion/story/6685/2504703">烙哲學專欄</a>。</p></blockquote><section class="footnotes" role="doc-endnotes"><hr /><ol><li id="fn1" role="doc-endnote"><p>最早，在科學還未分科、科學方法還未走上實證道路的時候，科學與形上學是密不可分的學問。<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li><li id="fn2" role="doc-endnote"><p>這樣的主張其實不算極端，德國重要哲學家康德（Immanuel Kant）就採取類似的主張。<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li></ol></section>]]></content>
+    
+    
+    <summary type="html">&lt;img data-src=&quot;/img/cthulhu.jpeg&quot; class=&quot;&quot;&gt;
+&lt;p&gt;克蘇魯神話（Cthulhu Mythos）是小說家洛夫克拉夫特（Howard Phillips Lovecraft，1890年8月20日至？？？，據說還活著）創造的神話世界觀的總稱，你或許從來沒聽過克蘇魯神話，但其實它深深地影響了我們這時代。異形、魔獸世界、大萌神長門有希、觸手 play 等，都有克蘇魯神話的影子。以克蘇魯神話為題材的遊戲也不少，例如渾沌元素（chaosium）出版的角色扮演遊戲《克蘇魯的呼喚》（Call of Cthulhu）。甚至有一種恐怖風格，就叫「洛夫克拉夫特式恐怖」。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="philosophy" scheme="https://wayneh.tw/categories/philosophy/"/>
+    
+    
+    <category term="克蘇魯神話" scheme="https://wayneh.tw/tags/%E5%85%8B%E8%98%87%E9%AD%AF%E7%A5%9E%E8%A9%B1/"/>
+    
+    <category term="康德" scheme="https://wayneh.tw/tags/%E5%BA%B7%E5%BE%B7/"/>
+    
+    <category term="形上學" scheme="https://wayneh.tw/tags/%E5%BD%A2%E4%B8%8A%E5%AD%B8/"/>
     
   </entry>
   
