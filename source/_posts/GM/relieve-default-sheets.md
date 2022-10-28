@@ -10,7 +10,7 @@ tags:
 
 這次的 TPRG 解憂，想來討論來自「書記人偶茉莉」的這則提問：
 
-{% blockquote https://www.plurk.com/p/p1d3be TRPG解憂 %}
+{% blockquote TRPG解憂 https://www.plurk.com/p/p1d3be %}
 
 有點好奇洪偉對系統／ｇｍ提供預設角色卡的看法！
 
