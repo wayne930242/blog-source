@@ -8,7 +8,7 @@ tags:
 
 {% img /img/storytelling-4203628_1920.jpg %}
 
-這次的 TPRG 解憂，想來討論來自「書記人偶茉莉」的這則提問：
+這次的想來討論來自「書記人偶茉莉」的這則提問：
 
 {% blockquote TRPG解憂 https://www.plurk.com/p/p1d3be %}
 
