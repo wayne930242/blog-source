@@ -6,6 +6,8 @@ tags:
   - GM
 ---
 
+{% img /img/coc7.jpg %}
+
 這次想來討論來自「悠子」的這則提問：
 
 {% blockquote TRPG解憂 https://www.plurk.com/p/p1d3be %}
