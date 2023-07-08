@@ -4,7 +4,7 @@ tags:
   - 筆記
   - 形上學
   - 立基
-categories: 哲學
+categories: philosophy
 mathjax: true
 date: 2023-07-05 20:01:04
 ---

@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 tags: 筆記
-categories: 哲學
+categories: philosophy
 mathjax: true
 ---
 
