@@ -120,10 +120,10 @@ menu:
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
-  about: https://about.me/wayne930242 || fas fa-feather-alt
+  #about: https://about.me/wayne930242 || fas fa-feather-alt
   哲學: /categories/philosophy/ || fas fa-coffee
   TRPG: /categories/TRPG/ || fas fa-dice-d20
-  notes: https://notes.wayneh.tw || fas fa-book-dead 
+  #notes: https://notes.wayneh.tw || fas fa-book-dead 
   #archives: /archives/ || fas fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
@@ -212,7 +212,7 @@ links:
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
 toc:
-  enable: false
+  enable: true
   # Automatically add list number to toc.
   number: false
   # If true, all words will placed on next lines if header width longer then sidebar width.
@@ -348,14 +348,14 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: normal
+  highlight_theme: solarized dark
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
-    style:
+    style: mac
 
 back2top:
   enable: true
