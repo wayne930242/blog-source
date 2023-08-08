@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.2">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+  <link rel="mask-icon" href="/img/favicon/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="//fonts.loli.net/css?family=EB Garamond:300,300italic,400,400italic,700,700italic|Noto Sans TC:300,300italic,400,400italic,700,700italic|Noto Serif TC:300,300italic,400,400italic,700,700italic|Source Code Pro:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"wayneh.tw","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"disqus","storage":true,"lazyload":false,"nav":null,"activeClass":"disqus"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="這次想來討論來自「書記人偶茉莉」的這則提問： 有點好奇洪偉對系統／ｇｍ提供預設角色卡的看法！ 最近跑了不少偏重戰鬥的模擬向系統，覺得玩家是否在創角前就對戰鬥規則有一定的熟悉度，寫出適合的角卡，對遊戲體驗影響還滿大的（剛好這幾天跑了兩團，其中一團每個玩家都把規則讀得很透，另一團則是從創角到戰鬥都仰賴ｇｍ說明，角色應對挑戰時的可用資源跟戰鬥起來的流暢感很明顯有落差） 和朋友討論過後覺得，對於沒有時間">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TRPG 解憂：使用預設角色卡這件事">
+<meta property="og:url" content="https://wayneh.tw/2022/10/28/relieve-default-sheets/index.html">
+<meta property="og:site_name" content="偉恩與咖啡">
+<meta property="og:description" content="這次想來討論來自「書記人偶茉莉」的這則提問： 有點好奇洪偉對系統／ｇｍ提供預設角色卡的看法！ 最近跑了不少偏重戰鬥的模擬向系統，覺得玩家是否在創角前就對戰鬥規則有一定的熟悉度，寫出適合的角卡，對遊戲體驗影響還滿大的（剛好這幾天跑了兩團，其中一團每個玩家都把規則讀得很透，另一團則是從創角到戰鬥都仰賴ｇｍ說明，角色應對挑戰時的可用資源跟戰鬥起來的流暢感很明顯有落差） 和朋友討論過後覺得，對於沒有時間">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://wayneh.tw/img/storytelling-4203628_1920.jpg">
+<meta property="article:published_time" content="2022-10-28T11:26:22.000Z">
+<meta property="article:modified_time" content="2022-10-29T10:53:27.852Z">
+<meta property="article:author" content="洪偉 Wei Hung">
+<meta property="article:tag" content="GM">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://wayneh.tw/img/storytelling-4203628_1920.jpg">
+
+<link rel="canonical" href="https://wayneh.tw/2022/10/28/relieve-default-sheets/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-TW'
+  };
+</script>
+
+  <title>TRPG 解憂：使用預設角色卡這件事 | 偉恩與咖啡</title>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T616Y7T402"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-T616Y7T402');
+  </script>
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="偉恩與咖啡" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切換導航欄">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta custom-logo">
+      <div class="site-meta-headline">
+        <a>
+          <img class="custom-logo-image" src="/avatar.jpg" alt="偉恩與咖啡">
+        </a>
+      </div>
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">偉恩與咖啡</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">哲學、TRPG、雜談</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fas fa-home fa-fw"></i>首頁</a>
+
+  </li>
+        <li class="menu-item menu-item-哲學">
+
+    <a href="/categories/philosophy/" rel="section"><i class="fas fa-coffee fa-fw"></i>哲學</a>
+
+  </li>
+        <li class="menu-item menu-item-trpg">
+
+    <a href="/categories/TRPG/" rel="section"><i class="fas fa-dice-d20 fa-fw"></i>TRPG</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-TW">
+    <link itemprop="mainEntityOfPage" href="https://wayneh.tw/2022/10/28/relieve-default-sheets/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/logo.png">
+      <meta itemprop="name" content="洪偉 Wei Hung">
+      <meta itemprop="description" content="哲學普及與 TRPG 推廣。加上關於生活與社會的一些雜談。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="偉恩與咖啡">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          TRPG 解憂：使用預設角色卡這件事
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">發表於</span>
+
+              <time title="創建時間：2022-10-28 19:26:22" itemprop="dateCreated datePublished" datetime="2022-10-28T19:26:22+08:00">2022-10-28</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新於</span>
+                <time title="修改時間：2022-10-29 18:53:27" itemprop="dateModified" datetime="2022-10-29T18:53:27+08:00">2022-10-29</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分類於</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/TRPG/" itemprop="url" rel="index"><span itemprop="name">TRPG</span></a>
+                </span>
+            </span>
+
+          
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Disqus：</span>
+    
+    <a title="disqus" href="/2022/10/28/relieve-default-sheets/#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2022/10/28/relieve-default-sheets/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <img data-src="/img/storytelling-4203628_1920.jpg" class="">
+<p>這次想來討論來自「書記人偶茉莉」的這則提問：</p>
+<blockquote><p>有點好奇洪偉對系統／ｇｍ提供預設角色卡的看法！</p>
+<p>最近跑了不少偏重戰鬥的模擬向系統，覺得玩家是否在創角前就對戰鬥規則有一定的熟悉度，寫出適合的角卡，對遊戲體驗影響還滿大的（剛好這幾天跑了兩團，其中一團每個玩家都把規則讀得很透，另一團則是從創角到戰鬥都仰賴ｇｍ說明，角色應對挑戰時的可用資源跟戰鬥起來的流暢感很明顯有落差）</p>
+<p>和朋友討論過後覺得，對於沒有時間心力去把戰鬥系統讀透的玩家來說，直接使用官方角色卡能得到的體驗說不定比自己寫角卡要好（也不用怕寫出不能用的角色）</p>
+<p>比較常看到關於預設角卡的討論都會提到推廣會，但現在覺得朋友私下玩也可以考慮使用。</p>
+<p>有點好奇洪偉對這部分的看法！或是假如無論如何都不想用預設角卡的話，GM應該要建議／引導玩家進行優化配置嗎？（比如說日系COC模組很喜歡推薦玩家必選某些技能）</p>
+<footer><strong>TRPG解憂</strong><cite><a target="_blank" rel="noopener" href="https://www.plurk.com/p/p1d3be">www.plurk.com/p/p1d3be</a></cite></footer></blockquote>
+<span id="more"></span>
+<h1 id="我的想法">我的想法</h1>
+<p>首先，我認為「是否使用預設角色卡」本身其實是一個模糊的問題。所謂的「預設與否」並非是非黑即白的問題。在回答這問題以前，我們有必要釐清不同類型的「預設角色卡」和操作方式。</p>
+<p>以下是幾個我見過的例子：</p>
+<ol type="1">
+<li><strong>全預設角色卡</strong>：它完整地將角色的所有數據及背景都決定好。玩家只需要閱讀完角色卡並和 GM 確定細節後，最多讓玩家決定角色的名字以及性別，就能開始遊戲。</li>
+<li><strong>背景留白</strong>：填寫好數據但背景大部分留白的角色卡。玩家需要透過數據來了解角色的機制面，接著（或許以機制面為前提）來創作角色背景，就能開始遊戲。</li>
+<li><strong>數據部分留白</strong>：它已經幫玩家決定大部分背景，玩家只需要進行少量創作就能完善，大部分數據都已經填上，只有少量未決定的數據選項需要分配。</li>
+<li><strong>選項預設</strong>：在角色卡上已經預置好幾乎所有的選項，玩家在選項非常侷限的情況下來選擇角色數據與背景，然後就能開始遊戲。（如 PbtA 遊玩書。）</li>
+</ol>
+<p>也就是說，我們可以看到，「是否使用預設角色卡」的問題，背後其實還可以有許多考量以及處理的可能性。通常來說，使用預設角色卡與否，根據不同情況以及不同考量，可以有不同的作法。</p>
+<p>這裡可以如何思考？我舉兩個常見的使用「全預設角色卡」的情況當例子：</p>
+<p>第一種情況，是「權衡考量」：譬如臨時要跑團，含創角只有三小時的時間可以遊玩；或是，新手臨時找你幫忙帶團，你連規則講解和創角只有三到四個小時；或是，你和玩家並沒有想花那麼多時間來玩遊戲，你們可能估量了願意投入的時間後，發現使用預設角色卡是必須的選擇。在這樣的情況下，預設角色卡是遊戲成立的條件。</p>
+<p>或許有人想主張，玩家需要從創角開始遊玩才算是完整體驗了遊戲，但是，或許現實上，就是沒有時間完整體驗遊戲。我們需要一些取捨：只跑團不寫角色卡，和只寫角色卡不跑團，你選哪一個？</p>
+<p>第二種情況，則是「體驗所需」：如果預設角色卡更好地結合了遊戲目的，使用預設角色卡反而能夠提高遊戲體驗的品質。譬如綁定劇本故事的角色卡、GM 精心設計的符合故事的有趣角色。在這種情況下預設角色卡是為了更好的體驗而服務的。</p>
+<p>那麼，書記人偶茉莉提出的狀況又可以怎麼來思考呢？確實，如果遊戲強調了機制樂趣，遊戲的機制與配招又需要滿多時間理解，那如果讓熟悉規則的人先把角色卡的配招都先寫好，更有機會得到好的遊戲體驗。但如果想兼顧角色創作的樂趣、讓玩家能在創角時也能得到配招的樂趣，可以怎麼做呢？</p>
+<p>我的建議是：GM 可以先準備「數據大部分完成、但背景盡量留白的預設角色卡」作為<strong>樣板</strong>，也留下資源讓玩家分配。玩家在分配資源的同時，也能試著揣摩機制和配招的思考，在創作背景時也能保有創作角色的樂趣。這些角色卡即便到最後不是客觀上最強的，也因為 GM 提供的支援確保了機制上的可遊玩性。</p>
+<p>總結我對預設角色卡的想法，可以這樣說：<strong>弄清楚你們想要的遊玩體驗，並在合適的時間範圍內榨取更多的體驗與樂趣，在這樣的前提下將「預設角色卡」當成工具吧。</strong></p>
+
+    </div>
+
+    
+    
+    
+        
+
+  <div class="followme">
+    <p>歡迎關注我的其它發布渠道</p>
+
+    <div class="social-list">
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="https://twitter.com/wayne930242">
+            <span class="icon">
+              <i class="fab fa-twitter"></i>
+            </span>
+
+            <span class="label">Twitter</span>
+          </a>
+        </div>
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="https://www.plurk.com/wayne930242">
+            <span class="icon">
+              <i class="fas fa-parking"></i>
+            </span>
+
+            <span class="label">Plurk</span>
+          </a>
+        </div>
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+
+            <span class="label">RSS</span>
+          </a>
+        </div>
+    </div>
+  </div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/GM/" rel="tag"># GM</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2022/08/16/pbta-countdown/" rel="prev" title="如何在 PbtA 中推動故事——談倒數鐘的使用">
+      <i class="fa fa-chevron-left"></i> 如何在 PbtA 中推動故事——談倒數鐘的使用
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2022/10/29/relieve-simulative-vs-narrative/" rel="next" title="TRPG 解憂：什麼是模擬系統？什麼又是好的模擬系統？">
+      TRPG 解憂：什麼是模擬系統？什麼又是好的模擬系統？ <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目錄
+        </li>
+        <li class="sidebar-nav-overview">
+          本站概要
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%88%91%E7%9A%84%E6%83%B3%E6%B3%95"><span class="nav-text">我的想法</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="洪偉 Wei Hung"
+      src="/logo.png">
+  <p class="site-author-name" itemprop="name">洪偉 Wei Hung</p>
+  <div class="site-description" itemprop="description">哲學普及與 TRPG 推廣。加上關於生活與社會的一些雜談。</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives">
+          <span class="site-state-item-count">27</span>
+          <span class="site-state-item-name">文章</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分類</span>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">27</span>
+        <span class="site-state-item-name">標籤</span>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/wayne930242" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:wayne930242@gmail.com" title="E-Mail → mailto:wayne930242@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/wayne930242" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.facebook.com/wayne930242" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fab fa-facebook fa-fw"></i>FB Page</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.plurk.com/wayne930242" title="Plurk → https:&#x2F;&#x2F;www.plurk.com&#x2F;wayne930242" rel="noopener" target="_blank"><i class="fas fa-parking fa-fw"></i>Plurk</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fas fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">洪偉 Wei Hung</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> 強力驅動
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.querySelectorAll('.pdfobject-container').forEach(element => {
+  let url = element.dataset.target;
+  let pdfOpenParams = {
+    navpanes : 0,
+    toolbar  : 0,
+    statusbar: 0,
+    pagemode : 'thumbs',
+    view     : 'FitH'
+  };
+  let pdfOpenFragment = '#' + Object.entries(pdfOpenParams).map(([key, value]) => `${key}=${encodeURIComponent(value)}`).join('&');
+  let fullURL = `/lib/pdf/web/viewer.html?file=${encodeURIComponent(url)}${pdfOpenFragment}`;
+
+  if (NexT.utils.supportsPDFs()) {
+    element.innerHTML = `<embed class="pdfobject" src="${url + pdfOpenFragment}" type="application/pdf" style="height: ${element.dataset.height};">`;
+  } else {
+    element.innerHTML = `<iframe src="${fullURL}" style="height: ${element.dataset.height};" frameborder="0"></iframe>`;
+  }
+});
+</script>
+
+
+<script>
+if (document.querySelectorAll('pre.mermaid').length) {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js', () => {
+    mermaid.initialize({
+      theme    : 'forest',
+      logLevel : 3,
+      flowchart: { curve     : 'linear' },
+      gantt    : { axisFormat: '%m/%d/%Y' },
+      sequence : { actorMargin: 50 }
+    });
+  }, window.mermaid);
+}
+</script>
+
+
+  
+
+  
+
+  
+  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri === 'https://wayneh.tw/2022/10/28/relieve-default-sheets/',]
+      });
+      });
+  </script>
+
+<script>
+  function loadCount() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://waynehtw.disqus.com/count.js';
+    s.id = 'dsq-count-scr';
+    (d.head || d.body).appendChild(s);
+  }
+  // defer loading until the whole page loading is completed
+  window.addEventListener('load', loadCount, false);
+</script>
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://wayneh.tw/2022/10/28/relieve-default-sheets/";
+    this.page.identifier = "2022/10/28/relieve-default-sheets/";
+    this.page.title = "TRPG 解憂：使用預設角色卡這件事";
+    };
+  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
+    if (window.DISQUS) {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      });
+    } else {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://waynehtw.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', '' + +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+  });
+</script>
+
+</body>
+</html>

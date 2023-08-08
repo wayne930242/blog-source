@@ -3,7 +3,7 @@ Thumbs.db
 db.json
 *.log
 node_modules/
-public/
+
 .deploy*/
 .deploy_git
 source/_posts/.Ulysses-favorites.plist
